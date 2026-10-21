@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: resale-radar
+    env: docker
+    plan: free
+    region: oregon
+    healthCheckPath: /api/health
+    autoDeploy: true
+    envVars:
+      - key: PORT
+        value: 8000

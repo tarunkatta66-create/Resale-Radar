@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ResaleRadar — Used Electronics Fair Price Valuation</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700;12..96,800&family=IBM+Plex+Mono:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <div class="page-wrapper">
+    <!-- Header -->
+    <header class="app-header">
+      <div class="header-container">
+        <div class="logo-area">
+          <div class="tag-mark">RR</div>
+          <div>
+            <h1 class="brand-title">RESALE RADAR</h1>
+            <p class="brand-subtitle">Certified Appraisal Engine for Pre-Owned Smartphones &amp; Laptops</p>
+          </div>
+        </div>
+        <div class="header-badge">
+          <span class="status-dot"></span>
+          <span class="badge-text" id="engineStatus">ENGINE ACTIVE</span>
+        </div>
+      </div>
+    </header>
+
+    <!-- Main Content Grid -->
+    <main class="main-layout">
+      <!-- Left Column: Form Panel -->
+      <section class="panel form-panel">
+        <div class="tab-segment-wrapper">
+          <label class="section-label">SELECT DEVICE CATEGORY</label>
+          <div class="device-switch" role="tablist" aria-label="Device Type">
+            <button type="button" class="tab-btn active" id="tabSmartphone" role="tab" aria-selected="true" data-type="smartphone">
+              SMARTPHONE
+            </button>
+            <button type="button" class="tab-btn" id="tabLaptop" role="tab" aria-selected="false" data-type="laptop">
+              LAPTOP
+            </button>
+          </div>
+        </div>
+
+        <form id="valuationForm" class="specs-form" novalidate>
+          <div id="formLoadingState" class="form-loader">Loading options from pricing engine...</div>
+          <div id="formFieldsContainer" class="form-sections" style="display: none;">
+            <!-- Dynamic Form Fields will be inserted here -->
+          </div>
+
+          <div class="form-actions">
+            <button type="submit" id="submitBtn" class="btn-primary" disabled>
+              <span class="btn-text">CALCULATE RESALE VALUE</span>
+              <span class="btn-spinner" aria-hidden="true"></span>
+            </button>
+            <div id="formError" class="form-error-banner" role="alert" style="display: none;"></div>
+          </div>
+        </form>
+      </section>
+
+      <!-- Right Column: Appraisal Tag & Insights -->
+      <section class="panel result-panel">
+        <div class="tag-card-outer">
+          <!-- Punched Hole Eyelet -->
+          <div class="tag-eyelet" aria-hidden="true">
+            <div class="eyelet-hole"></div>
+            <div class="eyelet-string"></div>
+          </div>
+
+          <div class="tag-card" id="appraisalCard">
+            <!-- Empty State -->
+            <div id="emptyState" class="empty-state">
+              <div class="empty-tag-icon">TAG #000</div>
+              <h3 class="empty-title">Ready for Valuation</h3>
+              <p class="empty-desc">
+                Select specs on the counter, adjust condition sliders, and generate an instant ML-backed market estimate.
+              </p>
+            </div>
+
+            <!-- Loading Skeleton -->
+            <div id="loadingState" class="loading-skeleton" style="display: none;">
+              <div class="skeleton-pill"></div>
+              <div class="skeleton-number"></div>
+              <div class="skeleton-line"></div>
+              <div class="skeleton-line short"></div>
+            </div>
+
+            <!-- Active Result Content -->
+            <div id="resultContent" class="result-content" style="display: none;">
+              <div class="tag-meta-bar">
+                <span class="tag-serial" id="resSerial">TAG #RR-4291</span>
+                <span class="tag-depr-badge" id="resDeprBadge">− 0.0% VALUE</span>
+              </div>
+
+              <div class="price-display-box">
+                <span class="currency-symbol">₹</span>
+                <span class="price-value monospace" id="resEstimatedPrice">0</span>
+              </div>
+
+              <div class="price-range-strip">
+                <span class="range-label">Fair Trade Range:</span>
+                <span class="range-values monospace" id="resPriceRange">₹ 0 — ₹ 0</span>
+              </div>
+
+              <div class="drivers-box">
+                <h4 class="box-heading">KEY VALUE DRIVERS</h4>
+                <ul class="drivers-list" id="resTopFactors">
+                  <!-- Top 3 Factors -->
+                </ul>
+              </div>
+
+              <!-- Comparison Chart Card -->
+              <div class="chart-container-box">
+                <div class="chart-header">
+                  <h4 class="box-heading">MODEL PREDICTION SPREAD</h4>
+                  <span class="chart-sub">Linear vs Decision Tree vs Random Forest</span>
+                </div>
+                <div class="chart-wrapper">
+                  <canvas id="modelCompareChart" height="130"></canvas>
+                </div>
+              </div>
+
+              <p class="tag-disclaimer" id="resDisclaimer">
+                Estimate based on current used electronics market benchmarks in India.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- Bottom Analytics Section: Feature Importance & Performance Table -->
+    <section class="analytics-section">
+      <div class="analytics-grid">
+        <!-- Feature Importances -->
+        <div class="analytics-card">
+          <div class="analytics-header">
+            <h3 class="analytics-title">RANDOM FOREST FEATURE WEIGHTS</h3>
+            <span class="analytics-badge" id="rfDeviceBadge">SMARTPHONE ENGINE</span>
+          </div>
+          <p class="analytics-subtitle">Key architectural factors driving pre-owned price variance</p>
+          <div class="chart-wrapper">
+            <canvas id="importanceChart" height="190"></canvas>
+          </div>
+        </div>
+
+        <!-- Model Performance Benchmark Table -->
+        <div class="analytics-card">
+          <div class="analytics-header">
+            <h3 class="analytics-title">BENCHMARK PERFORMANCE</h3>
+            <span class="analytics-badge">80/20 TEST SPLIT</span>
+          </div>
+          <p class="analytics-subtitle">Evaluated on test holdout set with exact error metrics</p>
+          <div class="table-container">
+            <table class="benchmark-table" id="metricsTable">
+              <thead>
+                <tr>
+                  <th>Device</th>
+                  <th>Model</th>
+                  <th>MAE (₹)</th>
+                  <th>RMSE (₹)</th>
+                  <th>R² Score</th>
+                </tr>
+              </thead>
+              <tbody id="metricsTableBody">
+                <tr><td colspan="5" class="table-loading">Loading model benchmarks...</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <p class="table-footnote">
+            * Trained on calibrated synthetic datasets modeled after real-world Indian secondary market transaction patterns.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+      <div class="footer-container">
+        <p class="footer-legal">
+          ResaleRadar is an algorithmic valuation tool. Market values fluctuate based on physical scratches, battery cycle wear, regional demand, platform fees, and face-to-face negotiations.
+        </p>
+        <p class="footer-credit">Built with FastAPI &amp; Scikit-Learn • Pure Vanilla Frontend • No External Frameworks</p>
+      </div>
+    </footer>
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

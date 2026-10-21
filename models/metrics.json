@@ -1,0 +1,112 @@
+{
+  "smartphone": {
+    "models": {
+      "linear": {
+        "mae": 6539.28,
+        "rmse": 8321.35,
+        "r2": 0.9079
+      },
+      "tree": {
+        "mae": 3688.23,
+        "rmse": 6231.49,
+        "r2": 0.9483
+      },
+      "forest": {
+        "mae": 2559.12,
+        "rmse": 4159.78,
+        "r2": 0.977
+      }
+    },
+    "best_model": "forest",
+    "best_mae": 2559.12,
+    "feature_importances": [
+      {
+        "feature": "Original Price (INR)",
+        "importance": 0.6005
+      },
+      {
+        "feature": "Age (Months)",
+        "importance": 0.3713
+      },
+      {
+        "feature": "Condition: Poor",
+        "importance": 0.0085
+      },
+      {
+        "feature": "Brand: Apple",
+        "importance": 0.004
+      },
+      {
+        "feature": "Battery Health (%)",
+        "importance": 0.003
+      },
+      {
+        "feature": "Condition: Like New",
+        "importance": 0.0029
+      },
+      {
+        "feature": "Condition: Fair",
+        "importance": 0.0022
+      },
+      {
+        "feature": "RAM (GB)",
+        "importance": 0.0018
+      }
+    ]
+  },
+  "laptop": {
+    "models": {
+      "linear": {
+        "mae": 12291.44,
+        "rmse": 15553.42,
+        "r2": 0.9043
+      },
+      "tree": {
+        "mae": 7211.33,
+        "rmse": 10025.88,
+        "r2": 0.9602
+      },
+      "forest": {
+        "mae": 5257.65,
+        "rmse": 7712.9,
+        "r2": 0.9765
+      }
+    },
+    "best_model": "forest",
+    "best_mae": 5257.65,
+    "feature_importances": [
+      {
+        "feature": "Age (Months)",
+        "importance": 0.4829
+      },
+      {
+        "feature": "Original Price (INR)",
+        "importance": 0.4406
+      },
+      {
+        "feature": "Brand: Apple",
+        "importance": 0.0223
+      },
+      {
+        "feature": "CPU Tier: Apple M-series",
+        "importance": 0.0214
+      },
+      {
+        "feature": "Condition: Poor",
+        "importance": 0.0104
+      },
+      {
+        "feature": "Battery Health (%)",
+        "importance": 0.0062
+      },
+      {
+        "feature": "Condition: Like New",
+        "importance": 0.0027
+      },
+      {
+        "feature": "Condition: Fair",
+        "importance": 0.0024
+      }
+    ]
+  }
+}

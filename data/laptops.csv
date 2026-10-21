@@ -1,0 +1,2501 @@
+brand,original_price,age_months,condition,storage_gb,storage_type,ram_gb,cpu_tier,gpu_type,screen_size_in,battery_health_pct,resale_price
+Asus,142000,69,Poor,1024,SSD,16,Core i3/Ryzen 3,Dedicated,16.0,69,16900
+HP,67000,34,Good,1024,HDD,32,Core i3/Ryzen 3,Integrated,17.3,78,24600
+Asus,93000,40,Good,256,SSD,8,Core i5/Ryzen 5,Integrated,17.3,88,31000
+Lenovo,84000,66,Fair,256,HDD,8,Core i3/Ryzen 3,Dedicated,17.3,72,12700
+Apple,220000,13,Like New,1024,SSD,16,Apple M-series,Dedicated,13.3,94,209000
+MSI,224000,32,Poor,1024,SSD,8,Core i7/Ryzen 7,Dedicated,13.3,87,72600
+Asus,140000,40,Good,512,SSD,32,Core i5/Ryzen 5,Integrated,15.6,74,53900
+Asus,152000,34,Fair,512,SSD,8,Core i7/Ryzen 7,Integrated,14.0,89,56500
+Apple,234000,29,Poor,1024,SSD,32,Apple M-series,Integrated,14.0,89,116200
+HP,81000,60,Poor,2048,HDD,16,Core i5/Ryzen 5,Integrated,15.6,74,12100
+Dell,49000,15,Like New,256,HDD,8,Core i3/Ryzen 3,Integrated,16.0,98,31700
+Acer,129000,65,Good,2048,SSD,16,Core i3/Ryzen 3,Dedicated,16.0,69,22600
+Lenovo,193000,30,Like New,2048,HDD,16,Core i7/Ryzen 7,Dedicated,15.6,87,118200
+Asus,116000,48,Fair,256,HDD,32,Core i5/Ryzen 5,Integrated,16.0,78,26500
+HP,130000,15,Fair,512,SSD,4,Core i3/Ryzen 3,Dedicated,14.0,95,78200
+Dell,141000,42,Good,2048,SSD,16,Core i5/Ryzen 5,Integrated,17.3,75,62500
+HP,176000,64,Fair,512,SSD,16,Core i7/Ryzen 7,Dedicated,17.3,70,38200
+Apple,192000,15,Fair,2048,SSD,8,Apple M-series,Integrated,14.0,95,152200
+Asus,170000,58,Fair,1024,HDD,16,Core i7/Ryzen 7,Dedicated,17.3,84,38400
+Lenovo,43000,67,Good,512,HDD,4,Core i5/Ryzen 5,Integrated,17.3,76,7700
+Asus,154000,18,Like New,512,SSD,32,Core i7/Ryzen 7,Integrated,15.6,92,112500
+Dell,80000,33,Good,1024,SSD,8,Core i5/Ryzen 5,Integrated,15.6,83,37900
+MSI,228000,48,Good,1024,SSD,32,Core i7/Ryzen 7,Dedicated,16.0,86,79400
+Acer,84000,13,Fair,2048,HDD,4,Core i7/Ryzen 7,Integrated,16.0,95,47800
+Asus,176000,58,Good,256,SSD,32,Core i3/Ryzen 3,Dedicated,17.3,74,41800
+Apple,222000,53,Fair,2048,SSD,32,Apple M-series,Integrated,16.0,74,90900
+HP,188000,6,Good,512,SSD,4,Core i7/Ryzen 7,Dedicated,13.3,90,161100
+Apple,203000,1,Good,512,SSD,8,Apple M-series,Dedicated,14.0,99,192800
+Apple,199000,23,Fair,512,SSD,32,Apple M-series,Integrated,13.3,89,129700
+Lenovo,44000,43,Fair,256,HDD,8,Core i3/Ryzen 3,Integrated,15.6,81,11300
+Asus,210000,16,Fair,2048,SSD,16,Core i5/Ryzen 5,Dedicated,13.3,97,135500
+MSI,224000,36,Fair,256,SSD,32,Core i7/Ryzen 7,Dedicated,16.0,90,82300
+Dell,174000,58,Fair,2048,SSD,16,Core i3/Ryzen 3,Dedicated,15.6,78,43600
+Dell,135000,23,Good,256,HDD,16,Core i7/Ryzen 7,Integrated,15.6,91,73900
+HP,149000,58,Good,256,HDD,8,Core i7/Ryzen 7,Dedicated,14.0,75,32500
+Apple,204000,19,Good,1024,SSD,16,Apple M-series,Integrated,13.3,88,176300
+Apple,166000,50,Good,256,SSD,8,Apple M-series,Integrated,16.0,75,72900
+HP,160000,72,Good,1024,SSD,8,Core i7/Ryzen 7,Dedicated,14.0,70,28800
+Dell,140000,36,Good,2048,HDD,8,Core i7/Ryzen 7,Integrated,13.3,82,60200
+Lenovo,119000,12,Like New,256,HDD,32,Core i5/Ryzen 5,Integrated,17.3,97,84500
+HP,179000,32,Like New,1024,SSD,32,Core i5/Ryzen 5,Dedicated,14.0,90,105000
+Asus,147000,34,Good,1024,HDD,32,Core i7/Ryzen 7,Integrated,13.3,78,64200
+Lenovo,154000,50,Good,2048,SSD,4,Core i5/Ryzen 5,Dedicated,16.0,77,51800
+Dell,49000,32,Good,512,HDD,8,Core i3/Ryzen 3,Integrated,15.6,89,18800
+Asus,90000,28,Fair,512,HDD,32,Core i3/Ryzen 3,Integrated,16.0,94,32900
+Asus,131000,54,Good,512,HDD,32,Core i5/Ryzen 5,Integrated,13.3,76,28800
+HP,110000,30,Good,256,SSD,32,Core i5/Ryzen 5,Integrated,17.3,88,48300
+Dell,69000,9,Good,256,SSD,8,Core i3/Ryzen 3,Integrated,17.3,95,48700
+Lenovo,76000,40,Like New,256,SSD,4,Core i3/Ryzen 3,Integrated,14.0,77,27000
+Apple,206000,10,Good,256,SSD,16,Apple M-series,Integrated,16.0,100,195700
+Apple,189000,71,Good,256,SSD,32,Apple M-series,Integrated,14.0,72,59000
+Apple,169000,22,Poor,256,SSD,8,Apple M-series,Integrated,16.0,93,77000
+Asus,186000,9,Like New,2048,HDD,32,Core i7/Ryzen 7,Integrated,13.3,96,176700
+Lenovo,116000,63,Good,512,HDD,4,Core i5/Ryzen 5,Dedicated,16.0,72,21100
+Lenovo,69000,38,Fair,512,SSD,16,Core i3/Ryzen 3,Integrated,15.6,86,23200
+Asus,127000,66,Poor,2048,HDD,32,Core i5/Ryzen 5,Integrated,15.6,73,15000
+HP,128000,10,Fair,2048,SSD,32,Core i3/Ryzen 3,Integrated,13.3,99,94100
+Lenovo,39000,58,Good,256,HDD,4,Core i3/Ryzen 3,Integrated,16.0,72,7000
+Apple,217000,48,Fair,512,SSD,16,Apple M-series,Dedicated,14.0,75,93900
+Apple,205000,21,Good,2048,SSD,32,Apple M-series,Integrated,16.0,95,175900
+Lenovo,148000,37,Fair,2048,SSD,8,Core i3/Ryzen 3,Dedicated,17.3,83,56900
+HP,155000,8,Like New,512,HDD,32,Core i3/Ryzen 3,Dedicated,16.0,93,131800
+Lenovo,182000,57,Fair,1024,SSD,4,Core i7/Ryzen 7,Dedicated,16.0,79,42100
+Asus,126000,71,Good,256,HDD,8,Core i7/Ryzen 7,Integrated,17.3,67,15600
+Lenovo,113000,43,Good,2048,SSD,8,Core i3/Ryzen 3,Integrated,16.0,82,39300
+HP,141000,21,Good,1024,HDD,8,Core i5/Ryzen 5,Dedicated,15.6,87,80200
+HP,87000,42,Poor,512,HDD,16,Core i5/Ryzen 5,Integrated,13.3,83,17700
+Dell,98000,5,Good,2048,SSD,8,Core i5/Ryzen 5,Integrated,14.0,100,93100
+Apple,202000,14,Fair,256,SSD,32,Apple M-series,Integrated,14.0,92,151700
+HP,124000,34,Fair,2048,HDD,4,Core i5/Ryzen 5,Dedicated,13.3,95,49300
+Dell,146000,45,Good,2048,HDD,4,Core i7/Ryzen 7,Integrated,16.0,82,47700
+HP,163000,18,Good,512,HDD,32,Core i3/Ryzen 3,Dedicated,13.3,90,93500
+Asus,121000,2,Good,512,HDD,8,Core i3/Ryzen 3,Dedicated,14.0,100,100200
+Dell,114000,44,Fair,1024,SSD,4,Core i5/Ryzen 5,Integrated,13.3,91,33000
+Apple,215000,54,Poor,2048,SSD,32,Apple M-series,Integrated,13.3,79,67700
+Dell,143000,20,Good,512,SSD,32,Core i5/Ryzen 5,Integrated,17.3,91,92000
+Dell,143000,21,Good,256,HDD,32,Core i3/Ryzen 3,Dedicated,13.3,93,81800
+Lenovo,85000,28,Good,256,SSD,4,Core i5/Ryzen 5,Integrated,17.3,88,38500
+HP,125000,47,Good,2048,SSD,4,Core i7/Ryzen 7,Integrated,16.0,82,44100
+Asus,86000,45,Fair,1024,SSD,8,Core i3/Ryzen 3,Integrated,13.3,77,20800
+Lenovo,153000,42,Fair,1024,HDD,4,Core i7/Ryzen 7,Dedicated,13.3,83,47900
+HP,155000,20,Fair,1024,SSD,8,Core i7/Ryzen 7,Dedicated,13.3,92,98200
+Asus,143000,22,Like New,512,SSD,32,Core i7/Ryzen 7,Integrated,13.3,95,95400
+Apple,175000,34,Poor,256,SSD,16,Apple M-series,Integrated,13.3,81,68400
+Apple,162000,17,Like New,256,SSD,8,Apple M-series,Integrated,16.0,90,125300
+Apple,182000,52,Like New,512,SSD,8,Apple M-series,Integrated,13.3,74,83600
+Lenovo,177000,37,Good,256,SSD,16,Core i7/Ryzen 7,Dedicated,13.3,79,81000
+HP,166000,63,Like New,1024,SSD,32,Core i7/Ryzen 7,Integrated,13.3,71,41900
+Apple,200000,47,Good,1024,SSD,16,Apple M-series,Integrated,14.0,82,102200
+HP,147000,67,Like New,2048,HDD,8,Core i5/Ryzen 5,Dedicated,17.3,69,29900
+Apple,185000,70,Good,256,SSD,8,Apple M-series,Integrated,13.3,78,60700
+Lenovo,123000,39,Fair,2048,HDD,4,Core i7/Ryzen 7,Integrated,14.0,83,39800
+HP,149000,25,Like New,2048,HDD,32,Core i7/Ryzen 7,Integrated,16.0,86,95000
+HP,101000,18,Good,1024,SSD,4,Core i5/Ryzen 5,Integrated,13.3,95,63400
+Dell,60000,64,Fair,1024,HDD,16,Core i3/Ryzen 3,Integrated,17.3,76,10200
+Lenovo,94000,69,Fair,256,SSD,8,Core i5/Ryzen 5,Integrated,17.3,73,13300
+Dell,61000,12,Like New,512,HDD,8,Core i5/Ryzen 5,Integrated,15.6,92,40500
+Apple,203000,25,Poor,256,SSD,32,Apple M-series,Integrated,14.0,89,91600
+Apple,196000,40,Fair,256,SSD,32,Apple M-series,Integrated,16.0,88,98000
+MSI,236000,48,Good,256,SSD,32,Core i7/Ryzen 7,Dedicated,16.0,81,74000
+Acer,94000,31,Fair,1024,HDD,4,Core i7/Ryzen 7,Integrated,13.3,89,32100
+Lenovo,111000,70,Like New,512,SSD,4,Core i5/Ryzen 5,Dedicated,13.3,63,21400
+Dell,158000,72,Like New,512,SSD,8,Core i5/Ryzen 5,Dedicated,17.3,64,34400
+MSI,157000,39,Good,256,SSD,8,Core i5/Ryzen 5,Dedicated,17.3,88,58800
+Asus,169000,24,Fair,2048,SSD,32,Core i5/Ryzen 5,Integrated,13.3,92,86500
+Lenovo,80000,64,Poor,256,HDD,16,Core i3/Ryzen 3,Integrated,17.3,67,9400
+HP,54000,25,Good,256,HDD,4,Core i5/Ryzen 5,Integrated,14.0,90,23100
+Dell,66000,51,Fair,1024,SSD,8,Core i5/Ryzen 5,Integrated,17.3,77,17800
+Apple,198000,38,Good,2048,SSD,16,Apple M-series,Integrated,16.0,80,106900
+Acer,73000,13,Like New,1024,SSD,8,Core i3/Ryzen 3,Integrated,15.6,100,56600
+HP,92000,24,Good,256,HDD,16,Core i7/Ryzen 7,Integrated,14.0,91,48000
+Dell,96000,53,Poor,2048,HDD,4,Core i5/Ryzen 5,Integrated,17.3,78,18400
+Dell,189000,48,Fair,256,SSD,32,Core i5/Ryzen 5,Dedicated,14.0,83,56000
+Lenovo,120000,29,Like New,1024,HDD,32,Core i5/Ryzen 5,Integrated,15.6,91,64500
+Apple,219000,8,Like New,2048,SSD,32,Apple M-series,Integrated,16.0,97,208000
+Asus,166000,64,Fair,2048,HDD,16,Core i5/Ryzen 5,Dedicated,13.3,73,26200
+Asus,154000,37,Fair,256,HDD,32,Core i7/Ryzen 7,Integrated,15.6,80,47500
+Lenovo,133000,62,Good,2048,SSD,4,Core i7/Ryzen 7,Integrated,14.0,75,32400
+HP,200000,67,Poor,2048,SSD,32,Core i7/Ryzen 7,Dedicated,16.0,70,32900
+Lenovo,56000,24,Like New,512,HDD,32,Core i3/Ryzen 3,Integrated,15.6,91,32100
+Lenovo,184000,25,Fair,2048,SSD,4,Core i7/Ryzen 7,Dedicated,13.3,88,92900
+Lenovo,153000,3,Fair,256,HDD,16,Core i7/Ryzen 7,Dedicated,13.3,95,124600
+Apple,192000,33,Fair,2048,SSD,8,Apple M-series,Integrated,14.0,88,101900
+HP,86000,23,Good,512,HDD,8,Core i3/Ryzen 3,Dedicated,15.6,86,43500
+Apple,225000,32,Good,1024,SSD,16,Apple M-series,Dedicated,16.0,88,156500
+HP,156000,41,Fair,2048,HDD,4,Core i5/Ryzen 5,Dedicated,17.3,85,44500
+Dell,180000,44,Fair,2048,SSD,32,Core i7/Ryzen 7,Integrated,15.6,77,65500
+Apple,203000,44,Fair,2048,SSD,16,Apple M-series,Integrated,14.0,86,110300
+Apple,209000,21,Poor,512,SSD,16,Apple M-series,Integrated,14.0,94,117700
+Lenovo,123000,44,Fair,2048,HDD,32,Core i5/Ryzen 5,Integrated,17.3,82,42200
+Apple,197000,49,Poor,256,SSD,32,Apple M-series,Integrated,14.0,78,64100
+Acer,79000,46,Good,2048,SSD,4,Core i3/Ryzen 3,Integrated,13.3,84,18700
+Lenovo,151000,39,Good,256,HDD,4,Core i7/Ryzen 7,Dedicated,14.0,78,49100
+Dell,120000,34,Good,2048,SSD,8,Core i7/Ryzen 7,Integrated,17.3,89,59000
+Lenovo,127000,37,Fair,256,SSD,8,Core i7/Ryzen 7,Integrated,16.0,84,44300
+Apple,199000,71,Fair,256,SSD,16,Apple M-series,Integrated,13.3,74,52500
+MSI,160000,17,Good,256,SSD,8,Core i5/Ryzen 5,Dedicated,16.0,89,102500
+HP,162000,4,Like New,512,SSD,32,Core i3/Ryzen 3,Dedicated,14.0,100,153900
+Asus,220000,54,Fair,2048,SSD,32,Core i7/Ryzen 7,Integrated,17.3,79,54700
+Apple,216000,4,Like New,256,SSD,32,Apple M-series,Integrated,13.3,100,205200
+HP,116000,16,Good,1024,SSD,4,Core i3/Ryzen 3,Dedicated,17.3,92,74400
+HP,120000,24,Good,1024,SSD,8,Core i3/Ryzen 3,Dedicated,14.0,96,73600
+Acer,115000,70,Poor,512,SSD,16,Core i5/Ryzen 5,Dedicated,14.0,74,11600
+Lenovo,169000,49,Poor,2048,HDD,32,Core i5/Ryzen 5,Dedicated,14.0,86,39200
+HP,143000,5,Good,1024,SSD,8,Core i7/Ryzen 7,Dedicated,14.0,100,135800
+Dell,145000,13,Like New,2048,SSD,4,Core i7/Ryzen 7,Integrated,16.0,90,133300
+Dell,131000,16,Like New,512,HDD,32,Core i5/Ryzen 5,Integrated,17.3,96,97600
+HP,152000,5,Good,2048,SSD,16,Core i7/Ryzen 7,Integrated,15.6,99,144400
+HP,72000,10,Good,256,SSD,8,Core i3/Ryzen 3,Integrated,14.0,100,49600
+Apple,233000,67,Good,512,SSD,8,Apple M-series,Dedicated,16.0,74,89500
+Asus,150000,55,Poor,2048,SSD,8,Core i5/Ryzen 5,Integrated,15.6,87,28500
+Acer,115000,57,Fair,1024,SSD,8,Core i3/Ryzen 3,Dedicated,13.3,76,18600
+Apple,166000,31,Like New,1024,SSD,16,Apple M-series,Integrated,13.3,92,125800
+HP,59000,52,Poor,256,HDD,8,Core i5/Ryzen 5,Integrated,16.0,78,9100
+Apple,250000,53,Fair,2048,SSD,32,Apple M-series,Dedicated,14.0,83,114200
+Lenovo,159000,32,Good,2048,HDD,16,Core i5/Ryzen 5,Dedicated,13.3,81,84300
+Dell,114000,66,Poor,2048,HDD,16,Core i3/Ryzen 3,Integrated,14.0,71,14700
+Lenovo,142000,32,Good,2048,HDD,32,Core i5/Ryzen 5,Integrated,16.0,88,74900
+Lenovo,42000,64,Fair,512,HDD,4,Core i3/Ryzen 3,Integrated,17.3,74,5600
+Asus,80000,25,Like New,512,HDD,16,Core i3/Ryzen 3,Integrated,14.0,92,36000
+Apple,192000,31,Good,512,SSD,16,Apple M-series,Integrated,13.3,87,124100
+Acer,137000,48,Fair,1024,SSD,8,Core i7/Ryzen 7,Dedicated,17.3,82,37200
+Dell,152000,36,Good,2048,HDD,4,Core i7/Ryzen 7,Dedicated,16.0,82,65500
+Apple,241000,10,Like New,1024,SSD,32,Apple M-series,Dedicated,14.0,93,229000
+HP,140000,41,Fair,256,SSD,32,Core i3/Ryzen 3,Dedicated,13.3,85,44800
+Dell,81000,23,Good,256,SSD,8,Core i3/Ryzen 3,Integrated,13.3,92,40400
+Asus,129000,41,Fair,2048,HDD,8,Core i5/Ryzen 5,Integrated,17.3,84,36900
+Asus,177000,50,Fair,512,SSD,8,Core i7/Ryzen 7,Dedicated,13.3,79,44600
+Dell,77000,20,Good,1024,HDD,8,Core i5/Ryzen 5,Integrated,14.0,85,47800
+MSI,229000,6,Like New,1024,SSD,16,Core i7/Ryzen 7,Dedicated,15.6,100,217600
+Dell,141000,6,Good,512,SSD,8,Core i5/Ryzen 5,Dedicated,16.0,97,131700
+HP,70000,68,Fair,256,HDD,4,Core i5/Ryzen 5,Integrated,14.0,71,9000
+Dell,175000,2,Good,256,SSD,32,Core i5/Ryzen 5,Dedicated,15.6,100,166200
+Acer,89000,12,Like New,1024,SSD,16,Core i5/Ryzen 5,Integrated,14.0,96,71200
+Apple,165000,47,Poor,256,SSD,16,Apple M-series,Integrated,13.3,80,49900
+Apple,213000,66,Poor,2048,SSD,16,Apple M-series,Integrated,14.0,66,53700
+HP,84000,67,Fair,2048,HDD,4,Core i5/Ryzen 5,Integrated,17.3,69,12300
+MSI,240000,3,Like New,2048,SSD,32,Core i7/Ryzen 7,Dedicated,16.0,98,228000
+Acer,99000,7,Good,2048,HDD,16,Core i5/Ryzen 5,Integrated,16.0,97,87300
+Asus,191000,40,Fair,256,SSD,16,Core i7/Ryzen 7,Dedicated,15.6,82,68700
+Acer,81000,13,Like New,2048,SSD,8,Core i5/Ryzen 5,Integrated,15.6,94,69500
+Acer,78000,47,Fair,1024,SSD,8,Core i5/Ryzen 5,Integrated,17.3,75,17500
+HP,70000,30,Like New,256,HDD,8,Core i5/Ryzen 5,Integrated,14.0,91,31300
+Dell,77000,24,Fair,512,HDD,4,Core i5/Ryzen 5,Integrated,16.0,85,29900
+Asus,124000,9,Poor,512,SSD,16,Core i3/Ryzen 3,Dedicated,17.3,89,71700
+Lenovo,46000,10,Like New,256,HDD,4,Core i3/Ryzen 3,Integrated,14.0,94,27800
+Dell,140000,46,Fair,1024,SSD,8,Core i7/Ryzen 7,Integrated,13.3,82,45500
+Apple,201000,47,Fair,1024,SSD,32,Apple M-series,Integrated,13.3,76,86800
+Asus,30000,16,Good,256,HDD,16,Core i3/Ryzen 3,Integrated,15.6,96,15400
+Dell,145000,61,Like New,2048,SSD,32,Core i3/Ryzen 3,Integrated,17.3,68,36300
+Acer,40000,20,Good,1024,HDD,8,Core i3/Ryzen 3,Integrated,14.0,97,18700
+Dell,67000,18,Like New,256,HDD,4,Core i5/Ryzen 5,Integrated,15.6,93,39100
+Apple,199000,47,Good,1024,SSD,16,Apple M-series,Integrated,13.3,84,92100
+Asus,95000,53,Fair,2048,HDD,8,Core i3/Ryzen 3,Integrated,13.3,82,18400
+Apple,250000,37,Fair,1024,SSD,32,Apple M-series,Dedicated,14.0,85,140100
+Apple,202000,65,Good,512,SSD,16,Apple M-series,Integrated,16.0,72,66400
+Lenovo,84000,6,Good,1024,HDD,8,Core i5/Ryzen 5,Integrated,14.0,94,62800
+Acer,140000,23,Fair,1024,SSD,8,Core i7/Ryzen 7,Dedicated,17.3,89,69600
+Apple,198000,16,Good,1024,SSD,32,Apple M-series,Integrated,16.0,94,188100
+Dell,112000,44,Like New,2048,HDD,32,Core i3/Ryzen 3,Integrated,13.3,85,41300
+Asus,107000,13,Good,512,SSD,16,Core i5/Ryzen 5,Integrated,15.6,96,75000
+MSI,183000,67,Good,1024,SSD,16,Core i5/Ryzen 5,Dedicated,17.3,69,33500
+HP,126000,61,Fair,2048,SSD,16,Core i5/Ryzen 5,Integrated,15.6,78,29400
+Apple,197000,32,Fair,1024,SSD,16,Apple M-series,Integrated,16.0,91,115200
+Apple,205000,36,Poor,2048,SSD,16,Apple M-series,Integrated,16.0,91,89700
+Dell,73000,26,Good,512,HDD,16,Core i5/Ryzen 5,Integrated,16.0,86,34300
+Apple,250000,31,Good,1024,SSD,32,Apple M-series,Dedicated,16.0,85,194300
+Lenovo,190000,4,Like New,1024,HDD,32,Core i7/Ryzen 7,Dedicated,17.3,98,180500
+Apple,221000,52,Fair,256,SSD,16,Apple M-series,Dedicated,16.0,77,86100
+HP,75000,19,Good,512,SSD,16,Core i3/Ryzen 3,Integrated,15.6,94,47100
+Lenovo,176000,1,Like New,1024,SSD,16,Core i5/Ryzen 5,Dedicated,13.3,97,167200
+Lenovo,141000,29,Good,2048,SSD,16,Core i5/Ryzen 5,Dedicated,14.0,87,83800
+Apple,150000,19,Good,512,SSD,16,Apple M-series,Integrated,16.0,90,124900
+Asus,188000,56,Fair,2048,HDD,32,Core i3/Ryzen 3,Dedicated,16.0,73,38700
+Lenovo,85000,69,Fair,1024,HDD,32,Core i3/Ryzen 3,Integrated,13.3,73,13300
+Lenovo,141000,8,Like New,2048,HDD,32,Core i5/Ryzen 5,Integrated,14.0,94,129800
+Apple,221000,45,Good,256,SSD,32,Apple M-series,Integrated,13.3,81,110200
+Apple,176000,15,Like New,512,SSD,16,Apple M-series,Integrated,16.0,98,163100
+Acer,99000,6,Like New,1024,SSD,4,Core i3/Ryzen 3,Dedicated,14.0,100,94000
+HP,154000,63,Good,256,SSD,32,Core i5/Ryzen 5,Dedicated,15.6,75,33400
+Dell,140000,56,Poor,1024,SSD,8,Core i7/Ryzen 7,Integrated,14.0,76,26100
+HP,106000,60,Good,2048,HDD,16,Core i5/Ryzen 5,Integrated,17.3,83,22000
+Lenovo,94000,58,Fair,256,SSD,32,Core i3/Ryzen 3,Integrated,16.0,73,20300
+MSI,196000,37,Poor,2048,SSD,8,Core i7/Ryzen 7,Dedicated,13.3,87,59300
+Dell,182000,24,Fair,1024,SSD,8,Core i7/Ryzen 7,Dedicated,17.3,94,106400
+Acer,93000,7,Like New,512,HDD,16,Core i5/Ryzen 5,Dedicated,15.6,99,76100
+Apple,194000,71,Good,2048,SSD,8,Apple M-series,Integrated,14.0,80,63500
+HP,118000,65,Good,2048,HDD,4,Core i5/Ryzen 5,Integrated,17.3,76,20000
+Lenovo,71000,13,Good,1024,HDD,16,Core i5/Ryzen 5,Integrated,17.3,96,45600
+Apple,244000,53,Fair,512,SSD,16,Apple M-series,Dedicated,16.0,78,104000
+Apple,200000,38,Fair,2048,SSD,8,Apple M-series,Integrated,13.3,84,98700
+HP,132000,57,Fair,2048,HDD,8,Core i5/Ryzen 5,Dedicated,17.3,83,33500
+MSI,224000,24,Fair,2048,SSD,8,Core i7/Ryzen 7,Dedicated,14.0,98,131100
+Lenovo,77000,2,Like New,1024,HDD,4,Core i3/Ryzen 3,Integrated,17.3,100,68300
+Acer,78000,39,Fair,1024,HDD,8,Core i7/Ryzen 7,Integrated,17.3,81,20800
+Asus,149000,51,Poor,512,HDD,16,Core i7/Ryzen 7,Integrated,17.3,77,23900
+HP,129000,52,Fair,1024,HDD,32,Core i5/Ryzen 5,Integrated,14.0,77,31400
+Asus,94000,32,Good,1024,HDD,32,Core i3/Ryzen 3,Integrated,13.3,83,39500
+Apple,179000,43,Good,512,SSD,8,Apple M-series,Integrated,16.0,89,86500
+Apple,158000,16,Fair,256,SSD,8,Apple M-series,Integrated,14.0,83,97300
+Asus,96000,9,Good,2048,HDD,8,Core i5/Ryzen 5,Integrated,16.0,98,66400
+Asus,191000,62,Fair,1024,HDD,16,Core i7/Ryzen 7,Dedicated,13.3,71,35200
+Dell,121000,35,Like New,2048,HDD,8,Core i7/Ryzen 7,Integrated,15.6,85,63500
+HP,76000,68,Like New,1024,HDD,4,Core i5/Ryzen 5,Integrated,16.0,73,13300
+Lenovo,100000,18,Good,512,HDD,16,Core i7/Ryzen 7,Integrated,14.0,90,57400
+Acer,51000,58,Good,256,HDD,4,Core i3/Ryzen 3,Integrated,14.0,78,7600
+Lenovo,162000,25,Good,2048,SSD,16,Core i7/Ryzen 7,Integrated,17.3,90,106100
+HP,92000,36,Like New,1024,HDD,32,Core i3/Ryzen 3,Integrated,13.3,83,36400
+Dell,170000,17,Good,1024,HDD,32,Core i5/Ryzen 5,Dedicated,16.0,93,117200
+HP,108000,16,Like New,1024,HDD,32,Core i5/Ryzen 5,Integrated,15.6,95,79200
+Lenovo,160000,67,Like New,2048,SSD,16,Core i7/Ryzen 7,Integrated,17.3,71,38400
+Acer,70000,31,Good,512,SSD,8,Core i3/Ryzen 3,Integrated,15.6,81,24700
+HP,100000,13,Good,512,HDD,4,Core i7/Ryzen 7,Integrated,17.3,97,63500
+Dell,94000,2,Like New,256,HDD,32,Core i3/Ryzen 3,Integrated,17.3,95,80400
+Dell,121000,57,Good,512,SSD,32,Core i5/Ryzen 5,Integrated,13.3,76,30900
+Asus,75000,57,Good,512,HDD,8,Core i5/Ryzen 5,Integrated,16.0,76,15600
+Asus,109000,71,Fair,1024,SSD,8,Core i5/Ryzen 5,Integrated,15.6,75,15400
+Apple,174000,41,Good,2048,SSD,8,Apple M-series,Integrated,13.3,80,96100
+Apple,204000,23,Like New,2048,SSD,32,Apple M-series,Integrated,16.0,90,193800
+Lenovo,79000,27,Good,256,HDD,16,Core i5/Ryzen 5,Integrated,13.3,92,34400
+Apple,171000,71,Good,512,SSD,16,Apple M-series,Integrated,16.0,71,53600
+Asus,147000,19,Like New,1024,SSD,16,Core i3/Ryzen 3,Dedicated,14.0,87,110600
+Dell,165000,20,Fair,256,HDD,32,Core i5/Ryzen 5,Dedicated,13.3,93,92300
+Apple,190000,60,Poor,1024,SSD,16,Apple M-series,Integrated,14.0,85,53400
+Acer,76000,49,Poor,2048,SSD,16,Core i3/Ryzen 3,Integrated,13.3,80,13500
+Apple,211000,31,Fair,1024,SSD,32,Apple M-series,Integrated,16.0,88,123400
+Dell,125000,10,Like New,2048,HDD,8,Core i7/Ryzen 7,Integrated,16.0,92,102800
+Apple,196000,47,Fair,256,SSD,32,Apple M-series,Integrated,14.0,81,74000
+Apple,214000,8,Like New,2048,SSD,32,Apple M-series,Integrated,16.0,100,203300
+Apple,203000,35,Good,512,SSD,32,Apple M-series,Integrated,13.3,82,127700
+Apple,168000,65,Good,1024,SSD,16,Apple M-series,Integrated,16.0,68,59000
+Apple,181000,33,Like New,512,SSD,16,Apple M-series,Integrated,13.3,87,131000
+Apple,161000,13,Like New,1024,SSD,8,Apple M-series,Integrated,13.3,95,147800
+Lenovo,132000,67,Poor,2048,SSD,16,Core i5/Ryzen 5,Integrated,16.0,64,20100
+Lenovo,152000,31,Good,256,SSD,16,Core i5/Ryzen 5,Dedicated,16.0,84,74100
+HP,111000,33,Fair,2048,HDD,32,Core i3/Ryzen 3,Integrated,15.6,88,38500
+Dell,99000,12,Good,512,HDD,16,Core i5/Ryzen 5,Integrated,16.0,94,68400
+HP,99000,6,Good,256,SSD,8,Core i3/Ryzen 3,Dedicated,16.0,99,88500
+Acer,89000,21,Good,512,HDD,4,Core i7/Ryzen 7,Integrated,13.3,93,37000
+Asus,198000,29,Good,2048,HDD,32,Core i5/Ryzen 5,Dedicated,15.6,93,109300
+Apple,197000,61,Fair,2048,SSD,16,Apple M-series,Integrated,14.0,81,68200
+Apple,181000,19,Good,256,SSD,8,Apple M-series,Integrated,14.0,91,135800
+Dell,81000,31,Good,512,HDD,8,Core i5/Ryzen 5,Integrated,15.6,87,31300
+Dell,147000,5,Like New,2048,HDD,4,Core i5/Ryzen 5,Dedicated,14.0,96,137400
+Lenovo,189000,55,Good,1024,SSD,8,Core i5/Ryzen 5,Dedicated,14.0,72,54100
+HP,126000,40,Fair,256,HDD,4,Core i7/Ryzen 7,Dedicated,14.0,80,32900
+Apple,178000,15,Good,512,SSD,8,Apple M-series,Integrated,16.0,89,133800
+Dell,72000,72,Fair,512,HDD,8,Core i3/Ryzen 3,Integrated,16.0,70,8500
+HP,124000,20,Fair,512,HDD,4,Core i7/Ryzen 7,Dedicated,16.0,96,61900
+Apple,175000,1,Like New,512,SSD,8,Apple M-series,Integrated,16.0,97,166200
+Asus,230000,23,Poor,1024,SSD,32,Core i7/Ryzen 7,Dedicated,15.6,96,125000
+Apple,168000,54,Like New,512,SSD,8,Apple M-series,Integrated,16.0,80,75200
+Acer,70000,14,Fair,512,HDD,8,Core i7/Ryzen 7,Integrated,14.0,100,36200
+Apple,154000,70,Fair,256,SSD,8,Apple M-series,Integrated,13.3,70,39100
+Asus,190000,28,Like New,256,SSD,16,Core i7/Ryzen 7,Dedicated,15.6,91,122900
+Acer,77000,33,Fair,2048,HDD,8,Core i7/Ryzen 7,Integrated,15.6,89,26200
+MSI,176000,13,Fair,512,SSD,8,Core i5/Ryzen 5,Dedicated,17.3,96,121100
+Asus,82000,54,Like New,1024,SSD,8,Core i3/Ryzen 3,Integrated,16.0,78,18200
+Asus,174000,31,Good,2048,SSD,8,Core i7/Ryzen 7,Integrated,15.6,86,87400
+Lenovo,25000,56,Good,256,HDD,8,Core i3/Ryzen 3,Integrated,16.0,75,4800
+Asus,70000,46,Poor,512,HDD,16,Core i3/Ryzen 3,Integrated,16.0,80,12300
+Apple,210000,29,Good,2048,SSD,32,Apple M-series,Integrated,14.0,91,161000
+HP,57000,22,Good,1024,HDD,4,Core i3/Ryzen 3,Integrated,16.0,87,26800
+HP,98000,26,Fair,1024,HDD,8,Core i5/Ryzen 5,Integrated,13.3,85,36200
+Asus,230000,72,Good,2048,SSD,32,Core i5/Ryzen 5,Dedicated,14.0,72,45600
+HP,68000,52,Good,256,SSD,8,Core i3/Ryzen 3,Integrated,14.0,83,16300
+HP,129000,37,Good,256,HDD,32,Core i7/Ryzen 7,Integrated,16.0,87,41900
+Lenovo,103000,5,Fair,256,SSD,8,Core i3/Ryzen 3,Dedicated,14.0,100,73800
+Dell,116000,48,Good,1024,HDD,8,Core i7/Ryzen 7,Integrated,13.3,78,37700
+Apple,184000,63,Good,512,SSD,16,Apple M-series,Integrated,16.0,72,64800
+HP,130000,38,Good,2048,HDD,4,Core i5/Ryzen 5,Dedicated,14.0,79,46500
+HP,140000,35,Good,2048,HDD,32,Core i3/Ryzen 3,Dedicated,15.6,84,55700
+Dell,183000,68,Good,1024,SSD,16,Core i7/Ryzen 7,Dedicated,14.0,69,40900
+Dell,52000,42,Like New,256,HDD,16,Core i3/Ryzen 3,Integrated,13.3,78,17600
+Dell,133000,59,Poor,1024,SSD,8,Core i3/Ryzen 3,Dedicated,13.3,74,20500
+Dell,64000,22,Good,256,SSD,8,Core i3/Ryzen 3,Integrated,15.6,90,33700
+Dell,100000,40,Good,256,HDD,4,Core i7/Ryzen 7,Integrated,14.0,82,31800
+Lenovo,90000,23,Good,512,SSD,32,Core i3/Ryzen 3,Integrated,16.0,89,53100
+Dell,123000,46,Fair,512,HDD,16,Core i3/Ryzen 3,Dedicated,14.0,80,32000
+MSI,209000,51,Fair,1024,SSD,32,Core i5/Ryzen 5,Dedicated,17.3,83,52300
+Acer,94000,21,Good,256,HDD,16,Core i7/Ryzen 7,Integrated,13.3,96,46600
+HP,178000,46,Good,2048,HDD,16,Core i5/Ryzen 5,Dedicated,15.6,86,59000
+Dell,97000,62,Good,256,SSD,4,Core i5/Ryzen 5,Integrated,17.3,70,19200
+HP,142000,55,Good,2048,SSD,16,Core i7/Ryzen 7,Integrated,17.3,80,39900
+Asus,93000,60,Fair,256,HDD,16,Core i3/Ryzen 3,Integrated,17.3,79,13500
+Lenovo,157000,20,Like New,2048,SSD,16,Core i7/Ryzen 7,Integrated,15.6,85,119000
+Asus,219000,11,Like New,512,SSD,32,Core i7/Ryzen 7,Dedicated,15.6,100,208000
+HP,53000,25,Good,512,HDD,8,Core i3/Ryzen 3,Integrated,15.6,82,24700
+Lenovo,80000,52,Good,512,SSD,4,Core i5/Ryzen 5,Integrated,17.3,81,20900
+Dell,154000,30,Fair,2048,SSD,16,Core i3/Ryzen 3,Dedicated,17.3,89,69900
+Lenovo,159000,41,Poor,2048,SSD,4,Core i5/Ryzen 5,Dedicated,13.3,85,43000
+Dell,162000,45,Good,256,SSD,16,Core i7/Ryzen 7,Dedicated,17.3,83,63900
+Lenovo,137000,45,Poor,256,HDD,8,Core i7/Ryzen 7,Dedicated,15.6,78,31800
+Acer,119000,37,Fair,256,HDD,16,Core i7/Ryzen 7,Dedicated,15.6,83,36300
+Apple,187000,32,Good,256,SSD,16,Apple M-series,Integrated,16.0,83,115400
+Lenovo,101000,63,Good,512,SSD,8,Core i5/Ryzen 5,Integrated,14.0,72,20400
+Apple,226000,41,Poor,1024,SSD,32,Apple M-series,Integrated,13.3,81,86500
+Lenovo,172000,20,Good,2048,SSD,16,Core i7/Ryzen 7,Dedicated,16.0,96,148300
+Apple,191000,6,Fair,256,SSD,16,Apple M-series,Integrated,13.3,91,154800
+Acer,62000,22,Fair,1024,HDD,8,Core i3/Ryzen 3,Dedicated,16.0,94,26700
+Apple,226000,13,Like New,1024,SSD,32,Apple M-series,Integrated,16.0,92,214700
+MSI,208000,43,Good,512,SSD,16,Core i7/Ryzen 7,Dedicated,16.0,78,72100
+Asus,104000,54,Good,1024,SSD,8,Core i3/Ryzen 3,Dedicated,15.6,75,25500
+Lenovo,145000,54,Good,256,SSD,32,Core i5/Ryzen 5,Integrated,17.3,79,42300
+Asus,114000,71,Good,512,HDD,8,Core i7/Ryzen 7,Integrated,15.6,73,15500
+Asus,151000,24,Good,2048,HDD,16,Core i3/Ryzen 3,Dedicated,14.0,85,82900
+MSI,216000,9,Like New,512,SSD,16,Core i5/Ryzen 5,Dedicated,13.3,92,196900
+Dell,124000,10,Good,512,SSD,32,Core i5/Ryzen 5,Integrated,17.3,99,104400
+Lenovo,131000,52,Fair,512,SSD,8,Core i3/Ryzen 3,Dedicated,16.0,85,34000
+Apple,173000,72,Fair,256,SSD,8,Apple M-series,Integrated,13.3,68,39000
+Lenovo,82000,29,Fair,1024,HDD,4,Core i5/Ryzen 5,Integrated,17.3,84,30600
+Apple,188000,38,Fair,2048,SSD,8,Apple M-series,Integrated,16.0,86,96600
+Lenovo,126000,65,Fair,2048,HDD,32,Core i3/Ryzen 3,Integrated,14.0,73,21000
+Lenovo,189000,71,Fair,1024,HDD,32,Core i7/Ryzen 7,Dedicated,17.3,76,33300
+HP,100000,13,Like New,2048,HDD,16,Core i7/Ryzen 7,Integrated,17.3,89,85000
+HP,133000,46,Fair,2048,HDD,16,Core i5/Ryzen 5,Dedicated,14.0,90,40100
+Asus,93000,61,Fair,512,HDD,16,Core i5/Ryzen 5,Integrated,17.3,80,14800
+Asus,168000,70,Fair,256,HDD,16,Core i3/Ryzen 3,Dedicated,13.3,72,20800
+HP,96000,6,Like New,1024,SSD,16,Core i3/Ryzen 3,Integrated,14.0,100,91200
+Lenovo,132000,39,Poor,2048,HDD,16,Core i7/Ryzen 7,Integrated,17.3,82,35400
+Acer,88000,33,Fair,1024,SSD,8,Core i3/Ryzen 3,Dedicated,16.0,81,31000
+Apple,229000,63,Poor,1024,SSD,8,Apple M-series,Dedicated,16.0,70,62400
+Apple,177000,55,Good,2048,SSD,16,Apple M-series,Integrated,14.0,78,80200
+Apple,210000,57,Fair,512,SSD,32,Apple M-series,Integrated,16.0,80,73700
+Lenovo,136000,62,Poor,512,HDD,8,Core i7/Ryzen 7,Dedicated,17.3,71,21700
+HP,129000,43,Fair,512,SSD,8,Core i3/Ryzen 3,Dedicated,16.0,95,39800
+Asus,176000,43,Fair,512,HDD,32,Core i3/Ryzen 3,Dedicated,14.0,85,49600
+Lenovo,151000,15,Poor,512,HDD,4,Core i7/Ryzen 7,Dedicated,14.0,96,66100
+Dell,111000,45,Good,2048,SSD,8,Core i3/Ryzen 3,Integrated,17.3,85,36500
+Acer,78000,53,Fair,1024,SSD,4,Core i5/Ryzen 5,Integrated,16.0,76,12900
+Asus,158000,8,Like New,2048,SSD,8,Core i3/Ryzen 3,Dedicated,14.0,93,150100
+Dell,181000,4,Like New,512,SSD,8,Core i7/Ryzen 7,Dedicated,13.3,99,172000
+Dell,153000,22,Good,2048,SSD,4,Core i5/Ryzen 5,Dedicated,17.3,95,109100
+Dell,170000,20,Good,2048,SSD,8,Core i7/Ryzen 7,Integrated,16.0,88,118900
+Apple,207000,12,Fair,2048,SSD,8,Apple M-series,Integrated,13.3,100,168500
+Apple,191000,39,Fair,256,SSD,32,Apple M-series,Integrated,16.0,84,100100
+Acer,123000,39,Good,2048,SSD,16,Core i7/Ryzen 7,Integrated,16.0,85,49500
+HP,99000,54,Good,256,SSD,4,Core i5/Ryzen 5,Integrated,16.0,78,22800
+HP,186000,5,Like New,1024,SSD,8,Core i7/Ryzen 7,Dedicated,16.0,100,176700
+Lenovo,92000,72,Good,1024,SSD,16,Core i3/Ryzen 3,Integrated,16.0,73,16400
+HP,133000,11,Good,2048,HDD,32,Core i3/Ryzen 3,Integrated,17.3,94,108800
+Acer,152000,19,Good,2048,SSD,8,Core i7/Ryzen 7,Dedicated,14.0,93,102800
+Asus,166000,46,Fair,256,HDD,16,Core i5/Ryzen 5,Dedicated,15.6,79,43200
+HP,72000,39,Poor,256,HDD,8,Core i3/Ryzen 3,Integrated,16.0,88,14500
+Dell,72000,42,Good,256,SSD,8,Core i5/Ryzen 5,Integrated,16.0,79,24700
+MSI,201000,64,Poor,256,SSD,8,Core i7/Ryzen 7,Dedicated,13.3,66,24700
+Lenovo,152000,16,Like New,512,HDD,8,Core i7/Ryzen 7,Dedicated,17.3,87,107500
+MSI,235000,44,Good,1024,SSD,16,Core i7/Ryzen 7,Dedicated,13.3,79,92700
+Apple,208000,49,Good,1024,SSD,32,Apple M-series,Integrated,16.0,75,96300
+Asus,71000,22,Poor,2048,HDD,8,Core i3/Ryzen 3,Integrated,17.3,91,27400
+Lenovo,78000,68,Good,256,SSD,8,Core i5/Ryzen 5,Integrated,17.3,69,13800
+Apple,153000,62,Poor,256,SSD,8,Apple M-series,Integrated,13.3,74,32800
+Lenovo,163000,43,Fair,1024,SSD,32,Core i3/Ryzen 3,Dedicated,16.0,78,53700
+Lenovo,100000,30,Good,256,SSD,16,Core i3/Ryzen 3,Integrated,14.0,91,44600
+Apple,209000,66,Fair,2048,SSD,16,Apple M-series,Integrated,16.0,76,68300
+HP,106000,66,Fair,2048,SSD,8,Core i5/Ryzen 5,Integrated,15.6,73,17500
+Asus,60000,52,Good,256,HDD,16,Core i3/Ryzen 3,Integrated,15.6,78,13200
+Dell,91000,5,Good,1024,HDD,32,Core i3/Ryzen 3,Integrated,17.3,97,75600
+HP,114000,56,Good,1024,HDD,8,Core i7/Ryzen 7,Integrated,16.0,79,26300
+HP,87000,49,Fair,256,SSD,32,Core i3/Ryzen 3,Integrated,15.6,77,21100
+Dell,160000,28,Like New,2048,HDD,16,Core i3/Ryzen 3,Dedicated,13.3,82,88100
+Acer,73000,33,Good,2048,SSD,16,Core i3/Ryzen 3,Integrated,13.3,89,28000
+Asus,112000,54,Good,256,HDD,8,Core i7/Ryzen 7,Integrated,16.0,76,23000
+Apple,250000,50,Poor,1024,SSD,32,Apple M-series,Dedicated,13.3,75,92500
+MSI,220000,38,Fair,1024,SSD,16,Core i7/Ryzen 7,Dedicated,14.0,86,84100
+Acer,89000,27,Like New,2048,SSD,16,Core i5/Ryzen 5,Integrated,15.6,92,52200
+Dell,166000,65,Poor,2048,SSD,32,Core i5/Ryzen 5,Integrated,13.3,70,29100
+Asus,124000,62,Good,2048,SSD,16,Core i3/Ryzen 3,Integrated,16.0,79,25900
+Apple,211000,30,Good,1024,SSD,16,Apple M-series,Dedicated,13.3,90,155600
+MSI,194000,47,Poor,512,SSD,16,Core i7/Ryzen 7,Dedicated,17.3,82,48100
+Lenovo,126000,23,Fair,2048,SSD,4,Core i3/Ryzen 3,Dedicated,13.3,90,64400
+Lenovo,140000,11,Good,2048,HDD,16,Core i3/Ryzen 3,Dedicated,14.0,95,110900
+Apple,250000,70,Good,2048,SSD,8,Apple M-series,Dedicated,13.3,72,81200
+Acer,149000,37,Poor,2048,SSD,8,Core i7/Ryzen 7,Dedicated,16.0,82,45300
+Apple,170000,28,Like New,256,SSD,8,Apple M-series,Integrated,16.0,88,129500
+Dell,109000,18,Fair,512,SSD,16,Core i3/Ryzen 3,Integrated,15.6,94,62200
+Apple,179000,30,Fair,512,SSD,32,Apple M-series,Integrated,16.0,93,111300
+Asus,100000,38,Fair,256,HDD,32,Core i3/Ryzen 3,Integrated,17.3,86,25300
+Apple,217000,72,Good,256,SSD,32,Apple M-series,Dedicated,14.0,64,63500
+Acer,112000,59,Good,2048,HDD,16,Core i7/Ryzen 7,Integrated,16.0,73,19000
+Lenovo,154000,38,Fair,1024,HDD,4,Core i7/Ryzen 7,Dedicated,16.0,83,56200
+Apple,215000,41,Poor,2048,SSD,32,Apple M-series,Integrated,16.0,85,91300
+Apple,196000,37,Fair,2048,SSD,16,Apple M-series,Integrated,14.0,86,109600
+Apple,200000,37,Fair,512,SSD,32,Apple M-series,Integrated,14.0,80,108000
+Lenovo,194000,25,Good,512,SSD,8,Core i7/Ryzen 7,Dedicated,13.3,88,120600
+Asus,74000,66,Fair,512,HDD,8,Core i5/Ryzen 5,Integrated,16.0,71,10100
+Dell,165000,11,Fair,2048,SSD,8,Core i7/Ryzen 7,Integrated,14.0,96,127100
+Asus,133000,8,Like New,2048,HDD,8,Core i5/Ryzen 5,Dedicated,16.0,97,126400
+Apple,193000,40,Like New,2048,SSD,8,Apple M-series,Integrated,14.0,96,123800
+Asus,174000,24,Like New,1024,HDD,32,Core i7/Ryzen 7,Dedicated,15.6,90,119800
+Acer,55000,12,Like New,256,SSD,8,Core i5/Ryzen 5,Integrated,15.6,99,42800
+Asus,154000,17,Like New,512,SSD,8,Core i7/Ryzen 7,Dedicated,14.0,87,118900
+Lenovo,161000,7,Good,2048,SSD,16,Core i5/Ryzen 5,Dedicated,17.3,98,153000
+Asus,99000,61,Like New,256,HDD,8,Core i7/Ryzen 7,Integrated,13.3,82,19900
+Apple,250000,10,Like New,2048,SSD,32,Apple M-series,Dedicated,14.0,98,237500
+Dell,86000,41,Fair,1024,HDD,4,Core i5/Ryzen 5,Integrated,15.6,80,22000
+Apple,181000,11,Good,256,SSD,16,Apple M-series,Integrated,14.0,98,153500
+HP,176000,9,Like New,1024,HDD,32,Core i7/Ryzen 7,Dedicated,17.3,92,167200
+Asus,134000,70,Fair,256,SSD,16,Core i7/Ryzen 7,Integrated,14.0,73,19000
+Lenovo,168000,39,Fair,2048,SSD,32,Core i7/Ryzen 7,Integrated,13.3,91,72500
+Asus,157000,16,Like New,1024,SSD,16,Core i7/Ryzen 7,Integrated,15.6,95,129300
+Apple,182000,71,Fair,512,SSD,16,Apple M-series,Integrated,14.0,72,54200
+Lenovo,176000,22,Good,256,SSD,32,Core i5/Ryzen 5,Dedicated,14.0,88,102400
+Apple,162000,55,Fair,256,SSD,16,Apple M-series,Integrated,16.0,75,55000
+Dell,151000,25,Good,2048,HDD,8,Core i3/Ryzen 3,Dedicated,16.0,92,84700
+Lenovo,171000,50,Good,256,SSD,16,Core i7/Ryzen 7,Dedicated,15.6,82,61900
+MSI,240000,37,Good,256,SSD,32,Core i7/Ryzen 7,Dedicated,17.3,86,96600
+Lenovo,185000,28,Like New,2048,HDD,16,Core i5/Ryzen 5,Dedicated,17.3,98,118600
+Apple,205000,33,Poor,1024,SSD,32,Apple M-series,Integrated,13.3,91,100100
+Lenovo,202000,8,Like New,1024,HDD,32,Core i7/Ryzen 7,Dedicated,13.3,98,191900
+Apple,224000,19,Poor,256,SSD,32,Apple M-series,Integrated,13.3,91,120200
+Acer,71000,30,Fair,256,SSD,16,Core i3/Ryzen 3,Integrated,14.0,88,23400
+Lenovo,85000,52,Poor,1024,HDD,8,Core i5/Ryzen 5,Integrated,13.3,81,16200
+Apple,182000,48,Poor,512,SSD,16,Apple M-series,Integrated,13.3,81,58400
+Apple,226000,29,Good,2048,SSD,16,Apple M-series,Integrated,16.0,99,157800
+Apple,223000,31,Fair,512,SSD,8,Apple M-series,Dedicated,13.3,89,124400
+MSI,194000,26,Like New,1024,SSD,32,Core i5/Ryzen 5,Dedicated,16.0,85,130200
+HP,66000,7,Like New,256,HDD,16,Core i3/Ryzen 3,Dedicated,17.3,100,59100
+Asus,191000,45,Fair,256,SSD,8,Core i7/Ryzen 7,Dedicated,13.3,74,52300
+Lenovo,178000,15,Poor,1024,SSD,16,Core i5/Ryzen 5,Dedicated,16.0,92,108200
+Lenovo,66000,44,Poor,512,SSD,4,Core i3/Ryzen 3,Integrated,17.3,82,14100
+Apple,210000,34,Good,2048,SSD,8,Apple M-series,Integrated,14.0,84,124600
+MSI,191000,5,Good,512,SSD,8,Core i5/Ryzen 5,Dedicated,17.3,97,155400
+Dell,78000,53,Poor,1024,SSD,8,Core i3/Ryzen 3,Integrated,14.0,69,13800
+Lenovo,139000,14,Good,512,SSD,4,Core i7/Ryzen 7,Integrated,16.0,95,99000
+Lenovo,143000,67,Good,512,HDD,16,Core i5/Ryzen 5,Dedicated,16.0,68,27600
+Lenovo,113000,33,Good,256,SSD,4,Core i7/Ryzen 7,Integrated,15.6,83,49900
+MSI,201000,62,Fair,256,SSD,16,Core i7/Ryzen 7,Dedicated,15.6,67,33500
+Apple,229000,41,Fair,256,SSD,16,Apple M-series,Dedicated,16.0,80,97500
+HP,98000,2,Good,1024,HDD,16,Core i5/Ryzen 5,Integrated,14.0,97,91100
+HP,88000,51,Poor,256,HDD,4,Core i3/Ryzen 3,Dedicated,16.0,73,13400
+HP,74000,35,Good,1024,HDD,4,Core i5/Ryzen 5,Integrated,15.6,84,29200
+Apple,210000,41,Fair,256,SSD,32,Apple M-series,Integrated,13.3,81,93400
+Apple,217000,36,Fair,512,SSD,8,Apple M-series,Dedicated,13.3,85,120300
+Dell,159000,39,Good,1024,SSD,4,Core i7/Ryzen 7,Dedicated,15.6,79,71400
+Dell,134000,12,Like New,1024,SSD,4,Core i5/Ryzen 5,Integrated,15.6,100,105700
+HP,58000,7,Good,2048,HDD,8,Core i3/Ryzen 3,Integrated,17.3,100,47900
+Lenovo,101000,13,Like New,2048,SSD,16,Core i3/Ryzen 3,Integrated,16.0,96,91100
+Lenovo,133000,14,Good,512,HDD,32,Core i7/Ryzen 7,Integrated,16.0,92,96900
+HP,124000,52,Good,2048,HDD,32,Core i3/Ryzen 3,Integrated,16.0,77,32700
+HP,114000,12,Like New,1024,SSD,16,Core i3/Ryzen 3,Dedicated,15.6,93,108300
+Dell,125000,29,Good,1024,SSD,4,Core i7/Ryzen 7,Integrated,15.6,91,68700
+Lenovo,176000,72,Fair,1024,SSD,32,Core i7/Ryzen 7,Integrated,14.0,73,29900
+Dell,202000,62,Good,512,SSD,8,Core i7/Ryzen 7,Dedicated,17.3,82,54500
+Apple,178000,21,Good,512,SSD,32,Apple M-series,Integrated,16.0,96,141400
+HP,167000,7,Good,1024,SSD,8,Core i5/Ryzen 5,Dedicated,17.3,100,155400
+HP,112000,11,Good,2048,HDD,4,Core i3/Ryzen 3,Dedicated,17.3,93,81200
+Dell,183000,28,Like New,256,HDD,32,Core i5/Ryzen 5,Dedicated,14.0,81,94100
+Lenovo,91000,18,Good,512,HDD,8,Core i7/Ryzen 7,Integrated,13.3,93,50600
+Lenovo,136000,25,Fair,512,SSD,8,Core i7/Ryzen 7,Integrated,15.6,84,65100
+Lenovo,122000,46,Poor,512,SSD,8,Core i5/Ryzen 5,Dedicated,17.3,80,29100
+Lenovo,119000,36,Fair,512,SSD,32,Core i5/Ryzen 5,Integrated,17.3,85,44400
+Lenovo,163000,10,Like New,1024,HDD,32,Core i3/Ryzen 3,Dedicated,15.6,93,140600
+Dell,144000,4,Like New,2048,HDD,8,Core i3/Ryzen 3,Dedicated,14.0,99,136800
+Asus,187000,34,Fair,512,HDD,8,Core i7/Ryzen 7,Dedicated,17.3,84,69300
+HP,99000,10,Good,512,HDD,16,Core i3/Ryzen 3,Dedicated,13.3,95,74700
+HP,119000,55,Fair,1024,SSD,8,Core i3/Ryzen 3,Dedicated,13.3,72,25400
+Lenovo,87000,38,Good,256,SSD,4,Core i3/Ryzen 3,Integrated,13.3,89,28400
+Dell,90000,55,Good,256,SSD,8,Core i3/Ryzen 3,Integrated,14.0,75,21300
+HP,78000,50,Fair,2048,SSD,4,Core i3/Ryzen 3,Integrated,16.0,81,17700
+Lenovo,117000,29,Good,256,SSD,8,Core i7/Ryzen 7,Integrated,14.0,87,50700
+Acer,76000,28,Good,1024,HDD,8,Core i5/Ryzen 5,Integrated,16.0,95,27800
+Acer,100000,59,Fair,2048,HDD,8,Core i7/Ryzen 7,Integrated,17.3,70,14500
+HP,71000,21,Fair,512,HDD,4,Core i5/Ryzen 5,Integrated,13.3,89,26800
+HP,115000,52,Good,1024,HDD,32,Core i3/Ryzen 3,Integrated,13.3,75,26900
+Asus,115000,53,Fair,256,HDD,16,Core i5/Ryzen 5,Dedicated,17.3,76,22200
+Dell,173000,4,Like New,256,HDD,16,Core i7/Ryzen 7,Dedicated,13.3,100,164400
+Asus,187000,53,Fair,2048,SSD,32,Core i3/Ryzen 3,Dedicated,16.0,78,48900
+HP,101000,48,Like New,512,HDD,8,Core i3/Ryzen 3,Dedicated,16.0,86,29900
+Apple,179000,27,Good,512,SSD,8,Apple M-series,Integrated,13.3,83,112300
+Apple,250000,3,Good,2048,SSD,32,Apple M-series,Dedicated,13.3,95,237500
+Asus,101000,55,Fair,256,SSD,32,Core i3/Ryzen 3,Integrated,14.0,85,21800
+Apple,200000,70,Good,512,SSD,16,Apple M-series,Integrated,13.3,67,66400
+Dell,105000,7,Like New,1024,SSD,4,Core i3/Ryzen 3,Integrated,14.0,93,95600
+Dell,87000,43,Good,256,SSD,8,Core i5/Ryzen 5,Integrated,17.3,83,29800
+Apple,241000,19,Fair,1024,SSD,32,Apple M-series,Dedicated,16.0,95,204400
+Dell,62000,61,Poor,256,HDD,8,Core i3/Ryzen 3,Integrated,13.3,74,7600
+Asus,72000,33,Good,256,HDD,16,Core i5/Ryzen 5,Integrated,13.3,82,27500
+Apple,209000,37,Fair,1024,SSD,32,Apple M-series,Integrated,16.0,88,112600
+Asus,73000,45,Poor,512,HDD,16,Core i3/Ryzen 3,Integrated,14.0,77,12000
+Asus,131000,13,Fair,1024,HDD,16,Core i7/Ryzen 7,Integrated,14.0,94,70900
+Dell,53000,50,Good,512,HDD,16,Core i3/Ryzen 3,Integrated,16.0,84,13200
+Apple,179000,28,Like New,512,SSD,8,Apple M-series,Integrated,13.3,92,130800
+Lenovo,93000,30,Like New,1024,SSD,4,Core i3/Ryzen 3,Integrated,13.3,88,49000
+Apple,200000,68,Fair,1024,SSD,8,Apple M-series,Integrated,13.3,73,55900
+Dell,72000,72,Good,256,SSD,4,Core i3/Ryzen 3,Integrated,15.6,73,11100
+MSI,216000,5,Good,1024,SSD,16,Core i7/Ryzen 7,Dedicated,16.0,93,205200
+MSI,201000,4,Good,2048,SSD,8,Core i5/Ryzen 5,Dedicated,16.0,99,190600
+Asus,95000,22,Good,1024,HDD,16,Core i5/Ryzen 5,Integrated,16.0,90,50600
+Dell,101000,67,Poor,1024,HDD,32,Core i3/Ryzen 3,Integrated,16.0,69,13400
+Lenovo,143000,60,Fair,512,SSD,8,Core i5/Ryzen 5,Dedicated,14.0,75,31000
+Lenovo,187000,18,Good,256,HDD,8,Core i7/Ryzen 7,Dedicated,13.3,93,112000
+HP,100000,8,Good,512,SSD,4,Core i3/Ryzen 3,Dedicated,15.6,98,70800
+Lenovo,143000,58,Fair,1024,SSD,32,Core i5/Ryzen 5,Integrated,14.0,80,36000
+Apple,250000,27,Good,2048,SSD,32,Apple M-series,Dedicated,13.3,90,185400
+Dell,144000,35,Good,1024,SSD,16,Core i5/Ryzen 5,Integrated,15.6,91,63800
+HP,164000,11,Like New,512,SSD,4,Core i7/Ryzen 7,Dedicated,15.6,100,150300
+Apple,175000,30,Good,256,SSD,8,Apple M-series,Dedicated,16.0,87,110700
+Apple,203000,24,Like New,256,SSD,32,Apple M-series,Integrated,14.0,89,159500
+Asus,182000,55,Good,256,SSD,32,Core i5/Ryzen 5,Dedicated,15.6,79,45900
+MSI,180000,43,Fair,256,SSD,8,Core i7/Ryzen 7,Dedicated,17.3,87,50200
+HP,78000,7,Like New,256,SSD,32,Core i3/Ryzen 3,Integrated,17.3,99,69400
+Asus,157000,56,Fair,512,SSD,16,Core i3/Ryzen 3,Dedicated,13.3,78,32800
+MSI,214000,20,Good,2048,SSD,16,Core i5/Ryzen 5,Dedicated,14.0,89,147700
+Apple,250000,35,Good,2048,SSD,16,Apple M-series,Dedicated,16.0,84,177600
+HP,118000,60,Good,2048,HDD,8,Core i7/Ryzen 7,Integrated,17.3,72,24500
+HP,140000,42,Fair,256,SSD,8,Core i5/Ryzen 5,Dedicated,14.0,82,41000
+Apple,250000,6,Good,1024,SSD,16,Apple M-series,Dedicated,16.0,95,237500
+Asus,179000,36,Fair,2048,HDD,32,Core i7/Ryzen 7,Integrated,13.3,83,65600
+HP,135000,50,Good,512,SSD,32,Core i5/Ryzen 5,Integrated,16.0,81,39900
+HP,78000,56,Good,256,SSD,8,Core i5/Ryzen 5,Integrated,13.3,73,17900
+Apple,211000,34,Good,512,SSD,16,Apple M-series,Dedicated,16.0,91,139800
+Apple,213000,54,Good,1024,SSD,8,Apple M-series,Integrated,13.3,66,80800
+Acer,90000,5,Good,256,SSD,16,Core i3/Ryzen 3,Dedicated,14.0,97,73400
+Apple,178000,25,Good,1024,SSD,8,Apple M-series,Integrated,13.3,88,133900
+Dell,114000,52,Good,512,HDD,32,Core i5/Ryzen 5,Integrated,15.6,71,28400
+Dell,120000,16,Good,256,SSD,4,Core i5/Ryzen 5,Dedicated,14.0,96,75000
+HP,51000,47,Fair,256,HDD,16,Core i3/Ryzen 3,Integrated,15.6,87,12300
+Lenovo,92000,2,Like New,1024,SSD,8,Core i3/Ryzen 3,Integrated,17.3,100,87400
+HP,144000,68,Fair,2048,SSD,4,Core i5/Ryzen 5,Dedicated,16.0,72,24800
+Apple,162000,17,Poor,1024,SSD,8,Apple M-series,Integrated,13.3,84,86300
+Dell,76000,52,Fair,1024,HDD,16,Core i3/Ryzen 3,Integrated,17.3,73,17300
+Asus,228000,32,Good,2048,SSD,32,Core i7/Ryzen 7,Dedicated,17.3,92,146000
+Lenovo,158000,7,Good,2048,SSD,16,Core i7/Ryzen 7,Integrated,17.3,100,150100
+Lenovo,63000,25,Good,512,HDD,8,Core i3/Ryzen 3,Integrated,15.6,91,26400
+Lenovo,43000,50,Poor,512,HDD,4,Core i3/Ryzen 3,Integrated,16.0,85,6800
+Asus,135000,37,Good,2048,HDD,8,Core i5/Ryzen 5,Dedicated,14.0,93,52900
+Apple,193000,61,Poor,2048,SSD,16,Apple M-series,Integrated,16.0,69,55400
+Dell,115000,70,Poor,512,HDD,16,Core i7/Ryzen 7,Integrated,16.0,64,12800
+HP,111000,68,Fair,2048,SSD,4,Core i5/Ryzen 5,Integrated,15.6,72,17200
+Dell,132000,22,Fair,2048,HDD,32,Core i5/Ryzen 5,Integrated,14.0,90,71400
+Asus,181000,42,Good,256,HDD,32,Core i5/Ryzen 5,Dedicated,16.0,84,60700
+HP,94000,68,Poor,2048,SSD,16,Core i3/Ryzen 3,Integrated,13.3,72,12000
+Asus,149000,65,Fair,256,HDD,32,Core i3/Ryzen 3,Dedicated,17.3,65,21200
+Asus,187000,61,Like New,256,HDD,16,Core i7/Ryzen 7,Dedicated,15.6,76,43700
+HP,138000,54,Good,2048,HDD,4,Core i7/Ryzen 7,Integrated,17.3,80,33800
+Acer,41000,59,Good,256,HDD,4,Core i3/Ryzen 3,Dedicated,15.6,80,6000
+Lenovo,143000,59,Good,256,SSD,16,Core i5/Ryzen 5,Dedicated,14.0,71,40000
+Asus,92000,19,Good,1024,HDD,8,Core i3/Ryzen 3,Integrated,16.0,91,46300
+Dell,187000,12,Like New,512,SSD,4,Core i7/Ryzen 7,Dedicated,14.0,100,167200
+HP,101000,3,Good,512,HDD,32,Core i5/Ryzen 5,Integrated,14.0,99,87700
+HP,67000,6,Like New,512,HDD,16,Core i3/Ryzen 3,Integrated,15.6,93,57300
+Apple,216000,2,Like New,2048,SSD,8,Apple M-series,Dedicated,16.0,99,205200
+HP,134000,29,Fair,512,SSD,32,Core i7/Ryzen 7,Integrated,15.6,85,60000
+Acer,118000,13,Like New,2048,SSD,16,Core i3/Ryzen 3,Dedicated,14.0,97,106600
+Lenovo,171000,66,Fair,1024,SSD,8,Core i7/Ryzen 7,Dedicated,15.6,71,37400
+Apple,216000,59,Good,256,SSD,32,Apple M-series,Integrated,14.0,71,79300
+Dell,106000,32,Good,2048,SSD,4,Core i3/Ryzen 3,Integrated,16.0,87,45500
+Apple,211000,65,Good,256,SSD,8,Apple M-series,Dedicated,14.0,69,67800
+Apple,250000,1,Poor,512,SSD,32,Apple M-series,Dedicated,16.0,100,224000
+Acer,117000,22,Good,2048,SSD,16,Core i7/Ryzen 7,Integrated,15.6,91,75300
+HP,123000,17,Fair,256,HDD,16,Core i5/Ryzen 5,Dedicated,15.6,95,68400
+Dell,162000,53,Fair,2048,SSD,32,Core i5/Ryzen 5,Integrated,15.6,83,45200
+Lenovo,145000,42,Poor,2048,HDD,4,Core i3/Ryzen 3,Dedicated,17.3,76,32200
+Apple,176000,31,Good,256,SSD,8,Apple M-series,Integrated,14.0,90,95200
+Dell,103000,19,Good,512,HDD,4,Core i7/Ryzen 7,Integrated,15.6,96,54900
+Lenovo,123000,43,Fair,512,SSD,4,Core i5/Ryzen 5,Dedicated,13.3,81,38900
+Lenovo,67000,47,Fair,256,SSD,8,Core i3/Ryzen 3,Integrated,13.3,78,15600
+MSI,203000,40,Poor,512,SSD,16,Core i5/Ryzen 5,Dedicated,16.0,85,53400
+Lenovo,62000,50,Poor,1024,HDD,8,Core i5/Ryzen 5,Integrated,16.0,79,12300
+HP,157000,3,Good,1024,SSD,16,Core i7/Ryzen 7,Integrated,13.3,99,149200
+Asus,178000,5,Like New,2048,HDD,16,Core i7/Ryzen 7,Dedicated,17.3,98,169100
+Acer,119000,10,Like New,1024,SSD,4,Core i5/Ryzen 5,Dedicated,16.0,97,108500
+Lenovo,111000,16,Fair,512,HDD,32,Core i7/Ryzen 7,Integrated,13.3,100,71600
+MSI,219000,69,Fair,2048,SSD,16,Core i7/Ryzen 7,Dedicated,15.6,70,38100
+Asus,182000,61,Fair,1024,SSD,16,Core i5/Ryzen 5,Dedicated,17.3,78,38300
+Acer,100000,23,Fair,512,SSD,16,Core i7/Ryzen 7,Integrated,16.0,92,51000
+Apple,243000,40,Good,2048,SSD,16,Apple M-series,Dedicated,16.0,80,161400
+Lenovo,114000,26,Good,2048,HDD,8,Core i3/Ryzen 3,Dedicated,16.0,90,55200
+HP,73000,48,Good,512,HDD,4,Core i3/Ryzen 3,Dedicated,14.0,82,18300
+HP,182000,66,Good,2048,SSD,4,Core i7/Ryzen 7,Dedicated,13.3,68,41500
+Lenovo,117000,11,Like New,2048,SSD,4,Core i3/Ryzen 3,Dedicated,16.0,94,106500
+MSI,182000,9,Good,256,SSD,16,Core i5/Ryzen 5,Dedicated,15.6,98,148200
+MSI,192000,57,Good,256,SSD,8,Core i7/Ryzen 7,Dedicated,17.3,77,43200
+Dell,148000,23,Good,1024,SSD,16,Core i3/Ryzen 3,Integrated,14.0,92,89300
+Lenovo,151000,29,Poor,256,SSD,16,Core i3/Ryzen 3,Dedicated,15.6,90,53700
+Asus,172000,16,Good,512,SSD,16,Core i3/Ryzen 3,Dedicated,15.6,97,122200
+Dell,136000,10,Good,512,HDD,32,Core i3/Ryzen 3,Dedicated,13.3,97,107800
+Apple,208000,39,Good,512,SSD,16,Apple M-series,Integrated,16.0,83,112300
+Apple,187000,65,Good,256,SSD,16,Apple M-series,Integrated,16.0,75,61200
+Asus,179000,26,Like New,1024,SSD,16,Core i5/Ryzen 5,Dedicated,15.6,87,112400
+HP,189000,4,Good,512,HDD,32,Core i7/Ryzen 7,Dedicated,17.3,96,179600
+MSI,217000,6,Like New,256,SSD,16,Core i7/Ryzen 7,Dedicated,13.3,100,206200
+HP,133000,5,Like New,2048,SSD,16,Core i5/Ryzen 5,Integrated,14.0,95,126400
+MSI,183000,10,Good,2048,SSD,8,Core i5/Ryzen 5,Dedicated,14.0,90,153800
+HP,123000,68,Good,1024,SSD,8,Core i3/Ryzen 3,Dedicated,14.0,71,22600
+Asus,199000,66,Fair,2048,SSD,16,Core i5/Ryzen 5,Dedicated,13.3,76,39200
+Apple,196000,27,Fair,1024,SSD,16,Apple M-series,Integrated,13.3,95,134300
+HP,114000,51,Good,256,SSD,4,Core i7/Ryzen 7,Integrated,13.3,74,27000
+Asus,119000,42,Good,512,HDD,8,Core i5/Ryzen 5,Dedicated,15.6,78,37000
+Acer,107000,31,Fair,2048,SSD,8,Core i5/Ryzen 5,Integrated,13.3,87,41300
+Asus,162000,27,Good,1024,HDD,8,Core i7/Ryzen 7,Dedicated,13.3,86,90000
+Apple,199000,53,Fair,1024,SSD,16,Apple M-series,Integrated,14.0,80,74600
+Dell,120000,54,Poor,512,HDD,4,Core i7/Ryzen 7,Integrated,16.0,76,19600
+Apple,175000,20,Fair,1024,SSD,8,Apple M-series,Integrated,14.0,89,125100
+Apple,192000,38,Fair,2048,SSD,16,Apple M-series,Integrated,14.0,85,99700
+Lenovo,135000,40,Good,2048,HDD,8,Core i5/Ryzen 5,Dedicated,13.3,81,51700
+Lenovo,134000,69,Poor,256,SSD,4,Core i5/Ryzen 5,Dedicated,13.3,68,15800
+Asus,178000,48,Good,1024,SSD,32,Core i7/Ryzen 7,Integrated,15.6,75,56200
+Acer,129000,70,Fair,1024,HDD,8,Core i7/Ryzen 7,Dedicated,14.0,76,15800
+Lenovo,129000,52,Good,1024,SSD,16,Core i3/Ryzen 3,Integrated,15.6,77,36600
+Asus,128000,34,Fair,512,SSD,16,Core i7/Ryzen 7,Integrated,13.3,81,47700
+Apple,222000,16,Good,512,SSD,32,Apple M-series,Integrated,13.3,95,204800
+Dell,97000,34,Good,512,HDD,16,Core i5/Ryzen 5,Integrated,17.3,86,36800
+Lenovo,147000,21,Fair,2048,SSD,16,Core i7/Ryzen 7,Integrated,14.0,91,88200
+Asus,129000,2,Good,1024,HDD,8,Core i3/Ryzen 3,Dedicated,14.0,94,110600
+Apple,175000,9,Good,2048,SSD,8,Apple M-series,Integrated,13.3,95,161600
+HP,142000,71,Good,2048,HDD,4,Core i5/Ryzen 5,Dedicated,15.6,71,23300
+Lenovo,115000,3,Like New,2048,HDD,16,Core i7/Ryzen 7,Integrated,16.0,99,109200
+Apple,211000,54,Good,1024,SSD,16,Apple M-series,Integrated,14.0,74,89500
+HP,151000,48,Fair,256,HDD,32,Core i5/Ryzen 5,Dedicated,17.3,76,40600
+Acer,58000,32,Fair,256,SSD,16,Core i3/Ryzen 3,Integrated,17.3,82,18000
+Lenovo,167000,8,Like New,2048,SSD,8,Core i7/Ryzen 7,Dedicated,17.3,95,158600
+Dell,195000,40,Good,1024,SSD,8,Core i7/Ryzen 7,Dedicated,16.0,74,85100
+Asus,116000,69,Fair,512,HDD,16,Core i3/Ryzen 3,Dedicated,13.3,67,15900
+Dell,102000,51,Fair,1024,HDD,32,Core i3/Ryzen 3,Integrated,15.6,74,21900
+Asus,102000,53,Good,1024,SSD,8,Core i5/Ryzen 5,Integrated,17.3,78,25800
+Dell,154000,31,Good,2048,HDD,8,Core i7/Ryzen 7,Dedicated,16.0,85,79600
+Lenovo,141000,57,Fair,2048,SSD,32,Core i5/Ryzen 5,Integrated,16.0,81,34400
+HP,150000,31,Poor,1024,SSD,4,Core i5/Ryzen 5,Dedicated,15.6,87,49300
+Dell,122000,20,Fair,1024,HDD,32,Core i5/Ryzen 5,Integrated,15.6,86,60100
+Acer,71000,58,Fair,1024,SSD,16,Core i3/Ryzen 3,Integrated,16.0,74,11900
+Apple,180000,37,Good,1024,SSD,8,Apple M-series,Integrated,14.0,82,95900
+Apple,238000,18,Good,512,SSD,16,Apple M-series,Dedicated,14.0,94,219100
+Dell,97000,48,Fair,256,HDD,16,Core i5/Ryzen 5,Integrated,15.6,69,22800
+Lenovo,130000,55,Poor,1024,SSD,32,Core i5/Ryzen 5,Integrated,15.6,79,26100
+Asus,150000,41,Good,512,SSD,16,Core i3/Ryzen 3,Dedicated,13.3,95,51700
+MSI,174000,44,Fair,512,SSD,16,Core i5/Ryzen 5,Dedicated,17.3,80,47600
+Dell,172000,29,Good,2048,SSD,4,Core i5/Ryzen 5,Dedicated,15.6,89,95100
+HP,200000,66,Fair,2048,SSD,16,Core i7/Ryzen 7,Dedicated,16.0,70,43000
+Apple,196000,43,Poor,2048,SSD,16,Apple M-series,Integrated,16.0,79,79300
+Lenovo,89000,53,Good,512,HDD,4,Core i7/Ryzen 7,Integrated,14.0,78,21400
+MSI,191000,53,Fair,256,SSD,8,Core i7/Ryzen 7,Dedicated,17.3,82,44300
+Lenovo,136000,69,Poor,256,SSD,32,Core i3/Ryzen 3,Dedicated,16.0,66,17300
+Lenovo,73000,22,Poor,2048,HDD,4,Core i5/Ryzen 5,Integrated,14.0,91,26000
+HP,160000,18,Good,1024,HDD,16,Core i7/Ryzen 7,Dedicated,17.3,90,112700
+Acer,35000,64,Fair,256,HDD,4,Core i3/Ryzen 3,Integrated,17.3,78,3300
+HP,170000,50,Like New,256,SSD,4,Core i7/Ryzen 7,Dedicated,16.0,82,55300
+Apple,215000,51,Fair,1024,SSD,32,Apple M-series,Integrated,16.0,72,86600
+Dell,109000,47,Poor,512,HDD,16,Core i5/Ryzen 5,Integrated,16.0,80,22800
+Apple,250000,12,Like New,2048,SSD,32,Apple M-series,Dedicated,13.3,92,237500
+Dell,111000,25,Fair,512,SSD,16,Core i7/Ryzen 7,Integrated,14.0,83,55400
+Apple,197000,1,Like New,1024,SSD,32,Apple M-series,Integrated,13.3,100,187200
+HP,118000,66,Fair,512,SSD,16,Core i3/Ryzen 3,Dedicated,15.6,72,21300
+Lenovo,158000,63,Fair,1024,SSD,4,Core i5/Ryzen 5,Dedicated,17.3,74,37000
+Dell,53000,50,Like New,512,HDD,8,Core i3/Ryzen 3,Integrated,13.3,78,13900
+HP,97000,4,Fair,512,HDD,4,Core i7/Ryzen 7,Integrated,15.6,99,67900
+MSI,215000,24,Good,256,SSD,16,Core i7/Ryzen 7,Dedicated,13.3,93,123600
+Asus,108000,48,Good,1024,SSD,8,Core i5/Ryzen 5,Integrated,15.6,70,30300
+HP,137000,6,Good,1024,HDD,8,Core i7/Ryzen 7,Dedicated,13.3,95,130200
+Dell,181000,14,Good,2048,HDD,16,Core i5/Ryzen 5,Dedicated,14.0,94,130800
+Acer,120000,63,Good,512,SSD,16,Core i3/Ryzen 3,Dedicated,15.6,73,20600
+Dell,130000,29,Like New,1024,SSD,16,Core i3/Ryzen 3,Dedicated,16.0,94,85300
+Dell,127000,50,Good,256,SSD,4,Core i7/Ryzen 7,Integrated,14.0,71,30200
+Acer,41000,17,Good,256,SSD,4,Core i3/Ryzen 3,Integrated,16.0,90,22100
+HP,111000,19,Fair,1024,HDD,16,Core i3/Ryzen 3,Dedicated,13.3,94,57100
+Asus,194000,5,Like New,2048,HDD,8,Core i7/Ryzen 7,Dedicated,13.3,100,184300
+Lenovo,101000,19,Fair,256,HDD,16,Core i3/Ryzen 3,Dedicated,14.0,91,49300
+Lenovo,159000,4,Like New,256,HDD,32,Core i5/Ryzen 5,Dedicated,14.0,99,151000
+Dell,220000,70,Poor,2048,HDD,32,Core i7/Ryzen 7,Dedicated,15.6,69,32400
+Dell,145000,15,Fair,2048,HDD,16,Core i5/Ryzen 5,Dedicated,16.0,91,98000
+Dell,120000,63,Fair,256,HDD,8,Core i7/Ryzen 7,Integrated,14.0,73,18300
+Apple,246000,29,Fair,2048,SSD,16,Apple M-series,Dedicated,14.0,90,159100
+Acer,76000,41,Good,512,SSD,16,Core i3/Ryzen 3,Integrated,17.3,85,22500
+Dell,142000,42,Good,1024,HDD,4,Core i7/Ryzen 7,Dedicated,16.0,85,55300
+Lenovo,99000,65,Fair,512,SSD,8,Core i5/Ryzen 5,Integrated,14.0,77,16100
+Asus,121000,51,Fair,256,HDD,16,Core i7/Ryzen 7,Integrated,15.6,78,26800
+Asus,154000,64,Good,1024,SSD,32,Core i7/Ryzen 7,Integrated,13.3,76,37500
+HP,171000,28,Fair,512,SSD,32,Core i5/Ryzen 5,Dedicated,15.6,87,80200
+HP,107000,41,Good,256,SSD,16,Core i7/Ryzen 7,Integrated,15.6,82,41300
+MSI,226000,68,Fair,2048,SSD,16,Core i7/Ryzen 7,Dedicated,15.6,71,39600
+Lenovo,60000,39,Fair,512,HDD,4,Core i3/Ryzen 3,Integrated,13.3,81,15500
+Asus,146000,72,Fair,2048,SSD,16,Core i7/Ryzen 7,Integrated,16.0,64,22200
+Acer,78000,13,Like New,2048,HDD,16,Core i5/Ryzen 5,Integrated,14.0,89,57300
+Asus,113000,62,Poor,256,HDD,16,Core i7/Ryzen 7,Integrated,13.3,71,14400
+Apple,210000,36,Poor,256,SSD,32,Apple M-series,Integrated,16.0,84,79000
+Lenovo,100000,12,Fair,1024,SSD,16,Core i3/Ryzen 3,Integrated,14.0,95,62500
+Apple,203000,27,Fair,2048,SSD,32,Apple M-series,Integrated,14.0,86,145700
+Lenovo,97000,16,Good,256,HDD,32,Core i5/Ryzen 5,Integrated,14.0,90,60200
+MSI,216000,60,Fair,2048,SSD,8,Core i7/Ryzen 7,Dedicated,13.3,77,44800
+HP,69000,21,Good,512,HDD,8,Core i5/Ryzen 5,Integrated,13.3,96,38200
+HP,144000,60,Fair,256,SSD,32,Core i7/Ryzen 7,Integrated,13.3,76,29200
+Apple,207000,71,Good,1024,SSD,8,Apple M-series,Dedicated,14.0,76,68500
+MSI,229000,67,Fair,256,SSD,16,Core i7/Ryzen 7,Dedicated,14.0,74,37600
+Apple,226000,51,Fair,2048,SSD,16,Apple M-series,Integrated,14.0,82,89400
+Apple,228000,42,Good,2048,SSD,32,Apple M-series,Integrated,13.3,83,132500
+Dell,188000,29,Fair,256,HDD,4,Core i7/Ryzen 7,Dedicated,15.6,82,71300
+Apple,250000,9,Good,2048,SSD,32,Apple M-series,Dedicated,13.3,98,237500
+HP,166000,2,Like New,256,SSD,32,Core i5/Ryzen 5,Dedicated,14.0,96,157700
+HP,159000,46,Fair,512,SSD,16,Core i7/Ryzen 7,Dedicated,17.3,85,55400
+Dell,80000,62,Good,256,SSD,4,Core i3/Ryzen 3,Integrated,16.0,72,15300
+Apple,186000,67,Good,512,SSD,16,Apple M-series,Integrated,13.3,74,62500
+Apple,189000,17,Fair,1024,SSD,16,Apple M-series,Integrated,13.3,87,148500
+HP,98000,49,Poor,1024,HDD,8,Core i7/Ryzen 7,Integrated,15.6,81,18000
+Apple,204000,13,Like New,2048,SSD,8,Apple M-series,Integrated,14.0,95,193800
+Lenovo,181000,61,Good,1024,SSD,32,Core i3/Ryzen 3,Dedicated,16.0,73,47700
+Dell,109000,7,Fair,512,HDD,16,Core i3/Ryzen 3,Dedicated,13.3,99,77200
+Dell,150000,26,Fair,1024,SSD,16,Core i7/Ryzen 7,Integrated,17.3,98,81700
+HP,154000,54,Fair,512,SSD,32,Core i5/Ryzen 5,Dedicated,17.3,82,40300
+HP,56000,13,Like New,256,HDD,16,Core i3/Ryzen 3,Integrated,16.0,99,39700
+Apple,206000,34,Good,2048,SSD,32,Apple M-series,Integrated,13.3,83,133900
+Apple,200000,25,Good,256,SSD,32,Apple M-series,Integrated,13.3,85,137600
+Acer,91000,49,Good,1024,SSD,8,Core i7/Ryzen 7,Integrated,15.6,79,22700
+Apple,181000,7,Like New,512,SSD,8,Apple M-series,Integrated,13.3,92,172000
+HP,200000,55,Fair,2048,SSD,16,Core i7/Ryzen 7,Dedicated,13.3,82,58700
+HP,79000,51,Fair,512,HDD,8,Core i3/Ryzen 3,Dedicated,13.3,81,15800
+Dell,148000,16,Good,256,SSD,4,Core i5/Ryzen 5,Dedicated,15.6,95,92000
+HP,109000,1,Good,512,SSD,16,Core i5/Ryzen 5,Integrated,16.0,100,103600
+Asus,115000,60,Good,1024,HDD,8,Core i3/Ryzen 3,Dedicated,15.6,75,21600
+Asus,128000,63,Good,512,SSD,16,Core i3/Ryzen 3,Integrated,14.0,73,21800
+Dell,73000,19,Fair,512,SSD,8,Core i3/Ryzen 3,Integrated,15.6,94,35300
+Dell,105000,20,Like New,512,SSD,8,Core i5/Ryzen 5,Integrated,15.6,93,69400
+Dell,124000,6,Like New,512,SSD,32,Core i3/Ryzen 3,Integrated,15.6,100,117800
+HP,110000,63,Fair,256,SSD,4,Core i7/Ryzen 7,Integrated,15.6,69,18400
+Lenovo,186000,22,Fair,1024,HDD,16,Core i7/Ryzen 7,Dedicated,17.3,86,100200
+Dell,124000,22,Poor,256,HDD,16,Core i3/Ryzen 3,Dedicated,15.6,86,42300
+Dell,55000,38,Good,256,SSD,8,Core i3/Ryzen 3,Integrated,13.3,80,19500
+Acer,103000,13,Good,1024,HDD,16,Core i5/Ryzen 5,Dedicated,14.0,96,74900
+Apple,189000,29,Like New,2048,SSD,8,Apple M-series,Integrated,16.0,89,144500
+HP,116000,56,Fair,256,HDD,8,Core i7/Ryzen 7,Integrated,14.0,75,20000
+Lenovo,113000,37,Poor,2048,HDD,4,Core i3/Ryzen 3,Dedicated,13.3,90,29900
+Apple,225000,48,Fair,1024,SSD,8,Apple M-series,Dedicated,14.0,74,95400
+Apple,192000,37,Fair,512,SSD,8,Apple M-series,Integrated,13.3,80,90000
+Apple,210000,21,Good,256,SSD,32,Apple M-series,Integrated,13.3,96,152400
+Acer,64000,60,Poor,256,SSD,16,Core i3/Ryzen 3,Integrated,15.6,73,7300
+Apple,184000,52,Poor,2048,SSD,8,Apple M-series,Integrated,13.3,80,60400
+Apple,220000,12,Like New,1024,SSD,16,Apple M-series,Dedicated,13.3,95,209000
+Apple,209000,21,Poor,256,SSD,32,Apple M-series,Integrated,14.0,86,99500
+Apple,185000,22,Good,512,SSD,16,Apple M-series,Integrated,14.0,91,132100
+Lenovo,100000,18,Good,2048,SSD,4,Core i7/Ryzen 7,Integrated,15.6,95,69400
+Dell,190000,44,Good,256,SSD,32,Core i5/Ryzen 5,Dedicated,17.3,82,77000
+Lenovo,138000,54,Good,1024,SSD,16,Core i5/Ryzen 5,Integrated,14.0,77,39600
+Lenovo,93000,62,Fair,2048,SSD,8,Core i3/Ryzen 3,Integrated,17.3,72,18600
+Asus,173000,16,Good,512,SSD,16,Core i7/Ryzen 7,Dedicated,16.0,92,126500
+Apple,250000,32,Good,512,SSD,32,Apple M-series,Dedicated,14.0,94,180600
+Asus,92000,15,Poor,1024,SSD,16,Core i3/Ryzen 3,Integrated,17.3,94,42600
+Lenovo,96000,46,Good,512,HDD,8,Core i7/Ryzen 7,Integrated,17.3,86,30900
+Apple,171000,39,Good,256,SSD,8,Apple M-series,Integrated,14.0,76,88300
+Asus,151000,28,Like New,2048,HDD,16,Core i7/Ryzen 7,Integrated,16.0,90,84500
+Asus,156000,63,Good,2048,HDD,16,Core i7/Ryzen 7,Integrated,16.0,71,29600
+Dell,114000,63,Fair,1024,SSD,16,Core i5/Ryzen 5,Integrated,15.6,74,23200
+Acer,90000,28,Fair,1024,HDD,4,Core i3/Ryzen 3,Dedicated,13.3,85,31100
+HP,182000,60,Poor,256,SSD,16,Core i7/Ryzen 7,Dedicated,13.3,76,31500
+Lenovo,87000,67,Fair,256,HDD,32,Core i3/Ryzen 3,Integrated,15.6,79,13100
+MSI,229000,39,Poor,512,SSD,32,Core i7/Ryzen 7,Dedicated,13.3,85,69400
+Dell,140000,28,Good,512,SSD,4,Core i3/Ryzen 3,Dedicated,17.3,94,72000
+Asus,177000,9,Like New,2048,HDD,32,Core i5/Ryzen 5,Integrated,15.6,100,155000
+Dell,167000,21,Good,512,SSD,8,Core i7/Ryzen 7,Dedicated,14.0,87,107300
+Asus,101000,65,Good,1024,HDD,8,Core i5/Ryzen 5,Integrated,14.0,70,16400
+Lenovo,160000,49,Fair,2048,HDD,4,Core i5/Ryzen 5,Dedicated,14.0,80,41900
+Dell,105000,10,Good,256,HDD,8,Core i3/Ryzen 3,Dedicated,16.0,97,71100
+HP,102000,3,Like New,256,SSD,4,Core i5/Ryzen 5,Dedicated,16.0,100,96900
+Dell,109000,40,Fair,512,SSD,8,Core i3/Ryzen 3,Integrated,14.0,89,33000
+Apple,166000,3,Good,256,SSD,16,Apple M-series,Integrated,16.0,99,157100
+Apple,176000,2,Like New,256,SSD,16,Apple M-series,Integrated,16.0,98,167200
+Dell,127000,55,Good,1024,SSD,32,Core i3/Ryzen 3,Integrated,14.0,75,34700
+Apple,204000,17,Fair,512,SSD,32,Apple M-series,Integrated,13.3,100,156600
+Apple,214000,25,Good,1024,SSD,32,Apple M-series,Integrated,16.0,90,168900
+Lenovo,178000,29,Good,1024,HDD,32,Core i7/Ryzen 7,Dedicated,16.0,87,109800
+Lenovo,178000,60,Good,2048,SSD,32,Core i5/Ryzen 5,Integrated,14.0,76,47300
+Lenovo,128000,8,Like New,1024,SSD,32,Core i3/Ryzen 3,Integrated,13.3,96,121600
+Dell,96000,6,Good,1024,HDD,4,Core i7/Ryzen 7,Integrated,16.0,98,73300
+Acer,83000,58,Good,512,SSD,8,Core i3/Ryzen 3,Dedicated,13.3,68,13300
+Lenovo,131000,17,Fair,1024,SSD,8,Core i3/Ryzen 3,Dedicated,13.3,89,76300
+Apple,202000,24,Good,2048,SSD,8,Apple M-series,Integrated,13.3,81,138300
+Apple,169000,30,Good,256,SSD,8,Apple M-series,Integrated,14.0,87,98800
+Lenovo,131000,57,Poor,256,HDD,32,Core i3/Ryzen 3,Dedicated,13.3,81,23300
+Apple,222000,40,Poor,2048,SSD,8,Apple M-series,Integrated,16.0,81,84700
+HP,180000,43,Poor,2048,SSD,8,Core i7/Ryzen 7,Dedicated,16.0,86,51400
+MSI,240000,5,Good,2048,SSD,32,Core i7/Ryzen 7,Dedicated,13.3,96,228000
+Apple,171000,42,Good,256,SSD,16,Apple M-series,Integrated,14.0,80,85000
+Apple,235000,43,Fair,2048,SSD,32,Apple M-series,Integrated,13.3,89,108000
+MSI,174000,53,Good,256,SSD,16,Core i5/Ryzen 5,Dedicated,13.3,76,43200
+Lenovo,133000,57,Fair,2048,SSD,32,Core i5/Ryzen 5,Integrated,14.0,72,33900
+Apple,193000,30,Good,1024,SSD,16,Apple M-series,Integrated,16.0,90,115300
+Acer,86000,22,Fair,256,HDD,8,Core i3/Ryzen 3,Dedicated,17.3,91,35700
+Acer,71000,36,Fair,256,HDD,4,Core i7/Ryzen 7,Integrated,13.3,79,17700
+HP,58000,55,Good,1024,HDD,4,Core i3/Ryzen 3,Integrated,16.0,72,11500
+Lenovo,192000,14,Poor,256,SSD,32,Core i7/Ryzen 7,Dedicated,13.3,97,118000
+Dell,125000,32,Good,2048,SSD,4,Core i7/Ryzen 7,Integrated,17.3,87,60400
+Apple,199000,15,Good,512,SSD,32,Apple M-series,Integrated,13.3,88,181100
+Lenovo,103000,19,Good,256,SSD,4,Core i7/Ryzen 7,Integrated,14.0,98,57400
+Dell,157000,46,Good,2048,HDD,16,Core i7/Ryzen 7,Integrated,14.0,86,55900
+Lenovo,117000,22,Fair,512,HDD,8,Core i7/Ryzen 7,Integrated,17.3,90,52500
+Asus,91000,17,Good,2048,HDD,8,Core i3/Ryzen 3,Integrated,16.0,93,48400
+Apple,185000,49,Fair,1024,SSD,8,Apple M-series,Integrated,13.3,79,65100
+Lenovo,121000,41,Good,1024,SSD,8,Core i7/Ryzen 7,Integrated,15.6,83,47400
+Dell,168000,29,Like New,2048,HDD,8,Core i7/Ryzen 7,Dedicated,17.3,93,105700
+Acer,70000,46,Poor,1024,HDD,16,Core i3/Ryzen 3,Integrated,14.0,80,10300
+Dell,123000,71,Good,512,HDD,16,Core i7/Ryzen 7,Integrated,17.3,70,21700
+Lenovo,187000,68,Fair,512,SSD,4,Core i7/Ryzen 7,Dedicated,17.3,66,30500
+HP,85000,3,Good,512,SSD,4,Core i3/Ryzen 3,Integrated,15.6,100,70700
+HP,142000,50,Poor,512,SSD,16,Core i5/Ryzen 5,Dedicated,17.3,84,30600
+Lenovo,119000,59,Fair,1024,SSD,16,Core i3/Ryzen 3,Integrated,17.3,77,27500
+Lenovo,48000,60,Poor,2048,HDD,4,Core i3/Ryzen 3,Integrated,13.3,78,6500
+Lenovo,111000,21,Like New,512,HDD,8,Core i3/Ryzen 3,Dedicated,13.3,84,58400
+Asus,91000,44,Fair,512,SSD,32,Core i3/Ryzen 3,Integrated,16.0,82,23100
+MSI,191000,2,Good,512,SSD,16,Core i7/Ryzen 7,Dedicated,13.3,100,181400
+HP,127000,67,Fair,256,HDD,16,Core i7/Ryzen 7,Integrated,17.3,74,18700
+HP,124000,52,Good,512,SSD,4,Core i7/Ryzen 7,Integrated,16.0,73,33100
+Apple,238000,41,Fair,1024,SSD,32,Apple M-series,Integrated,16.0,88,118100
+Asus,65000,65,Good,2048,HDD,16,Core i3/Ryzen 3,Integrated,15.6,72,11200
+HP,76000,3,Like New,256,HDD,32,Core i3/Ryzen 3,Integrated,15.6,99,72200
+HP,98000,20,Good,2048,HDD,16,Core i5/Ryzen 5,Integrated,15.6,89,60900
+Apple,213000,25,Fair,512,SSD,32,Apple M-series,Integrated,16.0,93,137000
+Acer,37000,5,Like New,256,HDD,16,Core i3/Ryzen 3,Integrated,14.0,100,30900
+HP,160000,57,Poor,2048,HDD,16,Core i5/Ryzen 5,Dedicated,17.3,71,29800
+Lenovo,100000,3,Like New,512,HDD,8,Core i7/Ryzen 7,Integrated,16.0,100,95000
+Apple,180000,59,Good,256,SSD,8,Apple M-series,Integrated,13.3,73,58800
+MSI,202000,17,Fair,2048,SSD,8,Core i7/Ryzen 7,Dedicated,16.0,92,141700
+Apple,159000,27,Good,512,SSD,8,Apple M-series,Integrated,13.3,79,103900
+Apple,176000,66,Fair,512,SSD,32,Apple M-series,Integrated,13.3,71,55200
+Asus,128000,42,Good,1024,HDD,8,Core i7/Ryzen 7,Integrated,17.3,76,39200
+Acer,92000,49,Poor,256,SSD,4,Core i7/Ryzen 7,Integrated,14.0,79,15500
+Dell,94000,3,Poor,2048,SSD,16,Core i3/Ryzen 3,Integrated,14.0,100,62900
+HP,107000,44,Good,1024,HDD,8,Core i3/Ryzen 3,Dedicated,16.0,73,32800
+Lenovo,126000,11,Like New,512,SSD,16,Core i5/Ryzen 5,Integrated,14.0,93,103100
+Acer,87000,26,Good,512,HDD,16,Core i5/Ryzen 5,Integrated,14.0,89,34000
+Dell,57000,28,Fair,2048,HDD,4,Core i3/Ryzen 3,Integrated,16.0,89,22700
+HP,133000,12,Good,2048,HDD,4,Core i7/Ryzen 7,Dedicated,16.0,100,102900
+Asus,225000,56,Fair,2048,HDD,32,Core i7/Ryzen 7,Dedicated,13.3,74,54000
+Lenovo,118000,22,Poor,256,HDD,32,Core i7/Ryzen 7,Integrated,14.0,93,47200
+Asus,165000,19,Good,256,SSD,16,Core i7/Ryzen 7,Integrated,16.0,97,116000
+Lenovo,100000,25,Good,256,HDD,4,Core i3/Ryzen 3,Dedicated,13.3,94,43600
+Apple,238000,29,Fair,2048,SSD,8,Apple M-series,Integrated,14.0,89,130100
+Acer,106000,34,Like New,1024,SSD,4,Core i5/Ryzen 5,Dedicated,14.0,94,46900
+Acer,94000,44,Good,1024,HDD,4,Core i7/Ryzen 7,Integrated,16.0,79,24900
+Asus,64000,35,Fair,2048,HDD,8,Core i5/Ryzen 5,Integrated,15.6,87,20400
+Apple,199000,6,Like New,512,SSD,32,Apple M-series,Integrated,13.3,95,189000
+Dell,172000,68,Good,256,SSD,32,Core i5/Ryzen 5,Dedicated,16.0,69,33800
+Asus,163000,34,Good,256,HDD,16,Core i7/Ryzen 7,Dedicated,16.0,80,70700
+Apple,217000,19,Fair,1024,SSD,32,Apple M-series,Integrated,13.3,89,152500
+MSI,207000,11,Good,256,SSD,32,Core i7/Ryzen 7,Dedicated,13.3,95,187300
+Dell,57000,64,Good,512,HDD,16,Core i3/Ryzen 3,Integrated,15.6,60,9600
+Lenovo,110000,1,Like New,256,SSD,16,Core i5/Ryzen 5,Integrated,17.3,100,104500
+Acer,96000,1,Good,512,HDD,16,Core i5/Ryzen 5,Dedicated,14.0,100,91200
+HP,99000,18,Poor,512,SSD,32,Core i5/Ryzen 5,Integrated,15.6,96,47600
+Dell,128000,2,Good,2048,HDD,16,Core i7/Ryzen 7,Integrated,13.3,100,121600
+Lenovo,156000,15,Good,512,SSD,16,Core i5/Ryzen 5,Dedicated,17.3,100,133200
+Lenovo,177000,11,Like New,2048,HDD,16,Core i7/Ryzen 7,Dedicated,14.0,97,168200
+HP,73000,63,Good,512,HDD,8,Core i5/Ryzen 5,Integrated,17.3,72,13000
+Lenovo,148000,13,Good,512,SSD,16,Core i7/Ryzen 7,Integrated,17.3,93,127400
+Acer,146000,31,Fair,2048,SSD,16,Core i7/Ryzen 7,Dedicated,16.0,90,60400
+HP,121000,48,Good,1024,HDD,8,Core i5/Ryzen 5,Dedicated,13.3,86,34100
+Apple,227000,38,Like New,2048,SSD,16,Apple M-series,Integrated,14.0,82,144500
+Dell,98000,57,Poor,1024,SSD,8,Core i5/Ryzen 5,Integrated,17.3,80,16300
+HP,192000,33,Fair,1024,SSD,32,Core i7/Ryzen 7,Dedicated,16.0,85,94700
+Apple,207000,41,Fair,256,SSD,16,Apple M-series,Dedicated,13.3,80,95600
+Apple,151000,38,Good,1024,SSD,8,Apple M-series,Integrated,16.0,86,87700
+Lenovo,87000,10,Fair,1024,HDD,4,Core i5/Ryzen 5,Integrated,13.3,88,49800
+Dell,193000,12,Good,512,SSD,4,Core i5/Ryzen 5,Dedicated,13.3,100,151600
+MSI,183000,12,Like New,1024,SSD,8,Core i7/Ryzen 7,Dedicated,16.0,98,168400
+Dell,71000,69,Poor,2048,HDD,16,Core i3/Ryzen 3,Integrated,16.0,65,8400
+Apple,210000,6,Fair,1024,SSD,32,Apple M-series,Integrated,16.0,94,194500
+Asus,111000,11,Like New,256,SSD,32,Core i5/Ryzen 5,Integrated,17.3,90,96400
+Acer,89000,16,Good,512,SSD,4,Core i3/Ryzen 3,Dedicated,16.0,96,51900
+Dell,36000,18,Fair,512,HDD,4,Core i3/Ryzen 3,Integrated,16.0,92,15000
+Dell,145000,67,Fair,2048,HDD,32,Core i5/Ryzen 5,Integrated,17.3,69,25500
+Apple,194000,42,Fair,2048,SSD,8,Apple M-series,Integrated,16.0,79,88000
+HP,85000,70,Poor,1024,HDD,4,Core i5/Ryzen 5,Integrated,15.6,61,7600
+HP,98000,71,Fair,256,HDD,4,Core i3/Ryzen 3,Dedicated,13.3,72,11600
+Dell,115000,38,Fair,1024,HDD,32,Core i3/Ryzen 3,Integrated,15.6,76,34800
+Apple,183000,2,Good,256,SSD,16,Apple M-series,Integrated,13.3,98,173800
+HP,114000,46,Fair,256,SSD,16,Core i3/Ryzen 3,Dedicated,15.6,87,31300
+MSI,181000,29,Like New,1024,SSD,16,Core i5/Ryzen 5,Dedicated,13.3,83,102100
+Lenovo,58000,17,Good,256,HDD,4,Core i5/Ryzen 5,Integrated,16.0,86,32100
+HP,129000,65,Fair,512,HDD,32,Core i7/Ryzen 7,Integrated,17.3,73,22500
+Apple,205000,36,Fair,256,SSD,32,Apple M-series,Integrated,16.0,88,105400
+Dell,80000,50,Fair,256,HDD,32,Core i3/Ryzen 3,Integrated,14.0,81,17400
+Dell,126000,68,Good,512,HDD,4,Core i5/Ryzen 5,Dedicated,16.0,82,21900
+Asus,156000,43,Poor,256,SSD,32,Core i3/Ryzen 3,Dedicated,13.3,85,33200
+Acer,71000,17,Fair,1024,HDD,4,Core i7/Ryzen 7,Integrated,17.3,95,32500
+Acer,111000,47,Fair,512,SSD,16,Core i7/Ryzen 7,Integrated,14.0,82,26000
+MSI,235000,56,Fair,2048,SSD,32,Core i7/Ryzen 7,Dedicated,13.3,73,54800
+MSI,153000,62,Fair,512,SSD,8,Core i5/Ryzen 5,Dedicated,13.3,72,23900
+MSI,189000,51,Good,256,SSD,32,Core i5/Ryzen 5,Dedicated,15.6,77,52900
+Apple,237000,62,Poor,1024,SSD,32,Apple M-series,Dedicated,14.0,79,71500
+Apple,212000,70,Fair,2048,SSD,32,Apple M-series,Integrated,13.3,72,71000
+Dell,69000,30,Poor,1024,HDD,4,Core i3/Ryzen 3,Integrated,15.6,86,19100
+HP,191000,62,Fair,256,SSD,32,Core i5/Ryzen 5,Dedicated,15.6,73,37100
+Apple,193000,5,Like New,1024,SSD,16,Apple M-series,Integrated,16.0,100,183400
+Asus,135000,9,Like New,256,SSD,16,Core i3/Ryzen 3,Dedicated,16.0,94,120300
+Lenovo,161000,45,Fair,2048,HDD,16,Core i5/Ryzen 5,Dedicated,15.6,76,50400
+HP,127000,7,Poor,512,SSD,4,Core i5/Ryzen 5,Dedicated,16.0,100,71200
+Apple,239000,44,Fair,512,SSD,8,Apple M-series,Dedicated,14.0,81,104400
+Dell,106000,72,Like New,512,SSD,4,Core i7/Ryzen 7,Integrated,16.0,76,20100
+Apple,192000,48,Fair,1024,SSD,16,Apple M-series,Integrated,14.0,78,78800
+Asus,117000,65,Poor,1024,HDD,8,Core i3/Ryzen 3,Dedicated,17.3,71,12700
+Lenovo,206000,32,Good,1024,SSD,32,Core i7/Ryzen 7,Dedicated,16.0,86,122300
+Lenovo,87000,22,Good,1024,SSD,4,Core i5/Ryzen 5,Integrated,17.3,91,48800
+Dell,178000,54,Good,512,SSD,32,Core i5/Ryzen 5,Dedicated,15.6,80,64000
+Dell,100000,59,Good,1024,HDD,32,Core i3/Ryzen 3,Integrated,14.0,74,22300
+HP,47000,28,Like New,256,HDD,8,Core i3/Ryzen 3,Integrated,15.6,80,20200
+Asus,134000,44,Fair,256,SSD,16,Core i7/Ryzen 7,Integrated,14.0,85,39600
+Asus,74000,53,Good,1024,HDD,8,Core i5/Ryzen 5,Integrated,13.3,81,17200
+Dell,151000,28,Like New,512,HDD,32,Core i3/Ryzen 3,Dedicated,15.6,86,84800
+MSI,201000,54,Fair,1024,SSD,8,Core i7/Ryzen 7,Dedicated,14.0,76,42500
+Apple,213000,31,Good,256,SSD,32,Apple M-series,Integrated,14.0,93,143000
+Acer,128000,30,Good,1024,SSD,4,Core i5/Ryzen 5,Dedicated,16.0,82,58100
+Apple,188000,16,Good,1024,SSD,8,Apple M-series,Integrated,16.0,94,158700
+Dell,107000,28,Good,512,HDD,8,Core i7/Ryzen 7,Integrated,14.0,92,50400
+Asus,167000,48,Good,256,SSD,16,Core i5/Ryzen 5,Dedicated,17.3,80,51400
+Apple,178000,42,Good,256,SSD,8,Apple M-series,Integrated,16.0,81,81200
+HP,96000,26,Fair,2048,HDD,4,Core i3/Ryzen 3,Dedicated,17.3,93,42100
+HP,115000,32,Fair,2048,SSD,8,Core i5/Ryzen 5,Integrated,14.0,89,41400
+Dell,206000,55,Poor,2048,HDD,32,Core i5/Ryzen 5,Dedicated,13.3,77,40900
+Lenovo,179000,24,Good,1024,HDD,32,Core i5/Ryzen 5,Dedicated,16.0,94,101700
+Asus,174000,72,Poor,1024,HDD,16,Core i7/Ryzen 7,Dedicated,15.6,73,21800
+Acer,109000,34,Good,2048,HDD,8,Core i7/Ryzen 7,Integrated,17.3,79,35700
+Dell,111000,52,Poor,512,HDD,32,Core i3/Ryzen 3,Integrated,14.0,88,20200
+HP,69000,58,Good,256,HDD,4,Core i3/Ryzen 3,Integrated,16.0,81,12100
+Dell,121000,28,Good,256,SSD,8,Core i7/Ryzen 7,Integrated,14.0,87,62300
+Dell,153000,47,Fair,512,SSD,16,Core i7/Ryzen 7,Integrated,14.0,80,45900
+Apple,232000,36,Fair,1024,SSD,8,Apple M-series,Dedicated,16.0,83,124700
+MSI,213000,56,Poor,256,SSD,16,Core i5/Ryzen 5,Dedicated,14.0,77,34200
+Acer,84000,14,Like New,256,HDD,4,Core i5/Ryzen 5,Dedicated,14.0,98,57300
+Asus,119000,26,Like New,1024,HDD,16,Core i5/Ryzen 5,Integrated,16.0,86,65400
+HP,103000,55,Fair,512,HDD,4,Core i7/Ryzen 7,Integrated,17.3,84,21900
+HP,56000,36,Fair,512,HDD,8,Core i7/Ryzen 7,Integrated,14.0,89,16900
+HP,26000,16,Like New,256,HDD,4,Core i3/Ryzen 3,Integrated,14.0,98,14900
+HP,163000,40,Fair,512,SSD,4,Core i7/Ryzen 7,Dedicated,14.0,76,53100
+HP,68000,40,Fair,512,SSD,4,Core i3/Ryzen 3,Integrated,17.3,84,19500
+Apple,200000,43,Poor,2048,SSD,32,Apple M-series,Integrated,14.0,82,81300
+Apple,193000,42,Good,2048,SSD,8,Apple M-series,Integrated,14.0,77,91100
+MSI,220000,23,Good,2048,SSD,32,Core i5/Ryzen 5,Dedicated,16.0,91,138800
+HP,87000,3,Like New,1024,HDD,8,Core i5/Ryzen 5,Integrated,16.0,99,77300
+MSI,219000,61,Good,512,SSD,32,Core i7/Ryzen 7,Dedicated,17.3,75,59700
+Apple,198000,64,Fair,2048,SSD,16,Apple M-series,Integrated,16.0,72,63400
+HP,85000,16,Good,2048,SSD,8,Core i3/Ryzen 3,Integrated,13.3,94,55100
+Dell,132000,41,Fair,1024,SSD,16,Core i5/Ryzen 5,Integrated,14.0,88,43700
+Dell,173000,48,Good,2048,SSD,4,Core i5/Ryzen 5,Dedicated,13.3,82,54500
+Apple,193000,8,Good,1024,SSD,16,Apple M-series,Integrated,16.0,89,183400
+Apple,240000,55,Fair,2048,SSD,32,Apple M-series,Integrated,13.3,72,95000
+Acer,121000,21,Good,2048,SSD,4,Core i7/Ryzen 7,Dedicated,14.0,83,79900
+Dell,134000,10,Like New,512,SSD,32,Core i5/Ryzen 5,Integrated,13.3,90,127300
+Lenovo,75000,17,Poor,512,HDD,4,Core i5/Ryzen 5,Integrated,13.3,93,30900
+HP,83000,46,Good,2048,SSD,8,Core i3/Ryzen 3,Integrated,17.3,82,26500
+HP,133000,28,Like New,1024,SSD,16,Core i7/Ryzen 7,Integrated,14.0,83,79800
+HP,175000,53,Poor,2048,SSD,32,Core i7/Ryzen 7,Integrated,13.3,71,36700
+Apple,228000,21,Good,256,SSD,32,Apple M-series,Integrated,14.0,93,179700
+MSI,164000,41,Good,256,SSD,8,Core i5/Ryzen 5,Dedicated,13.3,83,55600
+Asus,147000,65,Poor,2048,HDD,16,Core i7/Ryzen 7,Integrated,17.3,76,18400
+Asus,181000,7,Good,1024,SSD,32,Core i3/Ryzen 3,Dedicated,15.6,97,170100
+HP,124000,4,Like New,256,SSD,8,Core i7/Ryzen 7,Integrated,14.0,100,117800
+Apple,169000,9,Fair,2048,SSD,8,Apple M-series,Integrated,16.0,96,147900
+Acer,107000,59,Fair,1024,HDD,16,Core i5/Ryzen 5,Dedicated,13.3,74,18200
+Dell,48000,15,Good,1024,HDD,4,Core i3/Ryzen 3,Integrated,15.6,93,27300
+Apple,167000,51,Good,1024,SSD,8,Apple M-series,Integrated,13.3,79,75400
+Dell,143000,48,Fair,1024,HDD,8,Core i5/Ryzen 5,Dedicated,16.0,72,38800
+Asus,173000,38,Fair,512,SSD,8,Core i5/Ryzen 5,Dedicated,15.6,83,60900
+Lenovo,129000,22,Good,512,SSD,16,Core i5/Ryzen 5,Integrated,17.3,84,79800
+Asus,208000,3,Fair,512,SSD,32,Core i7/Ryzen 7,Dedicated,17.3,96,197600
+Asus,84000,64,Poor,512,HDD,8,Core i5/Ryzen 5,Integrated,13.3,71,8900
+Dell,73000,22,Fair,256,SSD,4,Core i3/Ryzen 3,Integrated,17.3,93,34900
+Acer,82000,44,Fair,2048,HDD,4,Core i7/Ryzen 7,Integrated,17.3,82,20500
+HP,200000,49,Good,2048,SSD,32,Core i5/Ryzen 5,Dedicated,16.0,72,74000
+Lenovo,84000,36,Poor,2048,HDD,4,Core i3/Ryzen 3,Integrated,14.0,85,19100
+Apple,209000,20,Good,256,SSD,32,Apple M-series,Integrated,14.0,83,145700
+MSI,203000,40,Fair,1024,SSD,16,Core i7/Ryzen 7,Dedicated,17.3,79,82200
+Dell,32000,2,Good,256,HDD,4,Core i3/Ryzen 3,Integrated,13.3,89,23600
+Apple,223000,37,Fair,512,SSD,16,Apple M-series,Dedicated,13.3,92,118300
+HP,83000,1,Good,256,HDD,8,Core i7/Ryzen 7,Integrated,15.6,94,70900
+Apple,207000,41,Fair,2048,SSD,8,Apple M-series,Integrated,16.0,81,94500
+Apple,151000,52,Poor,512,SSD,8,Apple M-series,Integrated,14.0,79,42600
+Lenovo,94000,41,Fair,1024,HDD,8,Core i7/Ryzen 7,Integrated,13.3,82,27400
+HP,99000,49,Fair,512,HDD,4,Core i7/Ryzen 7,Integrated,15.6,75,22700
+Acer,54000,49,Fair,256,HDD,16,Core i5/Ryzen 5,Integrated,16.0,77,10400
+Dell,50000,2,Good,256,HDD,16,Core i3/Ryzen 3,Integrated,17.3,92,37000
+Lenovo,195000,2,Good,1024,SSD,32,Core i5/Ryzen 5,Dedicated,15.6,100,185200
+HP,79000,44,Poor,1024,SSD,4,Core i3/Ryzen 3,Integrated,17.3,79,17000
+Lenovo,99000,32,Fair,1024,HDD,16,Core i5/Ryzen 5,Integrated,15.6,86,36300
+Lenovo,125000,43,Good,1024,SSD,16,Core i7/Ryzen 7,Integrated,17.3,80,50600
+HP,97000,38,Good,256,SSD,4,Core i7/Ryzen 7,Integrated,16.0,88,35200
+MSI,204000,4,Good,2048,SSD,32,Core i5/Ryzen 5,Dedicated,13.3,98,193800
+Dell,84000,22,Good,1024,SSD,4,Core i5/Ryzen 5,Integrated,16.0,91,54700
+Apple,207000,17,Good,2048,SSD,8,Apple M-series,Dedicated,14.0,95,185000
+Lenovo,161000,51,Good,256,HDD,8,Core i7/Ryzen 7,Dedicated,17.3,69,42200
+Asus,115000,21,Fair,1024,HDD,8,Core i3/Ryzen 3,Dedicated,15.6,85,53600
+Apple,174000,68,Like New,512,SSD,8,Apple M-series,Integrated,13.3,73,64200
+HP,101000,23,Good,1024,HDD,8,Core i7/Ryzen 7,Integrated,17.3,90,50400
+Acer,99000,36,Good,1024,SSD,16,Core i5/Ryzen 5,Integrated,17.3,86,38100
+Asus,185000,59,Good,512,SSD,32,Core i5/Ryzen 5,Dedicated,13.3,75,47800
+MSI,189000,46,Poor,2048,SSD,8,Core i5/Ryzen 5,Dedicated,14.0,75,40200
+HP,200000,25,Good,2048,HDD,32,Core i7/Ryzen 7,Dedicated,14.0,89,132100
+Lenovo,188000,56,Like New,1024,SSD,32,Core i7/Ryzen 7,Dedicated,17.3,78,72400
+Dell,74000,12,Like New,2048,HDD,8,Core i3/Ryzen 3,Integrated,14.0,93,53000
+MSI,169000,46,Fair,512,SSD,16,Core i5/Ryzen 5,Dedicated,17.3,80,46400
+Dell,203000,50,Good,1024,SSD,8,Core i7/Ryzen 7,Dedicated,17.3,84,71600
+Lenovo,118000,16,Poor,256,SSD,16,Core i5/Ryzen 5,Integrated,13.3,94,52900
+HP,189000,59,Good,2048,SSD,8,Core i7/Ryzen 7,Dedicated,13.3,70,49600
+Lenovo,100000,7,Fair,1024,HDD,16,Core i7/Ryzen 7,Integrated,17.3,96,74200
+Lenovo,134000,69,Good,2048,HDD,4,Core i3/Ryzen 3,Dedicated,17.3,74,23700
+HP,170000,20,Good,2048,SSD,8,Core i5/Ryzen 5,Dedicated,13.3,97,114400
+Acer,131000,29,Like New,1024,SSD,8,Core i7/Ryzen 7,Dedicated,17.3,88,71400
+HP,87000,19,Poor,512,HDD,8,Core i5/Ryzen 5,Integrated,15.6,98,32400
+Lenovo,194000,72,Fair,1024,HDD,16,Core i7/Ryzen 7,Dedicated,13.3,67,29300
+Dell,110000,31,Like New,256,SSD,8,Core i5/Ryzen 5,Dedicated,13.3,91,53000
+HP,178000,59,Good,2048,HDD,32,Core i7/Ryzen 7,Dedicated,17.3,75,52500
+HP,92000,1,Like New,256,SSD,8,Core i3/Ryzen 3,Dedicated,14.0,100,87400
+Apple,191000,50,Poor,1024,SSD,32,Apple M-series,Integrated,13.3,77,69300
+Apple,224000,4,Fair,256,SSD,16,Apple M-series,Dedicated,13.3,100,208700
+Lenovo,148000,64,Fair,2048,HDD,16,Core i5/Ryzen 5,Dedicated,14.0,75,30800
+Lenovo,88000,37,Fair,1024,HDD,8,Core i7/Ryzen 7,Integrated,17.3,83,30300
+Lenovo,172000,52,Good,2048,HDD,8,Core i7/Ryzen 7,Dedicated,14.0,83,49200
+Apple,214000,17,Like New,1024,SSD,16,Apple M-series,Integrated,14.0,95,193400
+Dell,135000,58,Fair,256,SSD,32,Core i5/Ryzen 5,Integrated,16.0,78,31100
+Apple,169000,7,Good,2048,SSD,8,Apple M-series,Integrated,16.0,94,160600
+Asus,155000,60,Poor,1024,HDD,16,Core i7/Ryzen 7,Dedicated,14.0,70,24300
+Acer,74000,56,Poor,256,SSD,16,Core i3/Ryzen 3,Integrated,13.3,80,8800
+Dell,157000,11,Poor,512,HDD,32,Core i3/Ryzen 3,Dedicated,14.0,96,86100
+Lenovo,122000,60,Fair,1024,HDD,8,Core i5/Ryzen 5,Integrated,13.3,76,22500
+Apple,187000,56,Good,1024,SSD,8,Apple M-series,Integrated,16.0,81,73900
+Dell,212000,72,Poor,2048,SSD,8,Core i7/Ryzen 7,Dedicated,16.0,71,31000
+Apple,224000,52,Good,256,SSD,16,Apple M-series,Dedicated,14.0,83,100400
+Dell,128000,68,Fair,512,HDD,16,Core i3/Ryzen 3,Dedicated,16.0,69,19800
+Lenovo,84000,31,Good,2048,SSD,8,Core i3/Ryzen 3,Integrated,16.0,86,40700
+Acer,76000,61,Good,512,HDD,8,Core i7/Ryzen 7,Integrated,15.6,76,11300
+Dell,140000,46,Fair,2048,SSD,32,Core i5/Ryzen 5,Integrated,13.3,85,49400
+HP,64000,31,Fair,512,SSD,8,Core i3/Ryzen 3,Integrated,13.3,81,21300
+Lenovo,119000,34,Fair,512,HDD,4,Core i5/Ryzen 5,Dedicated,17.3,91,41700
+MSI,194000,21,Poor,2048,SSD,8,Core i5/Ryzen 5,Dedicated,13.3,91,85000
+Lenovo,138000,29,Good,2048,SSD,16,Core i7/Ryzen 7,Integrated,13.3,84,74000
+Dell,117000,25,Poor,512,SSD,4,Core i7/Ryzen 7,Integrated,15.6,93,44100
+Lenovo,127000,46,Fair,1024,SSD,16,Core i3/Ryzen 3,Dedicated,14.0,71,38100
+Dell,97000,43,Fair,2048,HDD,8,Core i3/Ryzen 3,Integrated,17.3,80,24400
+MSI,183000,45,Like New,1024,SSD,8,Core i5/Ryzen 5,Dedicated,17.3,80,68500
+HP,74000,6,Good,512,HDD,16,Core i3/Ryzen 3,Integrated,13.3,94,52900
+Lenovo,76000,58,Good,256,HDD,4,Core i5/Ryzen 5,Integrated,16.0,73,14900
+Apple,205000,33,Fair,1024,SSD,16,Apple M-series,Integrated,14.0,82,110000
+HP,61000,49,Good,1024,HDD,4,Core i3/Ryzen 3,Integrated,17.3,79,13300
+Acer,58000,3,Like New,512,HDD,16,Core i5/Ryzen 5,Integrated,14.0,95,54000
+Lenovo,67000,72,Good,512,HDD,16,Core i5/Ryzen 5,Integrated,16.0,76,10900
+HP,181000,56,Fair,2048,SSD,4,Core i7/Ryzen 7,Dedicated,17.3,71,51200
+Acer,75000,21,Good,256,SSD,16,Core i3/Ryzen 3,Integrated,16.0,97,40800
+Asus,132000,2,Like New,2048,SSD,8,Core i5/Ryzen 5,Integrated,15.6,97,125400
+Dell,131000,49,Fair,256,SSD,4,Core i7/Ryzen 7,Integrated,16.0,85,36500
+HP,150000,68,Fair,1024,HDD,32,Core i3/Ryzen 3,Dedicated,17.3,62,23400
+HP,83000,52,Fair,1024,HDD,32,Core i3/Ryzen 3,Integrated,13.3,76,18500
+Lenovo,150000,19,Good,512,HDD,32,Core i3/Ryzen 3,Dedicated,13.3,92,100800
+Dell,169000,48,Poor,2048,SSD,4,Core i7/Ryzen 7,Dedicated,13.3,78,40600
+Dell,115000,34,Good,2048,HDD,16,Core i5/Ryzen 5,Integrated,15.6,90,51400
+Acer,59000,69,Good,2048,HDD,16,Core i3/Ryzen 3,Integrated,13.3,75,7200
+Acer,84000,39,Fair,1024,HDD,4,Core i7/Ryzen 7,Integrated,16.0,82,21800
+Asus,67000,66,Fair,2048,HDD,8,Core i3/Ryzen 3,Integrated,16.0,74,9700
+MSI,189000,64,Good,2048,SSD,16,Core i5/Ryzen 5,Dedicated,15.6,74,38200
+Asus,107000,29,Fair,512,HDD,8,Core i3/Ryzen 3,Dedicated,13.3,97,37200
+Asus,144000,9,Fair,512,HDD,8,Core i7/Ryzen 7,Dedicated,17.3,95,102600
+Asus,149000,25,Good,1024,HDD,8,Core i7/Ryzen 7,Dedicated,17.3,92,75000
+HP,146000,57,Fair,1024,SSD,32,Core i3/Ryzen 3,Dedicated,15.6,80,35000
+HP,76000,30,Fair,256,HDD,8,Core i3/Ryzen 3,Dedicated,13.3,85,27100
+Dell,186000,9,Like New,1024,HDD,16,Core i7/Ryzen 7,Dedicated,13.3,96,176700
+Lenovo,154000,32,Fair,256,HDD,16,Core i7/Ryzen 7,Dedicated,17.3,89,58600
+Dell,126000,41,Fair,256,SSD,8,Core i5/Ryzen 5,Integrated,16.0,83,34400
+Dell,97000,28,Fair,1024,HDD,8,Core i7/Ryzen 7,Integrated,13.3,85,42500
+Lenovo,94000,20,Good,1024,SSD,8,Core i5/Ryzen 5,Integrated,17.3,87,57500
+HP,84000,44,Good,512,SSD,8,Core i5/Ryzen 5,Integrated,17.3,90,26200
+Dell,102000,61,Fair,1024,SSD,8,Core i5/Ryzen 5,Integrated,17.3,82,21800
+Asus,166000,64,Fair,1024,HDD,32,Core i5/Ryzen 5,Dedicated,13.3,71,27200
+Acer,98000,70,Fair,1024,SSD,8,Core i7/Ryzen 7,Integrated,15.6,73,12100
+Apple,188000,53,Fair,1024,SSD,16,Apple M-series,Integrated,16.0,74,67900
+Apple,241000,58,Good,2048,SSD,32,Apple M-series,Integrated,13.3,80,105700
+Dell,175000,31,Good,256,HDD,16,Core i7/Ryzen 7,Dedicated,16.0,82,84000
+Asus,73000,49,Good,1024,HDD,8,Core i5/Ryzen 5,Integrated,14.0,82,18900
+Asus,154000,18,Fair,2048,SSD,32,Core i3/Ryzen 3,Integrated,17.3,85,87400
+Apple,217000,56,Fair,2048,SSD,32,Apple M-series,Integrated,16.0,79,85300
+Asus,48000,17,Like New,512,HDD,8,Core i3/Ryzen 3,Integrated,16.0,91,27900
+Apple,189000,1,Good,512,SSD,8,Apple M-series,Integrated,14.0,99,179600
+HP,134000,59,Fair,2048,SSD,8,Core i3/Ryzen 3,Dedicated,13.3,72,27800
+MSI,211000,53,Fair,2048,SSD,8,Core i7/Ryzen 7,Dedicated,13.3,79,53700
+Apple,240000,60,Fair,2048,SSD,32,Apple M-series,Integrated,14.0,79,89700
+Apple,247000,38,Poor,2048,SSD,32,Apple M-series,Integrated,13.3,85,107100
+HP,65000,57,Fair,1024,HDD,4,Core i3/Ryzen 3,Integrated,14.0,70,9700
+Lenovo,119000,64,Fair,512,SSD,4,Core i5/Ryzen 5,Integrated,13.3,82,20900
+Acer,90000,55,Fair,512,SSD,4,Core i7/Ryzen 7,Integrated,13.3,77,15000
+MSI,222000,6,Good,512,SSD,32,Core i7/Ryzen 7,Dedicated,14.0,100,210900
+Apple,188000,61,Good,1024,SSD,16,Apple M-series,Integrated,16.0,81,77300
+Apple,162000,33,Poor,256,SSD,8,Apple M-series,Integrated,14.0,83,63900
+Asus,177000,3,Like New,1024,HDD,32,Core i7/Ryzen 7,Integrated,16.0,90,168200
+Dell,143000,12,Like New,1024,HDD,4,Core i7/Ryzen 7,Dedicated,15.6,100,121800
+Acer,121000,57,Good,1024,HDD,8,Core i5/Ryzen 5,Dedicated,15.6,78,23400
+Lenovo,61000,52,Good,256,HDD,8,Core i3/Ryzen 3,Integrated,15.6,76,13800
+Apple,199000,17,Good,512,SSD,32,Apple M-series,Integrated,13.3,89,169300
+Asus,139000,57,Fair,256,SSD,32,Core i3/Ryzen 3,Integrated,14.0,76,27200
+Apple,193000,49,Good,2048,SSD,8,Apple M-series,Integrated,13.3,87,89700
+HP,127000,20,Good,2048,HDD,32,Core i3/Ryzen 3,Integrated,15.6,94,85400
+HP,153000,22,Poor,2048,HDD,32,Core i5/Ryzen 5,Dedicated,16.0,91,70000
+HP,102000,71,Good,256,HDD,32,Core i5/Ryzen 5,Integrated,16.0,71,15800
+Lenovo,170000,68,Like New,2048,SSD,16,Core i7/Ryzen 7,Integrated,15.6,79,45700
+Lenovo,55000,37,Good,1024,HDD,4,Core i3/Ryzen 3,Integrated,14.0,86,18700
+MSI,236000,60,Poor,256,SSD,16,Core i7/Ryzen 7,Dedicated,15.6,79,35900
+MSI,208000,9,Like New,256,SSD,16,Core i7/Ryzen 7,Dedicated,13.3,100,197600
+HP,76000,20,Fair,512,SSD,16,Core i3/Ryzen 3,Integrated,13.3,93,36900
+Apple,247000,4,Like New,1024,SSD,32,Apple M-series,Dedicated,13.3,97,234600
+Lenovo,190000,67,Fair,1024,SSD,32,Core i7/Ryzen 7,Integrated,15.6,78,38900
+MSI,177000,36,Fair,512,SSD,8,Core i5/Ryzen 5,Dedicated,16.0,87,63800
+Dell,66000,61,Poor,1024,SSD,4,Core i3/Ryzen 3,Integrated,15.6,72,9600
+HP,110000,34,Good,256,SSD,16,Core i3/Ryzen 3,Dedicated,14.0,84,46700
+HP,100000,55,Fair,1024,SSD,4,Core i5/Ryzen 5,Integrated,16.0,70,20200
+Apple,185000,61,Poor,2048,SSD,16,Apple M-series,Integrated,16.0,73,51900
+Lenovo,172000,13,Like New,256,HDD,32,Core i7/Ryzen 7,Dedicated,14.0,92,146500
+Dell,109000,6,Good,256,SSD,4,Core i3/Ryzen 3,Dedicated,13.3,99,86000
+Asus,211000,68,Good,2048,HDD,32,Core i5/Ryzen 5,Dedicated,14.0,71,37900
+Asus,111000,12,Like New,2048,HDD,8,Core i5/Ryzen 5,Integrated,17.3,95,90400
+Asus,55000,39,Poor,1024,HDD,8,Core i3/Ryzen 3,Integrated,16.0,84,12500
+HP,78000,4,Like New,512,SSD,16,Core i3/Ryzen 3,Integrated,16.0,97,74100
+Dell,94000,70,Good,2048,HDD,8,Core i5/Ryzen 5,Integrated,16.0,66,15600
+Asus,95000,36,Poor,256,HDD,32,Core i3/Ryzen 3,Integrated,13.3,83,22700
+Asus,226000,59,Like New,512,SSD,32,Core i7/Ryzen 7,Dedicated,13.3,70,66400
+HP,107000,12,Good,256,SSD,8,Core i3/Ryzen 3,Dedicated,16.0,91,81300
+Acer,103000,21,Good,1024,SSD,16,Core i5/Ryzen 5,Integrated,16.0,86,65700
+Apple,208000,2,Like New,256,SSD,32,Apple M-series,Integrated,16.0,93,197600
+Acer,58000,29,Good,1024,HDD,4,Core i5/Ryzen 5,Integrated,15.6,84,21600
+Apple,170000,36,Poor,512,SSD,8,Apple M-series,Integrated,14.0,83,65300
+Apple,166000,43,Fair,256,SSD,8,Apple M-series,Integrated,13.3,84,67200
+HP,86000,2,Good,2048,HDD,4,Core i5/Ryzen 5,Integrated,17.3,97,75000
+Apple,217000,16,Like New,1024,SSD,32,Apple M-series,Integrated,16.0,86,190900
+Apple,192000,57,Like New,1024,SSD,8,Apple M-series,Integrated,14.0,73,81400
+Apple,228000,27,Good,2048,SSD,32,Apple M-series,Integrated,16.0,94,176300
+HP,121000,42,Good,2048,SSD,4,Core i5/Ryzen 5,Integrated,15.6,85,39300
+Asus,126000,62,Good,1024,HDD,32,Core i3/Ryzen 3,Integrated,14.0,75,22200
+Apple,223000,53,Poor,512,SSD,32,Apple M-series,Integrated,16.0,79,64000
+Lenovo,101000,5,Good,2048,HDD,16,Core i3/Ryzen 3,Integrated,17.3,100,82800
+Asus,176000,28,Good,512,HDD,32,Core i7/Ryzen 7,Dedicated,17.3,87,85300
+Apple,205000,31,Good,256,SSD,32,Apple M-series,Integrated,16.0,90,128100
+Apple,184000,35,Like New,512,SSD,32,Apple M-series,Integrated,14.0,89,124600
+Acer,116000,8,Like New,256,HDD,8,Core i7/Ryzen 7,Dedicated,16.0,93,90700
+Asus,101000,56,Good,256,HDD,8,Core i3/Ryzen 3,Dedicated,17.3,79,19800
+HP,153000,25,Good,2048,SSD,32,Core i5/Ryzen 5,Integrated,15.6,92,89600
+Asus,165000,49,Good,512,HDD,8,Core i7/Ryzen 7,Dedicated,14.0,74,42000
+Apple,203000,56,Fair,1024,SSD,32,Apple M-series,Integrated,13.3,73,79500
+HP,62000,43,Good,1024,SSD,4,Core i3/Ryzen 3,Integrated,13.3,88,19800
+Lenovo,131000,41,Good,1024,SSD,16,Core i5/Ryzen 5,Integrated,17.3,80,51100
+Dell,126000,56,Fair,2048,SSD,8,Core i5/Ryzen 5,Integrated,17.3,77,29200
+Asus,197000,33,Fair,2048,HDD,16,Core i7/Ryzen 7,Dedicated,14.0,85,82000
+HP,69000,69,Fair,512,SSD,8,Core i5/Ryzen 5,Integrated,13.3,72,9600
+Asus,137000,61,Fair,2048,HDD,8,Core i7/Ryzen 7,Integrated,14.0,81,23200
+HP,33000,19,Good,256,HDD,4,Core i3/Ryzen 3,Integrated,16.0,95,16000
+Dell,94000,57,Fair,512,HDD,32,Core i3/Ryzen 3,Integrated,16.0,81,18500
+Dell,134000,47,Good,512,SSD,8,Core i5/Ryzen 5,Dedicated,16.0,86,48300
+Dell,177000,52,Fair,512,HDD,32,Core i7/Ryzen 7,Integrated,15.6,75,41300
+Asus,98000,4,Like New,256,SSD,16,Core i3/Ryzen 3,Integrated,16.0,95,93100
+Apple,190000,70,Good,512,SSD,32,Apple M-series,Integrated,14.0,66,56700
+Apple,218000,31,Fair,1024,SSD,8,Apple M-series,Dedicated,14.0,86,127000
+Apple,208000,3,Good,256,SSD,8,Apple M-series,Integrated,13.3,94,186800
+Apple,219000,20,Good,2048,SSD,8,Apple M-series,Dedicated,16.0,96,202400
+Asus,167000,32,Like New,2048,SSD,8,Core i3/Ryzen 3,Dedicated,13.3,86,92500
+HP,70000,36,Like New,256,HDD,8,Core i5/Ryzen 5,Integrated,15.6,86,28500
+MSI,216000,69,Fair,512,SSD,32,Core i5/Ryzen 5,Dedicated,13.3,72,32100
+Apple,179000,1,Like New,1024,SSD,16,Apple M-series,Integrated,14.0,100,170000
+Lenovo,207000,13,Like New,1024,HDD,32,Core i7/Ryzen 7,Dedicated,17.3,99,196600
+HP,174000,30,Good,2048,SSD,8,Core i5/Ryzen 5,Dedicated,17.3,90,104600
+HP,130000,61,Poor,256,HDD,16,Core i3/Ryzen 3,Dedicated,16.0,78,18700
+Acer,75000,18,Good,1024,HDD,4,Core i7/Ryzen 7,Integrated,14.0,95,40500
+MSI,166000,64,Good,256,SSD,16,Core i5/Ryzen 5,Dedicated,16.0,78,31100
+Acer,96000,35,Good,2048,SSD,4,Core i5/Ryzen 5,Integrated,14.0,81,35100
+Apple,174000,20,Good,256,SSD,8,Apple M-series,Integrated,16.0,91,116400
+Dell,139000,27,Good,2048,HDD,8,Core i7/Ryzen 7,Integrated,16.0,89,69200
+Lenovo,98000,29,Good,256,HDD,32,Core i3/Ryzen 3,Integrated,14.0,81,43400
+Dell,181000,53,Fair,256,HDD,32,Core i5/Ryzen 5,Dedicated,17.3,80,46200
+Lenovo,153000,30,Good,2048,HDD,4,Core i5/Ryzen 5,Dedicated,13.3,88,68300
+Lenovo,103000,59,Poor,256,SSD,4,Core i3/Ryzen 3,Dedicated,13.3,78,14500
+HP,125000,9,Like New,2048,HDD,8,Core i7/Ryzen 7,Integrated,17.3,100,110500
+Asus,58000,59,Fair,512,HDD,8,Core i3/Ryzen 3,Integrated,14.0,80,8300
+Lenovo,161000,65,Fair,2048,SSD,8,Core i7/Ryzen 7,Dedicated,14.0,71,35000
+Apple,219000,20,Fair,256,SSD,32,Apple M-series,Dedicated,13.3,94,163500
+Apple,210000,69,Good,2048,SSD,32,Apple M-series,Integrated,14.0,71,69400
+Lenovo,143000,30,Like New,512,HDD,8,Core i7/Ryzen 7,Dedicated,16.0,84,76500
+HP,161000,16,Good,512,HDD,32,Core i7/Ryzen 7,Dedicated,16.0,92,110600
+Dell,111000,43,Poor,512,SSD,4,Core i5/Ryzen 5,Integrated,16.0,81,27200
+HP,128000,41,Fair,512,SSD,4,Core i5/Ryzen 5,Dedicated,17.3,83,38600
+Asus,175000,36,Fair,512,SSD,16,Core i7/Ryzen 7,Dedicated,13.3,77,65700
+Asus,143000,47,Good,256,HDD,16,Core i3/Ryzen 3,Dedicated,14.0,85,36600
+Lenovo,139000,49,Fair,2048,SSD,4,Core i7/Ryzen 7,Integrated,15.6,77,36900
+HP,82000,46,Poor,1024,SSD,4,Core i5/Ryzen 5,Integrated,14.0,83,17100
+Dell,160000,40,Fair,1024,HDD,32,Core i7/Ryzen 7,Integrated,14.0,81,49700
+HP,62000,35,Good,1024,HDD,16,Core i3/Ryzen 3,Integrated,14.0,85,22700
+Dell,149000,55,Good,256,SSD,32,Core i3/Ryzen 3,Dedicated,15.6,75,43700
+Lenovo,178000,71,Good,256,SSD,32,Core i7/Ryzen 7,Integrated,17.3,76,35600
+Lenovo,97000,41,Good,1024,HDD,16,Core i3/Ryzen 3,Dedicated,16.0,84,35700
+Apple,172000,59,Fair,512,SSD,16,Apple M-series,Integrated,16.0,75,53400
+Apple,213000,58,Good,2048,SSD,32,Apple M-series,Integrated,16.0,73,89900
+Dell,140000,39,Good,512,HDD,16,Core i5/Ryzen 5,Dedicated,16.0,83,52900
+Acer,127000,26,Like New,1024,HDD,16,Core i7/Ryzen 7,Dedicated,14.0,89,78000
+Lenovo,80000,24,Like New,2048,HDD,8,Core i3/Ryzen 3,Integrated,13.3,83,43700
+Apple,207000,12,Poor,1024,SSD,32,Apple M-series,Integrated,16.0,93,144800
+Acer,73000,29,Good,256,HDD,4,Core i3/Ryzen 3,Dedicated,15.6,83,24800
+HP,64000,11,Like New,1024,HDD,4,Core i3/Ryzen 3,Integrated,16.0,95,43300
+HP,58000,29,Good,512,SSD,8,Core i3/Ryzen 3,Integrated,14.0,94,26200
+Acer,134000,44,Good,512,SSD,16,Core i7/Ryzen 7,Dedicated,15.6,77,42300
+Apple,142000,33,Good,256,SSD,8,Apple M-series,Integrated,16.0,89,78300
+Dell,81000,6,Fair,1024,SSD,8,Core i3/Ryzen 3,Integrated,16.0,98,55800
+Lenovo,68000,48,Good,512,HDD,32,Core i3/Ryzen 3,Integrated,13.3,81,20000
+Apple,184000,63,Poor,2048,SSD,8,Apple M-series,Integrated,14.0,74,46000
+Lenovo,116000,62,Fair,1024,SSD,16,Core i5/Ryzen 5,Integrated,17.3,78,24300
+Dell,184000,3,Good,1024,SSD,4,Core i7/Ryzen 7,Dedicated,15.6,97,174800
+Apple,174000,52,Fair,2048,SSD,8,Apple M-series,Integrated,13.3,77,65400
+Dell,116000,6,Good,256,HDD,4,Core i7/Ryzen 7,Integrated,15.6,98,85200
+HP,153000,40,Poor,512,HDD,4,Core i7/Ryzen 7,Dedicated,14.0,80,35300
+Apple,240000,22,Good,512,SSD,16,Apple M-series,Dedicated,14.0,91,198300
+Apple,147000,35,Like New,256,SSD,8,Apple M-series,Integrated,13.3,84,85700
+Acer,73000,41,Poor,512,SSD,4,Core i5/Ryzen 5,Integrated,13.3,82,13900
+Dell,117000,3,Like New,512,SSD,16,Core i5/Ryzen 5,Integrated,17.3,100,111200
+Dell,176000,30,Good,512,HDD,32,Core i5/Ryzen 5,Dedicated,13.3,85,82700
+Apple,187000,52,Fair,512,SSD,16,Apple M-series,Integrated,14.0,84,72800
+Dell,169000,37,Poor,256,SSD,8,Core i5/Ryzen 5,Dedicated,16.0,84,49600
+Dell,206000,66,Fair,2048,SSD,8,Core i7/Ryzen 7,Dedicated,17.3,66,42400
+Lenovo,162000,60,Fair,1024,SSD,4,Core i5/Ryzen 5,Dedicated,17.3,73,35500
+Dell,161000,10,Fair,256,SSD,16,Core i5/Ryzen 5,Dedicated,17.3,97,126000
+Acer,84000,55,Good,512,SSD,16,Core i7/Ryzen 7,Integrated,16.0,70,19300
+Acer,99000,13,Like New,1024,SSD,4,Core i7/Ryzen 7,Integrated,16.0,89,75500
+Apple,165000,53,Fair,256,SSD,8,Apple M-series,Integrated,14.0,76,53900
+Apple,239000,44,Fair,256,SSD,32,Apple M-series,Dedicated,16.0,77,112800
+Apple,173000,50,Fair,256,SSD,16,Apple M-series,Integrated,14.0,84,66100
+Lenovo,96000,3,Like New,2048,HDD,8,Core i5/Ryzen 5,Integrated,17.3,100,91200
+Apple,194000,49,Fair,512,SSD,16,Apple M-series,Integrated,16.0,84,81500
+Asus,113000,14,Fair,512,HDD,32,Core i5/Ryzen 5,Integrated,14.0,98,66500
+Asus,136000,34,Good,2048,SSD,16,Core i3/Ryzen 3,Integrated,15.6,78,55600
+Asus,93000,17,Good,256,HDD,32,Core i3/Ryzen 3,Integrated,15.6,92,53700
+HP,108000,7,Like New,512,SSD,8,Core i3/Ryzen 3,Integrated,13.3,100,92600
+MSI,217000,39,Good,1024,SSD,8,Core i7/Ryzen 7,Dedicated,17.3,82,91000
+Apple,243000,13,Like New,2048,SSD,16,Apple M-series,Dedicated,14.0,99,230800
+HP,135000,16,Like New,256,SSD,32,Core i5/Ryzen 5,Dedicated,14.0,95,124600
+Dell,164000,16,Fair,256,HDD,32,Core i3/Ryzen 3,Dedicated,17.3,91,85200
+MSI,239000,1,Like New,256,SSD,32,Core i7/Ryzen 7,Dedicated,15.6,98,227000
+Lenovo,72000,57,Fair,512,HDD,16,Core i3/Ryzen 3,Integrated,13.3,82,13700
+Asus,141000,55,Fair,1024,SSD,8,Core i5/Ryzen 5,Dedicated,16.0,78,33100
+Apple,209000,28,Good,256,SSD,16,Apple M-series,Integrated,13.3,93,138300
+MSI,168000,64,Good,512,SSD,16,Core i5/Ryzen 5,Dedicated,14.0,72,33000
+HP,180000,68,Poor,2048,HDD,16,Core i7/Ryzen 7,Dedicated,16.0,72,26000
+HP,107000,31,Like New,2048,HDD,4,Core i7/Ryzen 7,Integrated,16.0,85,49900
+MSI,197000,47,Fair,256,SSD,32,Core i5/Ryzen 5,Dedicated,17.3,72,52400
+HP,88000,71,Like New,256,HDD,4,Core i3/Ryzen 3,Dedicated,13.3,61,12500
+HP,143000,47,Good,2048,SSD,32,Core i7/Ryzen 7,Integrated,14.0,85,52100
+Lenovo,101000,33,Fair,2048,HDD,16,Core i5/Ryzen 5,Integrated,17.3,84,38200
+Apple,213000,17,Fair,2048,SSD,32,Apple M-series,Integrated,13.3,92,155200
+Dell,200000,61,Good,256,SSD,32,Core i7/Ryzen 7,Dedicated,16.0,70,55700
+Apple,177000,43,Fair,1024,SSD,8,Apple M-series,Integrated,13.3,84,73200
+Apple,209000,62,Fair,2048,SSD,16,Apple M-series,Integrated,14.0,71,77800
+Acer,105000,32,Good,256,HDD,16,Core i7/Ryzen 7,Dedicated,16.0,87,46000
+Lenovo,142000,67,Good,1024,HDD,32,Core i7/Ryzen 7,Integrated,13.3,69,26400
+Dell,84000,64,Fair,256,SSD,4,Core i5/Ryzen 5,Integrated,15.6,71,13300
+HP,75000,15,Fair,256,HDD,32,Core i3/Ryzen 3,Integrated,17.3,93,38300
+HP,82000,15,Good,256,SSD,8,Core i3/Ryzen 3,Integrated,14.0,98,48000
+Lenovo,128000,1,Good,1024,SSD,4,Core i3/Ryzen 3,Dedicated,15.6,97,121600
+Acer,79000,69,Fair,512,SSD,16,Core i3/Ryzen 3,Integrated,15.6,69,9000
+Acer,39000,40,Good,256,HDD,4,Core i3/Ryzen 3,Integrated,15.6,81,9900
+HP,164000,28,Good,1024,SSD,8,Core i7/Ryzen 7,Dedicated,13.3,85,91900
+Dell,118000,19,Poor,1024,SSD,16,Core i3/Ryzen 3,Integrated,15.6,85,48700
+HP,156000,26,Fair,512,SSD,4,Core i5/Ryzen 5,Dedicated,16.0,88,71300
+Lenovo,57000,29,Good,1024,SSD,16,Core i3/Ryzen 3,Integrated,15.6,86,27500
+HP,92000,55,Fair,1024,SSD,4,Core i3/Ryzen 3,Dedicated,14.0,74,19600
+Lenovo,174000,63,Fair,1024,HDD,4,Core i7/Ryzen 7,Dedicated,17.3,74,31300
+HP,183000,29,Like New,1024,SSD,16,Core i7/Ryzen 7,Dedicated,17.3,93,120000
+Dell,146000,66,Good,1024,HDD,16,Core i7/Ryzen 7,Integrated,15.6,71,29900
+Dell,171000,58,Poor,256,HDD,32,Core i7/Ryzen 7,Integrated,17.3,77,29300
+Dell,157000,43,Good,2048,HDD,8,Core i7/Ryzen 7,Dedicated,14.0,83,59000
+Apple,191000,25,Like New,1024,SSD,8,Apple M-series,Integrated,16.0,84,153500
+Apple,184000,57,Fair,256,SSD,32,Apple M-series,Integrated,16.0,71,58000
+Lenovo,101000,65,Fair,512,SSD,8,Core i5/Ryzen 5,Integrated,16.0,75,17800
+HP,79000,48,Fair,256,HDD,8,Core i5/Ryzen 5,Integrated,14.0,75,15600
+Dell,107000,24,Good,2048,SSD,4,Core i5/Ryzen 5,Integrated,15.6,86,62600
+Lenovo,61000,65,Fair,512,HDD,4,Core i5/Ryzen 5,Integrated,14.0,73,8800
+Asus,77000,48,Good,256,SSD,16,Core i3/Ryzen 3,Integrated,13.3,72,18800
+Dell,160000,34,Good,256,SSD,4,Core i7/Ryzen 7,Dedicated,13.3,84,75600
+Asus,134000,21,Fair,2048,HDD,8,Core i7/Ryzen 7,Integrated,13.3,91,63900
+Acer,85000,51,Good,1024,HDD,8,Core i3/Ryzen 3,Dedicated,14.0,74,17100
+Lenovo,122000,48,Good,512,SSD,4,Core i7/Ryzen 7,Integrated,13.3,80,37400
+Lenovo,93000,29,Like New,1024,HDD,32,Core i3/Ryzen 3,Integrated,14.0,84,49200
+Apple,220000,28,Poor,256,SSD,8,Apple M-series,Dedicated,13.3,89,96900
+MSI,184000,62,Good,256,SSD,16,Core i5/Ryzen 5,Dedicated,16.0,81,34900
+HP,92000,64,Poor,1024,SSD,16,Core i5/Ryzen 5,Integrated,17.3,70,13400
+Acer,97000,30,Good,512,HDD,16,Core i7/Ryzen 7,Integrated,16.0,87,38600
+Lenovo,90000,17,Fair,2048,HDD,4,Core i5/Ryzen 5,Integrated,13.3,90,47500
+Apple,205000,9,Good,512,SSD,32,Apple M-series,Integrated,16.0,97,194800
+Apple,174000,51,Good,1024,SSD,8,Apple M-series,Integrated,13.3,80,78300
+Lenovo,77000,56,Fair,512,SSD,8,Core i5/Ryzen 5,Integrated,16.0,72,18100
+Lenovo,151000,57,Good,1024,SSD,8,Core i5/Ryzen 5,Dedicated,17.3,74,38600
+Apple,216000,35,Poor,256,SSD,32,Apple M-series,Integrated,13.3,85,84500
+Asus,170000,22,Poor,1024,HDD,8,Core i5/Ryzen 5,Dedicated,13.3,87,63200
+Asus,144000,63,Poor,256,HDD,32,Core i7/Ryzen 7,Integrated,16.0,67,17000
+HP,66000,47,Fair,2048,HDD,8,Core i3/Ryzen 3,Integrated,15.6,81,16300
+HP,168000,35,Like New,2048,SSD,32,Core i3/Ryzen 3,Dedicated,13.3,87,92400
+Apple,208000,47,Poor,2048,SSD,16,Apple M-series,Integrated,14.0,80,79600
+Asus,95000,35,Fair,1024,SSD,16,Core i3/Ryzen 3,Integrated,17.3,82,34100
+Dell,143000,16,Good,1024,HDD,16,Core i5/Ryzen 5,Dedicated,16.0,93,104600
+Acer,83000,65,Good,2048,SSD,4,Core i3/Ryzen 3,Integrated,16.0,68,10800
+Dell,193000,35,Like New,256,HDD,32,Core i7/Ryzen 7,Dedicated,14.0,86,95500
+Lenovo,97000,15,Good,512,HDD,32,Core i3/Ryzen 3,Integrated,14.0,93,63500
+Dell,128000,5,Like New,512,SSD,16,Core i3/Ryzen 3,Dedicated,14.0,100,121600
+Apple,209000,60,Fair,1024,SSD,32,Apple M-series,Integrated,14.0,66,74700
+Asus,140000,57,Fair,1024,SSD,8,Core i5/Ryzen 5,Integrated,13.3,70,27800
+HP,160000,56,Fair,2048,SSD,4,Core i7/Ryzen 7,Dedicated,14.0,77,37800
+HP,200000,12,Like New,2048,SSD,32,Core i7/Ryzen 7,Dedicated,16.0,100,190000
+MSI,191000,14,Like New,256,SSD,16,Core i7/Ryzen 7,Dedicated,17.3,87,164200
+MSI,190000,6,Good,256,SSD,16,Core i5/Ryzen 5,Dedicated,17.3,95,180500
+Asus,121000,20,Good,2048,HDD,8,Core i7/Ryzen 7,Integrated,13.3,91,69200
+Apple,212000,44,Good,512,SSD,8,Apple M-series,Dedicated,14.0,79,109600
+Lenovo,77000,28,Fair,2048,SSD,8,Core i3/Ryzen 3,Integrated,17.3,87,34700
+Acer,91000,70,Fair,512,SSD,8,Core i3/Ryzen 3,Dedicated,17.3,77,10200
+Dell,139000,43,Good,1024,SSD,16,Core i7/Ryzen 7,Integrated,17.3,78,55100
+Apple,199000,63,Good,2048,SSD,8,Apple M-series,Integrated,16.0,71,65900
+Asus,215000,10,Good,2048,SSD,32,Core i7/Ryzen 7,Integrated,16.0,97,204200
+HP,118000,13,Good,1024,HDD,8,Core i7/Ryzen 7,Integrated,15.6,95,77900
+Lenovo,152000,67,Fair,1024,SSD,32,Core i7/Ryzen 7,Integrated,15.6,64,31500
+MSI,216000,31,Good,1024,SSD,16,Core i7/Ryzen 7,Dedicated,14.0,88,124800
+Lenovo,84000,17,Good,512,HDD,8,Core i7/Ryzen 7,Integrated,17.3,90,56900
+HP,79000,44,Good,512,HDD,16,Core i3/Ryzen 3,Integrated,17.3,80,21300
+Dell,144000,1,Like New,512,SSD,32,Core i3/Ryzen 3,Integrated,15.6,99,136800
+HP,197000,7,Like New,1024,HDD,32,Core i7/Ryzen 7,Dedicated,17.3,91,187200
+Apple,220000,57,Good,2048,SSD,16,Apple M-series,Integrated,13.3,82,93800
+Asus,27000,28,Good,256,HDD,8,Core i3/Ryzen 3,Integrated,13.3,86,9800
+Asus,41000,68,Like New,512,HDD,8,Core i3/Ryzen 3,Integrated,17.3,74,6400
+Dell,152000,46,Good,256,HDD,4,Core i7/Ryzen 7,Dedicated,13.3,83,46400
+Dell,173000,57,Fair,512,HDD,4,Core i7/Ryzen 7,Dedicated,16.0,74,34900
+Acer,78000,53,Poor,512,HDD,4,Core i7/Ryzen 7,Integrated,13.3,88,9400
+Apple,193000,34,Like New,1024,SSD,16,Apple M-series,Integrated,14.0,84,136900
+HP,106000,1,Good,2048,SSD,8,Core i5/Ryzen 5,Integrated,13.3,93,100700
+HP,105000,26,Like New,512,SSD,8,Core i7/Ryzen 7,Integrated,17.3,87,64800
+Lenovo,153000,65,Fair,1024,SSD,32,Core i3/Ryzen 3,Dedicated,15.6,74,32000
+Apple,224000,15,Good,2048,SSD,16,Apple M-series,Dedicated,16.0,93,211600
+Lenovo,122000,25,Like New,2048,HDD,8,Core i5/Ryzen 5,Integrated,13.3,92,71800
+Dell,103000,51,Fair,2048,SSD,16,Core i3/Ryzen 3,Integrated,14.0,79,26800
+Lenovo,82000,37,Good,256,HDD,4,Core i5/Ryzen 5,Integrated,16.0,84,27700
+Apple,206000,35,Like New,2048,SSD,8,Apple M-series,Integrated,16.0,87,148700
+HP,145000,54,Fair,256,SSD,32,Core i7/Ryzen 7,Integrated,13.3,73,31300
+HP,132000,39,Fair,256,HDD,32,Core i3/Ryzen 3,Dedicated,13.3,78,42700
+Dell,79000,1,Good,2048,SSD,4,Core i3/Ryzen 3,Integrated,17.3,100,74800
+Apple,167000,53,Poor,1024,SSD,8,Apple M-series,Integrated,13.3,80,46600
+Apple,202000,72,Like New,256,SSD,32,Apple M-series,Integrated,14.0,77,67200
+Dell,140000,59,Good,256,HDD,32,Core i7/Ryzen 7,Integrated,13.3,74,31600
+Apple,199000,53,Good,256,SSD,16,Apple M-series,Dedicated,13.3,84,92200
+MSI,176000,26,Good,2048,SSD,8,Core i5/Ryzen 5,Dedicated,17.3,88,97500
+HP,116000,71,Good,256,SSD,16,Core i5/Ryzen 5,Integrated,14.0,67,15800
+Asus,147000,23,Like New,1024,HDD,16,Core i5/Ryzen 5,Dedicated,15.6,84,95200
+MSI,191000,9,Poor,256,SSD,8,Core i7/Ryzen 7,Dedicated,14.0,91,107400
+Apple,226000,67,Good,512,SSD,32,Apple M-series,Dedicated,16.0,72,84200
+Lenovo,158000,18,Good,512,SSD,16,Core i5/Ryzen 5,Dedicated,13.3,87,109000
+Acer,66000,12,Like New,512,HDD,4,Core i7/Ryzen 7,Integrated,16.0,99,45800
+Lenovo,93000,57,Good,512,SSD,4,Core i7/Ryzen 7,Integrated,17.3,77,24200
+HP,130000,71,Like New,1024,HDD,16,Core i7/Ryzen 7,Integrated,17.3,65,21500
+HP,122000,48,Poor,2048,SSD,8,Core i3/Ryzen 3,Dedicated,16.0,76,26600
+Apple,188000,48,Fair,1024,SSD,16,Apple M-series,Integrated,14.0,80,77700
+HP,170000,48,Fair,1024,HDD,8,Core i7/Ryzen 7,Dedicated,17.3,80,48000
+MSI,223000,41,Fair,2048,SSD,32,Core i5/Ryzen 5,Dedicated,13.3,85,80400
+MSI,216000,13,Like New,2048,SSD,16,Core i5/Ryzen 5,Dedicated,15.6,99,205200
+Apple,185000,15,Good,256,SSD,16,Apple M-series,Integrated,13.3,88,137800
+Lenovo,56000,5,Like New,512,HDD,8,Core i3/Ryzen 3,Integrated,17.3,95,43200
+Dell,108000,9,Like New,512,SSD,8,Core i3/Ryzen 3,Dedicated,17.3,92,93600
+Acer,110000,12,Good,256,SSD,16,Core i3/Ryzen 3,Dedicated,16.0,96,72100
+Apple,204000,10,Like New,1024,SSD,8,Apple M-series,Integrated,16.0,93,193800
+Acer,94000,4,Like New,512,SSD,8,Core i7/Ryzen 7,Integrated,13.3,92,87500
+Asus,127000,47,Like New,512,HDD,16,Core i3/Ryzen 3,Dedicated,14.0,79,36600
+Apple,205000,15,Fair,512,SSD,8,Apple M-series,Dedicated,16.0,93,155400
+Apple,188000,16,Good,512,SSD,16,Apple M-series,Integrated,16.0,91,151900
+Asus,222000,58,Good,2048,SSD,16,Core i7/Ryzen 7,Dedicated,16.0,85,65800
+Apple,151000,1,Like New,256,SSD,8,Apple M-series,Integrated,14.0,100,143400
+HP,70000,34,Fair,256,SSD,4,Core i3/Ryzen 3,Integrated,15.6,90,23300
+Acer,78000,7,Like New,2048,SSD,16,Core i3/Ryzen 3,Integrated,14.0,98,73200
+Lenovo,173000,31,Poor,2048,HDD,8,Core i7/Ryzen 7,Dedicated,16.0,80,57600
+HP,138000,65,Poor,512,SSD,4,Core i5/Ryzen 5,Dedicated,17.3,77,18200
+HP,57000,11,Like New,2048,HDD,8,Core i5/Ryzen 5,Integrated,14.0,99,45800
+Apple,243000,15,Good,256,SSD,32,Apple M-series,Dedicated,14.0,96,226300
+MSI,173000,39,Good,512,SSD,8,Core i7/Ryzen 7,Dedicated,14.0,86,68600
+Dell,118000,4,Good,512,HDD,4,Core i7/Ryzen 7,Integrated,14.0,97,98200
+Apple,225000,54,Fair,256,SSD,32,Apple M-series,Integrated,13.3,77,77200
+Dell,120000,43,Poor,512,SSD,8,Core i7/Ryzen 7,Integrated,14.0,82,28600
+MSI,220000,63,Good,2048,SSD,8,Core i7/Ryzen 7,Dedicated,14.0,70,47600
+Apple,226000,14,Good,256,SSD,16,Apple M-series,Dedicated,16.0,91,214700
+Acer,61000,31,Good,512,SSD,4,Core i5/Ryzen 5,Integrated,15.6,84,21900
+Lenovo,122000,48,Fair,256,SSD,4,Core i7/Ryzen 7,Integrated,13.3,78,28700
+Asus,148000,37,Good,2048,SSD,16,Core i7/Ryzen 7,Integrated,14.0,78,66500
+MSI,200000,2,Like New,1024,SSD,16,Core i7/Ryzen 7,Dedicated,16.0,98,190000
+Asus,166000,8,Like New,1024,HDD,32,Core i5/Ryzen 5,Dedicated,13.3,95,157700
+MSI,219000,33,Good,1024,SSD,8,Core i7/Ryzen 7,Dedicated,13.3,84,101400
+Apple,166000,50,Poor,256,SSD,8,Apple M-series,Integrated,16.0,76,48400
+Asus,86000,5,Fair,512,SSD,8,Core i3/Ryzen 3,Integrated,14.0,100,57100
+HP,103000,8,Good,256,SSD,16,Core i3/Ryzen 3,Dedicated,17.3,91,84600
+HP,95000,20,Good,2048,SSD,16,Core i3/Ryzen 3,Integrated,16.0,96,57800
+Acer,71000,60,Poor,256,SSD,16,Core i5/Ryzen 5,Integrated,16.0,71,8500
+MSI,159000,20,Good,512,SSD,8,Core i5/Ryzen 5,Dedicated,14.0,92,91400
+Lenovo,114000,48,Fair,2048,SSD,4,Core i5/Ryzen 5,Integrated,17.3,77,35100
+HP,194000,25,Good,2048,SSD,8,Core i7/Ryzen 7,Dedicated,15.6,93,118400
+HP,155000,1,Fair,1024,SSD,32,Core i3/Ryzen 3,Dedicated,15.6,100,147200
+HP,75000,63,Like New,1024,HDD,8,Core i3/Ryzen 3,Integrated,17.3,81,14500
+Dell,115000,57,Fair,1024,HDD,16,Core i3/Ryzen 3,Dedicated,17.3,84,24300
+HP,120000,12,Good,512,HDD,16,Core i3/Ryzen 3,Dedicated,17.3,97,79900
+Apple,214000,19,Fair,256,SSD,8,Apple M-series,Dedicated,13.3,92,141200
+Apple,195000,17,Like New,256,SSD,16,Apple M-series,Integrated,13.3,92,174100
+Asus,114000,13,Fair,512,HDD,16,Core i5/Ryzen 5,Integrated,13.3,98,70100
+HP,86000,44,Fair,256,HDD,8,Core i7/Ryzen 7,Integrated,17.3,80,22100
+Acer,130000,46,Good,2048,HDD,8,Core i7/Ryzen 7,Dedicated,14.0,78,38100
+Lenovo,96000,36,Good,2048,HDD,32,Core i3/Ryzen 3,Integrated,16.0,84,39500
+Apple,173000,52,Good,256,SSD,8,Apple M-series,Integrated,14.0,79,67700
+Apple,145000,40,Good,512,SSD,8,Apple M-series,Integrated,13.3,89,76200
+Dell,82000,20,Good,1024,HDD,8,Core i3/Ryzen 3,Integrated,14.0,100,39100
+MSI,208000,5,Like New,2048,SSD,8,Core i5/Ryzen 5,Dedicated,14.0,100,197600
+Dell,173000,28,Good,2048,HDD,8,Core i7/Ryzen 7,Dedicated,15.6,87,90400
+HP,107000,18,Good,1024,SSD,16,Core i3/Ryzen 3,Dedicated,13.3,86,72200
+Acer,60000,31,Fair,1024,HDD,16,Core i3/Ryzen 3,Integrated,14.0,90,18800
+MSI,179000,72,Fair,512,SSD,16,Core i5/Ryzen 5,Dedicated,17.3,66,27300
+Dell,182000,56,Fair,2048,HDD,16,Core i5/Ryzen 5,Dedicated,17.3,80,44200
+Apple,151000,21,Good,1024,SSD,8,Apple M-series,Integrated,14.0,93,118900
+Apple,177000,33,Good,512,SSD,8,Apple M-series,Integrated,16.0,88,110800
+Apple,210000,28,Good,1024,SSD,8,Apple M-series,Integrated,13.3,92,142600
+Apple,201000,64,Good,1024,SSD,32,Apple M-series,Integrated,16.0,78,71800
+Lenovo,79000,52,Fair,2048,SSD,8,Core i3/Ryzen 3,Integrated,15.6,84,21100
+Acer,96000,32,Good,1024,SSD,4,Core i3/Ryzen 3,Dedicated,17.3,86,38200
+HP,136000,13,Like New,512,SSD,32,Core i3/Ryzen 3,Dedicated,16.0,93,114100
+Lenovo,84000,3,Like New,256,HDD,8,Core i7/Ryzen 7,Integrated,14.0,100,72700
+Dell,163000,38,Good,1024,HDD,8,Core i7/Ryzen 7,Dedicated,16.0,86,67700
+Asus,141000,22,Good,2048,HDD,8,Core i3/Ryzen 3,Dedicated,16.0,89,77300
+Lenovo,81000,17,Fair,256,SSD,4,Core i5/Ryzen 5,Integrated,17.3,88,40000
+Acer,77000,37,Fair,512,HDD,16,Core i7/Ryzen 7,Integrated,13.3,75,18900
+MSI,229000,69,Good,512,SSD,32,Core i7/Ryzen 7,Dedicated,13.3,71,41600
+Dell,74000,1,Like New,1024,HDD,8,Core i3/Ryzen 3,Integrated,14.0,100,67900
+Apple,191000,60,Good,256,SSD,16,Apple M-series,Integrated,13.3,72,70600
+Dell,190000,26,Good,2048,SSD,32,Core i7/Ryzen 7,Integrated,14.0,89,121100
+HP,137000,57,Fair,512,SSD,32,Core i5/Ryzen 5,Integrated,13.3,72,28600
+MSI,173000,37,Good,256,SSD,16,Core i7/Ryzen 7,Dedicated,15.6,82,72900
+Dell,149000,21,Good,512,HDD,32,Core i7/Ryzen 7,Integrated,17.3,92,92400
+Asus,196000,40,Poor,1024,SSD,16,Core i7/Ryzen 7,Dedicated,14.0,81,56500
+HP,79000,29,Like New,2048,HDD,8,Core i5/Ryzen 5,Integrated,15.6,80,37700
+Apple,175000,69,Fair,512,SSD,8,Apple M-series,Integrated,13.3,71,49200
+Dell,129000,29,Fair,1024,HDD,4,Core i7/Ryzen 7,Integrated,17.3,94,55400
+Lenovo,103000,55,Fair,512,HDD,32,Core i3/Ryzen 3,Integrated,15.6,81,21500
+Lenovo,86000,51,Fair,512,HDD,8,Core i7/Ryzen 7,Integrated,15.6,82,19500
+HP,178000,66,Poor,512,HDD,32,Core i7/Ryzen 7,Dedicated,14.0,76,25600
+Dell,111000,55,Poor,512,SSD,4,Core i7/Ryzen 7,Integrated,14.0,81,19000
+Lenovo,140000,31,Fair,2048,HDD,16,Core i5/Ryzen 5,Dedicated,16.0,84,62700
+Apple,161000,32,Poor,256,SSD,8,Apple M-series,Integrated,14.0,86,57400
+Acer,104000,20,Good,1024,HDD,16,Core i3/Ryzen 3,Dedicated,13.3,88,53200
+Apple,176000,24,Good,2048,SSD,8,Apple M-series,Integrated,16.0,94,133200
+Apple,175000,4,Good,1024,SSD,8,Apple M-series,Integrated,14.0,100,166200
+HP,131000,30,Poor,2048,SSD,16,Core i3/Ryzen 3,Integrated,14.0,85,44100
+HP,169000,52,Good,512,SSD,32,Core i7/Ryzen 7,Dedicated,15.6,77,56600
+HP,159000,24,Good,512,SSD,8,Core i7/Ryzen 7,Dedicated,17.3,83,104900
+HP,86000,18,Good,256,HDD,16,Core i5/Ryzen 5,Integrated,16.0,87,50600
+MSI,240000,22,Good,2048,SSD,32,Core i5/Ryzen 5,Dedicated,16.0,88,175300
+HP,156000,59,Fair,2048,HDD,16,Core i7/Ryzen 7,Integrated,17.3,72,32900
+HP,183000,69,Fair,2048,SSD,8,Core i7/Ryzen 7,Dedicated,15.6,76,34400
+HP,101000,12,Like New,256,SSD,32,Core i3/Ryzen 3,Integrated,14.0,95,70700
+Apple,186000,34,Good,2048,SSD,16,Apple M-series,Integrated,16.0,90,120100
+Lenovo,127000,52,Fair,256,HDD,8,Core i7/Ryzen 7,Integrated,14.0,83,26400
+Dell,141000,54,Fair,1024,HDD,8,Core i5/Ryzen 5,Dedicated,14.0,83,35000
+Lenovo,126000,40,Fair,512,SSD,8,Core i3/Ryzen 3,Dedicated,15.6,83,41700
+Apple,203000,7,Poor,2048,SSD,8,Apple M-series,Integrated,16.0,99,151000
+MSI,183000,13,Fair,512,SSD,8,Core i5/Ryzen 5,Dedicated,16.0,100,116200
+HP,65000,38,Fair,512,HDD,8,Core i5/Ryzen 5,Integrated,14.0,85,18300
+Acer,71000,24,Good,256,HDD,8,Core i7/Ryzen 7,Integrated,14.0,91,28300
+HP,176000,17,Fair,512,SSD,32,Core i5/Ryzen 5,Dedicated,14.0,97,134400
+Apple,250000,19,Like New,512,SSD,32,Apple M-series,Dedicated,13.3,92,237500
+Asus,72000,61,Fair,1024,HDD,16,Core i3/Ryzen 3,Integrated,17.3,73,11300
+Lenovo,122000,4,Good,2048,SSD,8,Core i5/Ryzen 5,Integrated,17.3,95,115900
+Asus,180000,45,Good,512,HDD,8,Core i7/Ryzen 7,Dedicated,15.6,78,52200
+HP,118000,56,Fair,1024,HDD,4,Core i5/Ryzen 5,Dedicated,16.0,85,26200
+Lenovo,117000,59,Poor,1024,SSD,32,Core i3/Ryzen 3,Integrated,16.0,67,18800
+Asus,167000,12,Good,2048,SSD,8,Core i7/Ryzen 7,Integrated,15.6,90,136900
+Lenovo,89000,56,Fair,2048,HDD,16,Core i5/Ryzen 5,Integrated,14.0,79,20100
+Dell,201000,53,Poor,2048,HDD,32,Core i5/Ryzen 5,Dedicated,15.6,78,45300
+Lenovo,139000,38,Good,2048,SSD,4,Core i7/Ryzen 7,Integrated,16.0,81,59000
+Lenovo,117000,1,Fair,1024,HDD,32,Core i3/Ryzen 3,Integrated,17.3,100,92700
+MSI,240000,62,Poor,2048,SSD,32,Core i7/Ryzen 7,Dedicated,13.3,60,40500
+Dell,161000,40,Fair,1024,SSD,32,Core i7/Ryzen 7,Integrated,14.0,78,60800
+HP,169000,51,Fair,256,SSD,4,Core i7/Ryzen 7,Dedicated,13.3,72,40700
+Asus,150000,71,Poor,256,SSD,8,Core i3/Ryzen 3,Dedicated,15.6,71,16000
+HP,105000,71,Good,2048,HDD,4,Core i7/Ryzen 7,Integrated,15.6,76,16600
+Lenovo,195000,25,Fair,2048,SSD,16,Core i5/Ryzen 5,Dedicated,16.0,92,110300
+HP,115000,62,Fair,256,HDD,32,Core i5/Ryzen 5,Integrated,17.3,77,20900
+Dell,151000,70,Good,256,HDD,8,Core i7/Ryzen 7,Dedicated,13.3,74,25000
+Asus,69000,20,Fair,512,SSD,16,Core i3/Ryzen 3,Integrated,17.3,90,34100
+Apple,208000,36,Fair,256,SSD,32,Apple M-series,Integrated,14.0,87,102900
+Apple,216000,20,Good,512,SSD,32,Apple M-series,Integrated,16.0,94,182000
+Lenovo,172000,35,Fair,2048,SSD,4,Core i7/Ryzen 7,Dedicated,14.0,75,77600
+Asus,147000,50,Fair,1024,HDD,8,Core i5/Ryzen 5,Dedicated,17.3,84,31800
+Acer,109000,15,Like New,2048,SSD,16,Core i3/Ryzen 3,Integrated,17.3,89,77500
+Dell,95000,60,Good,512,SSD,8,Core i5/Ryzen 5,Integrated,15.6,71,21700
+Apple,175000,23,Fair,512,SSD,8,Apple M-series,Integrated,14.0,95,106800
+MSI,207000,42,Fair,2048,SSD,8,Core i7/Ryzen 7,Dedicated,15.6,85,68900
+Apple,208000,10,Fair,2048,SSD,16,Apple M-series,Integrated,13.3,97,189600
+Apple,230000,70,Fair,512,SSD,16,Apple M-series,Dedicated,16.0,72,71600
+Dell,135000,60,Poor,1024,HDD,32,Core i7/Ryzen 7,Integrated,13.3,78,21300
+HP,108000,70,Fair,2048,HDD,16,Core i3/Ryzen 3,Dedicated,15.6,70,16000
+Acer,90000,50,Fair,2048,HDD,8,Core i3/Ryzen 3,Dedicated,13.3,78,15500
+Asus,87000,19,Fair,1024,HDD,16,Core i5/Ryzen 5,Integrated,13.3,94,47500
+Lenovo,105000,49,Good,256,SSD,32,Core i3/Ryzen 3,Integrated,17.3,85,31600
+Apple,176000,72,Fair,256,SSD,16,Apple M-series,Integrated,13.3,61,42800
+Dell,86000,18,Good,256,SSD,4,Core i5/Ryzen 5,Integrated,17.3,87,45200
+HP,160000,52,Poor,2048,SSD,4,Core i7/Ryzen 7,Dedicated,14.0,82,34300
+Apple,239000,65,Good,2048,SSD,32,Apple M-series,Integrated,16.0,78,92000
+Dell,138000,48,Fair,2048,SSD,4,Core i5/Ryzen 5,Dedicated,13.3,78,38300
+Dell,126000,29,Good,256,HDD,32,Core i7/Ryzen 7,Integrated,17.3,94,61200
+Apple,239000,48,Good,2048,SSD,32,Apple M-series,Integrated,16.0,78,128100
+HP,77000,15,Like New,256,HDD,8,Core i7/Ryzen 7,Integrated,16.0,96,51600
+Lenovo,98000,58,Fair,512,SSD,4,Core i5/Ryzen 5,Integrated,13.3,74,18800
+Apple,211000,62,Good,1024,SSD,32,Apple M-series,Integrated,14.0,70,78700
+HP,187000,56,Good,256,SSD,32,Core i7/Ryzen 7,Dedicated,17.3,77,54800
+Asus,54000,35,Good,256,HDD,8,Core i3/Ryzen 3,Dedicated,15.6,82,18000
+Asus,106000,56,Poor,1024,HDD,32,Core i3/Ryzen 3,Integrated,16.0,76,16200
+Asus,150000,40,Fair,1024,HDD,32,Core i3/Ryzen 3,Dedicated,17.3,88,51300
+HP,123000,58,Poor,256,SSD,16,Core i3/Ryzen 3,Dedicated,15.6,74,20600
+Asus,106000,7,Good,256,SSD,8,Core i5/Ryzen 5,Integrated,14.0,94,83900
+Dell,183000,57,Poor,2048,HDD,16,Core i5/Ryzen 5,Dedicated,17.3,80,36500
+Dell,135000,3,Like New,1024,HDD,16,Core i7/Ryzen 7,Integrated,15.6,96,128200
+Apple,228000,31,Good,2048,SSD,32,Apple M-series,Integrated,14.0,86,163800
+HP,160000,7,Like New,1024,HDD,32,Core i7/Ryzen 7,Dedicated,17.3,96,152000
+HP,69000,14,Good,256,HDD,32,Core i5/Ryzen 5,Integrated,17.3,86,42800
+Dell,54000,24,Good,1024,HDD,4,Core i3/Ryzen 3,Integrated,13.3,93,23700
+Asus,82000,10,Poor,512,SSD,8,Core i3/Ryzen 3,Integrated,16.0,94,39000
+Dell,169000,64,Fair,512,SSD,32,Core i5/Ryzen 5,Dedicated,13.3,74,39000
+Dell,146000,54,Fair,512,HDD,32,Core i3/Ryzen 3,Dedicated,15.6,83,36800
+Apple,207000,24,Fair,1024,SSD,32,Apple M-series,Integrated,14.0,91,136800
+HP,103000,30,Poor,1024,SSD,16,Core i3/Ryzen 3,Integrated,15.6,86,29600
+Dell,77000,55,Good,256,HDD,4,Core i7/Ryzen 7,Integrated,16.0,74,17600
+Dell,220000,12,Like New,2048,HDD,16,Core i7/Ryzen 7,Dedicated,17.3,94,209000
+Dell,160000,47,Good,1024,HDD,4,Core i7/Ryzen 7,Dedicated,15.6,77,46900
+Asus,142000,44,Good,1024,HDD,32,Core i5/Ryzen 5,Integrated,14.0,74,41200
+Acer,88000,26,Fair,512,HDD,16,Core i7/Ryzen 7,Integrated,14.0,84,33600
+HP,104000,4,Like New,512,SSD,16,Core i3/Ryzen 3,Dedicated,14.0,100,98800
+Lenovo,66000,69,Good,512,HDD,8,Core i5/Ryzen 5,Integrated,15.6,68,10500
+Acer,107000,68,Good,2048,HDD,4,Core i5/Ryzen 5,Dedicated,15.6,74,14100
+MSI,204000,35,Good,256,SSD,32,Core i5/Ryzen 5,Dedicated,17.3,89,89100
+Lenovo,111000,11,Good,256,SSD,16,Core i3/Ryzen 3,Dedicated,13.3,98,83500
+Acer,66000,33,Good,1024,SSD,4,Core i5/Ryzen 5,Integrated,13.3,88,25300
+Acer,68000,53,Fair,512,HDD,8,Core i5/Ryzen 5,Integrated,17.3,76,10700
+Asus,55000,64,Fair,1024,HDD,16,Core i3/Ryzen 3,Integrated,17.3,74,8300
+HP,143000,55,Fair,2048,SSD,4,Core i5/Ryzen 5,Integrated,17.3,76,30200
+Apple,173000,56,Fair,512,SSD,8,Apple M-series,Integrated,14.0,73,55400
+Apple,187000,60,Fair,2048,SSD,16,Apple M-series,Integrated,16.0,77,63600
+HP,159000,48,Fair,1024,HDD,32,Core i7/Ryzen 7,Integrated,13.3,75,42000
+HP,139000,64,Good,1024,HDD,32,Core i7/Ryzen 7,Integrated,13.3,74,30700
+HP,113000,56,Fair,2048,HDD,32,Core i5/Ryzen 5,Integrated,13.3,77,24200
+Lenovo,97000,27,Like New,2048,SSD,8,Core i3/Ryzen 3,Integrated,17.3,85,53500
+HP,102000,7,Good,1024,HDD,16,Core i3/Ryzen 3,Dedicated,15.6,100,91500
+Asus,161000,71,Fair,256,SSD,16,Core i5/Ryzen 5,Dedicated,16.0,71,21400
+Apple,219000,25,Good,512,SSD,32,Apple M-series,Dedicated,13.3,91,167900
+Dell,73000,58,Poor,512,HDD,16,Core i3/Ryzen 3,Integrated,16.0,76,10600
+Asus,107000,39,Fair,1024,HDD,32,Core i5/Ryzen 5,Integrated,13.3,81,30100
+Asus,107000,18,Fair,512,HDD,8,Core i7/Ryzen 7,Integrated,15.6,93,54700
+MSI,185000,65,Poor,512,SSD,16,Core i5/Ryzen 5,Dedicated,13.3,78,25100
+Acer,56000,43,Good,512,HDD,8,Core i5/Ryzen 5,Integrated,13.3,79,14000
+Acer,113000,3,Like New,1024,SSD,4,Core i7/Ryzen 7,Integrated,16.0,93,107400
+Dell,95000,50,Fair,1024,HDD,4,Core i7/Ryzen 7,Integrated,17.3,73,21300
+HP,185000,18,Like New,512,SSD,16,Core i7/Ryzen 7,Dedicated,16.0,94,156500
+Dell,100000,40,Poor,256,SSD,16,Core i5/Ryzen 5,Integrated,15.6,80,26500
+Lenovo,59000,67,Like New,1024,SSD,4,Core i3/Ryzen 3,Integrated,14.0,71,11600
+Acer,110000,57,Poor,256,SSD,4,Core i5/Ryzen 5,Dedicated,16.0,80,15100
+Dell,168000,13,Like New,512,HDD,8,Core i7/Ryzen 7,Dedicated,16.0,100,143000
+HP,65000,29,Good,2048,HDD,16,Core i3/Ryzen 3,Integrated,17.3,91,30200
+Dell,75000,47,Fair,512,SSD,4,Core i3/Ryzen 3,Integrated,17.3,89,18300
+Apple,192000,56,Fair,256,SSD,32,Apple M-series,Integrated,16.0,71,64500
+Apple,182000,18,Fair,512,SSD,8,Apple M-series,Integrated,13.3,89,125400
+Apple,198000,31,Like New,512,SSD,16,Apple M-series,Integrated,13.3,88,137600
+MSI,211000,57,Poor,256,SSD,32,Core i5/Ryzen 5,Dedicated,16.0,77,35200
+HP,161000,32,Good,2048,SSD,8,Core i7/Ryzen 7,Integrated,13.3,94,81700
+Asus,109000,24,Good,512,HDD,8,Core i5/Ryzen 5,Dedicated,13.3,91,54500
+Lenovo,102000,10,Good,256,SSD,4,Core i7/Ryzen 7,Integrated,15.6,97,77200
+Apple,201000,58,Fair,512,SSD,8,Apple M-series,Dedicated,16.0,72,67400
+Apple,187000,16,Like New,256,SSD,32,Apple M-series,Integrated,16.0,91,164800
+Asus,230000,52,Fair,2048,SSD,32,Core i7/Ryzen 7,Dedicated,16.0,71,72900
+Dell,150000,16,Good,256,HDD,32,Core i7/Ryzen 7,Integrated,13.3,89,99600
+Acer,97000,41,Good,2048,SSD,8,Core i7/Ryzen 7,Integrated,13.3,79,31500
+Apple,197000,12,Good,1024,SSD,16,Apple M-series,Integrated,16.0,92,177800
+Lenovo,106000,63,Poor,512,HDD,32,Core i7/Ryzen 7,Integrated,14.0,79,16000
+Asus,92000,51,Fair,2048,HDD,32,Core i3/Ryzen 3,Integrated,15.6,80,20700
+Dell,183000,16,Like New,256,SSD,16,Core i7/Ryzen 7,Dedicated,17.3,87,157100
+Dell,148000,60,Poor,512,HDD,32,Core i7/Ryzen 7,Integrated,14.0,77,24400
+MSI,226000,32,Good,512,SSD,16,Core i7/Ryzen 7,Dedicated,16.0,82,115700
+Dell,220000,72,Good,1024,SSD,32,Core i7/Ryzen 7,Dedicated,17.3,74,47500
+HP,126000,61,Like New,2048,HDD,16,Core i7/Ryzen 7,Integrated,13.3,77,30200
+HP,113000,7,Good,2048,HDD,4,Core i7/Ryzen 7,Integrated,17.3,100,87400
+Dell,92000,46,Good,1024,HDD,8,Core i5/Ryzen 5,Integrated,15.6,84,27300
+Asus,74000,59,Fair,256,SSD,8,Core i3/Ryzen 3,Integrated,15.6,77,13400
+Asus,207000,15,Fair,2048,HDD,32,Core i3/Ryzen 3,Dedicated,16.0,93,131400
+Dell,106000,64,Good,256,HDD,8,Core i5/Ryzen 5,Integrated,16.0,82,20700
+Asus,122000,4,Like New,1024,HDD,32,Core i5/Ryzen 5,Integrated,17.3,95,115900
+Dell,92000,42,Poor,256,SSD,8,Core i3/Ryzen 3,Integrated,15.6,81,20200
+Apple,196000,51,Fair,2048,SSD,16,Apple M-series,Integrated,13.3,81,79200
+Lenovo,92000,29,Poor,1024,SSD,16,Core i3/Ryzen 3,Integrated,13.3,92,33400
+MSI,142000,27,Poor,512,SSD,8,Core i5/Ryzen 5,Dedicated,15.6,85,47200
+Apple,234000,67,Fair,2048,SSD,16,Apple M-series,Dedicated,13.3,78,82000
+Dell,45000,13,Like New,256,HDD,8,Core i3/Ryzen 3,Integrated,16.0,95,27100
+HP,153000,54,Poor,512,SSD,16,Core i5/Ryzen 5,Dedicated,13.3,77,31000
+Asus,163000,15,Fair,2048,HDD,32,Core i7/Ryzen 7,Integrated,14.0,98,102800
+Apple,249000,30,Good,2048,SSD,8,Apple M-series,Dedicated,16.0,81,175000
+HP,57000,38,Poor,512,SSD,4,Core i3/Ryzen 3,Integrated,14.0,84,13700
+Asus,130000,61,Good,512,SSD,8,Core i5/Ryzen 5,Integrated,15.6,72,24600
+Dell,113000,27,Good,512,SSD,16,Core i5/Ryzen 5,Integrated,17.3,82,58800
+Apple,202000,22,Good,512,SSD,32,Apple M-series,Integrated,14.0,91,162400
+Apple,205000,31,Good,512,SSD,32,Apple M-series,Integrated,16.0,86,137400
+HP,169000,34,Fair,512,SSD,32,Core i5/Ryzen 5,Dedicated,16.0,83,74900
+HP,76000,61,Poor,512,SSD,16,Core i5/Ryzen 5,Integrated,16.0,69,11500
+Acer,109000,52,Good,256,SSD,16,Core i7/Ryzen 7,Integrated,17.3,78,26100
+Lenovo,58000,60,Poor,512,SSD,4,Core i3/Ryzen 3,Integrated,16.0,71,9100
+Lenovo,33000,26,Like New,512,HDD,8,Core i3/Ryzen 3,Integrated,13.3,90,14900
+MSI,184000,5,Good,2048,SSD,16,Core i5/Ryzen 5,Dedicated,13.3,100,174800
+HP,141000,71,Fair,2048,HDD,16,Core i3/Ryzen 3,Dedicated,15.6,71,21900
+HP,184000,12,Like New,2048,SSD,8,Core i7/Ryzen 7,Dedicated,13.3,90,174800
+Acer,74000,14,Poor,2048,HDD,4,Core i3/Ryzen 3,Integrated,16.0,87,29000
+Dell,136000,17,Good,256,HDD,16,Core i5/Ryzen 5,Dedicated,14.0,90,84400
+Lenovo,141000,27,Fair,2048,HDD,32,Core i3/Ryzen 3,Dedicated,15.6,86,68900
+Asus,170000,53,Poor,256,SSD,8,Core i7/Ryzen 7,Dedicated,17.3,75,29800
+Apple,203000,32,Like New,512,SSD,32,Apple M-series,Integrated,13.3,82,138500
+HP,162000,5,Like New,2048,SSD,4,Core i7/Ryzen 7,Dedicated,13.3,93,153900
+Dell,103000,7,Like New,1024,HDD,16,Core i7/Ryzen 7,Integrated,13.3,99,96500
+Apple,186000,12,Like New,256,SSD,16,Apple M-series,Integrated,13.3,99,176700
+HP,138000,57,Poor,2048,HDD,8,Core i7/Ryzen 7,Integrated,16.0,73,23500
+Dell,136000,39,Good,1024,SSD,32,Core i5/Ryzen 5,Integrated,17.3,84,56800
+Asus,94000,49,Good,2048,HDD,8,Core i3/Ryzen 3,Integrated,16.0,81,23600
+Acer,62000,26,Like New,1024,SSD,16,Core i3/Ryzen 3,Integrated,13.3,96,35500
+Asus,99000,23,Good,256,SSD,8,Core i3/Ryzen 3,Integrated,17.3,85,48100
+Dell,107000,43,Poor,1024,HDD,8,Core i7/Ryzen 7,Integrated,14.0,80,22300
+Dell,117000,49,Fair,256,HDD,4,Core i7/Ryzen 7,Integrated,14.0,82,28000
+Dell,167000,9,Like New,2048,SSD,4,Core i7/Ryzen 7,Dedicated,15.6,98,158600
+Apple,169000,7,Like New,256,SSD,8,Apple M-series,Integrated,13.3,94,160600
+MSI,233000,48,Good,2048,SSD,8,Core i7/Ryzen 7,Dedicated,17.3,83,78700
+HP,148000,69,Fair,1024,SSD,4,Core i5/Ryzen 5,Dedicated,15.6,76,23900
+Dell,133000,38,Good,512,HDD,32,Core i5/Ryzen 5,Integrated,15.6,85,51200
+Asus,97000,16,Good,256,HDD,8,Core i3/Ryzen 3,Dedicated,16.0,90,56400
+HP,69000,56,Poor,1024,HDD,4,Core i5/Ryzen 5,Integrated,16.0,73,10400
+Apple,174000,13,Good,256,SSD,8,Apple M-series,Integrated,14.0,92,135300
+Apple,250000,23,Like New,1024,SSD,16,Apple M-series,Dedicated,13.3,93,224300
+Lenovo,150000,8,Like New,256,HDD,32,Core i3/Ryzen 3,Dedicated,13.3,86,125800
+Asus,134000,65,Fair,256,HDD,32,Core i5/Ryzen 5,Integrated,14.0,74,19100
+Dell,147000,43,Good,256,SSD,16,Core i5/Ryzen 5,Dedicated,17.3,78,56700
+Acer,56000,8,Poor,1024,HDD,8,Core i5/Ryzen 5,Integrated,13.3,100,29900
+Asus,112000,41,Fair,1024,SSD,8,Core i5/Ryzen 5,Integrated,13.3,86,32700
+Asus,93000,49,Good,1024,SSD,8,Core i3/Ryzen 3,Integrated,16.0,80,25400
+Dell,90000,69,Like New,256,HDD,4,Core i3/Ryzen 3,Dedicated,17.3,72,16300
+Apple,217000,28,Good,2048,SSD,32,Apple M-series,Integrated,14.0,84,167100
+Acer,120000,49,Fair,2048,HDD,8,Core i5/Ryzen 5,Dedicated,16.0,83,25100
+Dell,135000,49,Poor,1024,SSD,16,Core i5/Ryzen 5,Integrated,17.3,85,27800
+Lenovo,210000,58,Like New,1024,SSD,32,Core i7/Ryzen 7,Dedicated,15.6,70,72800
+Asus,197000,32,Like New,2048,HDD,32,Core i5/Ryzen 5,Dedicated,14.0,89,101700
+Apple,149000,16,Fair,512,SSD,8,Apple M-series,Integrated,13.3,91,99900
+Asus,157000,10,Good,512,SSD,16,Core i5/Ryzen 5,Dedicated,15.6,96,149200
+Acer,70000,3,Like New,256,HDD,16,Core i7/Ryzen 7,Integrated,16.0,100,62300
+Lenovo,160000,41,Good,256,HDD,32,Core i7/Ryzen 7,Integrated,15.6,83,55000
+HP,127000,37,Poor,512,SSD,16,Core i5/Ryzen 5,Integrated,13.3,84,36900
+Acer,66000,65,Like New,512,SSD,16,Core i3/Ryzen 3,Integrated,14.0,64,10600
+HP,134000,53,Good,1024,SSD,32,Core i5/Ryzen 5,Integrated,16.0,79,39800
+Asus,161000,52,Like New,2048,HDD,32,Core i7/Ryzen 7,Integrated,14.0,77,48300
+Asus,113000,61,Fair,256,SSD,16,Core i5/Ryzen 5,Integrated,15.6,76,19100
+Asus,146000,62,Good,2048,HDD,8,Core i7/Ryzen 7,Integrated,16.0,79,29700
+Dell,137000,70,Good,2048,HDD,16,Core i7/Ryzen 7,Integrated,14.0,69,25800
+Apple,196000,16,Good,1024,SSD,8,Apple M-series,Integrated,16.0,92,163600
+Dell,162000,31,Good,256,SSD,4,Core i7/Ryzen 7,Dedicated,13.3,92,81800
+HP,96000,71,Good,256,HDD,4,Core i7/Ryzen 7,Integrated,17.3,65,12900
+HP,109000,50,Poor,2048,HDD,4,Core i7/Ryzen 7,Integrated,13.3,79,20200
+Lenovo,184000,58,Fair,256,SSD,16,Core i7/Ryzen 7,Dedicated,13.3,81,47800
+HP,79000,43,Fair,256,SSD,16,Core i3/Ryzen 3,Integrated,17.3,83,20200
+Asus,127000,3,Good,1024,HDD,16,Core i7/Ryzen 7,Integrated,14.0,94,115200
+Acer,143000,56,Poor,2048,SSD,16,Core i5/Ryzen 5,Dedicated,16.0,78,26600
+Dell,69000,70,Good,512,SSD,8,Core i3/Ryzen 3,Integrated,15.6,67,11000
+Lenovo,90000,48,Good,256,HDD,4,Core i7/Ryzen 7,Integrated,15.6,85,24900
+Lenovo,126000,15,Good,256,SSD,16,Core i7/Ryzen 7,Integrated,16.0,97,90500
+HP,85000,21,Good,512,HDD,4,Core i7/Ryzen 7,Integrated,16.0,92,44500
+Apple,239000,72,Poor,2048,SSD,32,Apple M-series,Integrated,14.0,72,55900
+Asus,160000,14,Good,2048,HDD,32,Core i5/Ryzen 5,Integrated,13.3,100,115100
+MSI,145000,43,Fair,256,SSD,16,Core i5/Ryzen 5,Dedicated,14.0,87,42600
+Lenovo,106000,35,Poor,512,HDD,8,Core i5/Ryzen 5,Dedicated,16.0,86,28800
+Acer,143000,4,Good,1024,SSD,16,Core i7/Ryzen 7,Dedicated,15.6,100,135800
+MSI,218000,59,Like New,1024,SSD,16,Core i5/Ryzen 5,Dedicated,17.3,72,55300
+Dell,171000,64,Fair,2048,SSD,4,Core i7/Ryzen 7,Dedicated,16.0,71,39400
+Lenovo,172000,38,Fair,1024,SSD,8,Core i7/Ryzen 7,Dedicated,13.3,83,64000
+HP,111000,59,Good,1024,SSD,16,Core i3/Ryzen 3,Dedicated,15.6,71,25900
+MSI,238000,2,Good,1024,SSD,32,Core i5/Ryzen 5,Dedicated,13.3,99,226100
+Apple,186000,19,Good,1024,SSD,8,Apple M-series,Integrated,14.0,90,153100
+HP,97000,68,Fair,256,SSD,4,Core i3/Ryzen 3,Dedicated,17.3,66,14900
+Acer,66000,29,Fair,2048,SSD,16,Core i3/Ryzen 3,Integrated,16.0,81,25800
+Dell,196000,38,Poor,2048,HDD,32,Core i7/Ryzen 7,Integrated,16.0,83,63100
+Asus,183000,54,Poor,2048,SSD,32,Core i3/Ryzen 3,Dedicated,13.3,79,35700
+HP,100000,26,Good,256,HDD,32,Core i5/Ryzen 5,Integrated,13.3,93,48500
+MSI,240000,69,Fair,256,SSD,16,Core i7/Ryzen 7,Dedicated,16.0,76,35100
+Acer,87000,60,Fair,2048,HDD,4,Core i5/Ryzen 5,Integrated,13.3,69,11300
+Dell,207000,69,Good,2048,SSD,32,Core i5/Ryzen 5,Dedicated,13.3,69,48300
+Asus,162000,46,Good,2048,SSD,32,Core i5/Ryzen 5,Integrated,16.0,83,60600
+Dell,119000,65,Fair,256,SSD,32,Core i5/Ryzen 5,Integrated,13.3,68,20400
+Lenovo,78000,50,Fair,2048,HDD,4,Core i5/Ryzen 5,Integrated,17.3,79,16900
+Lenovo,153000,1,Like New,512,HDD,4,Core i7/Ryzen 7,Dedicated,16.0,100,145400
+Asus,90000,51,Good,512,HDD,8,Core i7/Ryzen 7,Integrated,16.0,78,20100
+Apple,195000,42,Fair,2048,SSD,16,Apple M-series,Integrated,13.3,78,92600
+Dell,60000,21,Good,1024,HDD,4,Core i3/Ryzen 3,Integrated,14.0,99,32000
+Lenovo,111000,41,Good,2048,SSD,8,Core i5/Ryzen 5,Integrated,15.6,80,41700
+Lenovo,114000,39,Good,512,HDD,32,Core i3/Ryzen 3,Dedicated,15.6,84,40900
+HP,120000,51,Fair,256,SSD,32,Core i5/Ryzen 5,Integrated,14.0,77,28200
+Apple,193000,25,Good,256,SSD,32,Apple M-series,Integrated,14.0,84,141900
+Dell,154000,51,Good,2048,HDD,32,Core i3/Ryzen 3,Dedicated,14.0,87,48200
+Acer,92000,59,Fair,2048,HDD,16,Core i5/Ryzen 5,Integrated,16.0,70,13300
+Apple,205000,52,Fair,256,SSD,32,Apple M-series,Integrated,14.0,81,82400
+HP,106000,49,Fair,2048,HDD,4,Core i3/Ryzen 3,Dedicated,16.0,74,26800
+MSI,231000,36,Good,1024,SSD,32,Core i7/Ryzen 7,Dedicated,13.3,82,114900
+Apple,185000,53,Poor,512,SSD,8,Apple M-series,Integrated,16.0,73,46900
+Asus,133000,66,Poor,256,HDD,8,Core i5/Ryzen 5,Dedicated,14.0,68,14200
+Dell,186000,43,Poor,512,SSD,16,Core i5/Ryzen 5,Dedicated,15.6,85,56000
+Acer,78000,53,Good,2048,HDD,16,Core i5/Ryzen 5,Integrated,15.6,83,17500
+Asus,87000,41,Fair,256,SSD,8,Core i5/Ryzen 5,Integrated,17.3,82,26300
+Acer,97000,22,Good,2048,SSD,16,Core i3/Ryzen 3,Integrated,15.6,95,55100
+Dell,123000,25,Good,256,SSD,16,Core i3/Ryzen 3,Dedicated,17.3,90,70200
+HP,82000,36,Good,2048,HDD,8,Core i3/Ryzen 3,Integrated,17.3,88,30500
+Asus,165000,6,Good,512,HDD,16,Core i7/Ryzen 7,Dedicated,17.3,100,152900
+Dell,102000,48,Fair,256,HDD,4,Core i3/Ryzen 3,Dedicated,16.0,82,21700
+Dell,118000,62,Good,2048,SSD,4,Core i7/Ryzen 7,Integrated,15.6,73,28800
+Apple,193000,58,Good,512,SSD,32,Apple M-series,Integrated,13.3,75,76000
+MSI,223000,2,Like New,512,SSD,32,Core i7/Ryzen 7,Dedicated,15.6,98,211800
+Lenovo,126000,16,Good,2048,HDD,4,Core i7/Ryzen 7,Integrated,16.0,91,79000
+Lenovo,131000,16,Like New,1024,HDD,32,Core i7/Ryzen 7,Integrated,17.3,98,110100
+Asus,128000,36,Poor,512,SSD,32,Core i5/Ryzen 5,Integrated,16.0,85,36200
+HP,145000,18,Like New,256,HDD,16,Core i7/Ryzen 7,Dedicated,13.3,89,86400
+HP,173000,68,Good,512,HDD,16,Core i7/Ryzen 7,Dedicated,17.3,74,35400
+HP,89000,50,Fair,1024,HDD,4,Core i7/Ryzen 7,Integrated,13.3,81,19000
+Lenovo,139000,10,Like New,256,SSD,32,Core i7/Ryzen 7,Integrated,14.0,92,123900
+Dell,143000,57,Good,2048,SSD,32,Core i5/Ryzen 5,Integrated,13.3,80,38000
+Acer,94000,41,Fair,256,SSD,8,Core i5/Ryzen 5,Integrated,15.6,77,21400
+Asus,201000,1,Like New,1024,SSD,32,Core i5/Ryzen 5,Dedicated,15.6,95,191000
+Dell,208000,32,Good,1024,HDD,32,Core i7/Ryzen 7,Dedicated,16.0,88,113000
+Lenovo,114000,32,Fair,512,HDD,16,Core i3/Ryzen 3,Dedicated,17.3,92,43500
+Apple,247000,14,Fair,2048,SSD,32,Apple M-series,Integrated,16.0,100,200600
+MSI,200000,50,Like New,2048,SSD,8,Core i5/Ryzen 5,Dedicated,17.3,74,65600
+Acer,80000,3,Good,512,HDD,8,Core i7/Ryzen 7,Integrated,15.6,100,72200
+Acer,106000,25,Fair,256,SSD,4,Core i7/Ryzen 7,Integrated,13.3,94,44200
+Dell,132000,72,Good,2048,HDD,32,Core i3/Ryzen 3,Integrated,17.3,67,23100
+Apple,215000,72,Good,256,SSD,8,Apple M-series,Dedicated,13.3,72,63500
+Dell,112000,50,Good,2048,SSD,32,Core i3/Ryzen 3,Integrated,16.0,81,34900
+Apple,209000,49,Fair,1024,SSD,32,Apple M-series,Integrated,16.0,76,90200
+Apple,193000,58,Good,512,SSD,16,Apple M-series,Integrated,14.0,74,73400
+Apple,197000,6,Good,1024,SSD,8,Apple M-series,Integrated,13.3,97,187200
+MSI,184000,70,Fair,512,SSD,16,Core i5/Ryzen 5,Dedicated,17.3,74,27900
+Apple,250000,5,Good,2048,SSD,32,Apple M-series,Dedicated,13.3,94,237500
+Apple,181000,4,Good,256,SSD,16,Apple M-series,Integrated,14.0,96,172000
+Asus,144000,55,Good,256,SSD,8,Core i5/Ryzen 5,Dedicated,14.0,81,36900
+Lenovo,150000,46,Like New,256,SSD,32,Core i7/Ryzen 7,Integrated,15.6,84,65000
+Asus,161000,13,Like New,256,SSD,8,Core i7/Ryzen 7,Dedicated,15.6,96,134700
+Lenovo,138000,17,Poor,1024,SSD,32,Core i5/Ryzen 5,Integrated,16.0,92,76700
+Acer,53000,45,Fair,512,HDD,4,Core i5/Ryzen 5,Integrated,17.3,80,10400
+Lenovo,118000,71,Fair,512,SSD,8,Core i3/Ryzen 3,Dedicated,14.0,71,18300
+HP,72000,19,Like New,512,SSD,8,Core i5/Ryzen 5,Integrated,13.3,99,51300
+Lenovo,48000,45,Poor,256,HDD,8,Core i3/Ryzen 3,Integrated,14.0,84,7800
+HP,103000,62,Poor,256,HDD,32,Core i5/Ryzen 5,Integrated,13.3,69,12900
+Dell,108000,43,Fair,256,HDD,32,Core i5/Ryzen 5,Integrated,15.6,84,31800
+HP,119000,36,Fair,256,SSD,4,Core i3/Ryzen 3,Dedicated,16.0,83,40000
+Apple,201000,72,Fair,1024,SSD,16,Apple M-series,Integrated,14.0,76,58500
+Asus,138000,9,Like New,512,SSD,32,Core i5/Ryzen 5,Integrated,14.0,96,131100
+Dell,95000,52,Good,256,HDD,8,Core i7/Ryzen 7,Integrated,13.3,81,23000
+Apple,250000,17,Good,2048,SSD,32,Apple M-series,Dedicated,13.3,92,237500
+Dell,108000,56,Good,512,SSD,8,Core i3/Ryzen 3,Dedicated,14.0,75,25000
+Asus,122000,64,Good,2048,HDD,32,Core i3/Ryzen 3,Integrated,14.0,75,22600
+Dell,220000,50,Good,2048,SSD,32,Core i5/Ryzen 5,Dedicated,13.3,80,80500
+Lenovo,177000,37,Fair,2048,SSD,4,Core i5/Ryzen 5,Dedicated,17.3,90,73800
+Asus,127000,41,Fair,2048,HDD,8,Core i7/Ryzen 7,Integrated,14.0,87,40100
+Apple,185000,37,Good,1024,SSD,16,Apple M-series,Integrated,14.0,83,109500
+Asus,194000,27,Like New,512,SSD,32,Core i5/Ryzen 5,Dedicated,16.0,91,138900
+Dell,141000,59,Good,2048,HDD,8,Core i7/Ryzen 7,Integrated,16.0,66,32500
+Dell,76000,39,Fair,2048,HDD,8,Core i5/Ryzen 5,Integrated,16.0,85,23600
+Lenovo,173000,49,Good,512,HDD,32,Core i5/Ryzen 5,Dedicated,13.3,79,50400
+Acer,59000,67,Good,256,HDD,4,Core i5/Ryzen 5,Integrated,13.3,74,6500
+Dell,145000,60,Poor,1024,HDD,8,Core i7/Ryzen 7,Integrated,17.3,67,21800
+Lenovo,134000,26,Good,512,SSD,8,Core i7/Ryzen 7,Integrated,14.0,96,75300
+Dell,153000,10,Like New,256,SSD,32,Core i5/Ryzen 5,Integrated,17.3,96,137500
+HP,82000,41,Fair,1024,SSD,8,Core i5/Ryzen 5,Integrated,13.3,81,25000
+Lenovo,155000,36,Good,1024,HDD,4,Core i7/Ryzen 7,Dedicated,16.0,87,63900
+Lenovo,41000,19,Fair,256,HDD,4,Core i3/Ryzen 3,Integrated,15.6,91,15300
+Lenovo,133000,61,Fair,512,HDD,4,Core i7/Ryzen 7,Dedicated,16.0,75,24600
+Apple,173000,44,Poor,2048,SSD,16,Apple M-series,Integrated,14.0,86,69500
+Lenovo,85000,63,Poor,1024,HDD,8,Core i3/Ryzen 3,Integrated,14.0,65,10200
+Lenovo,78000,28,Good,256,SSD,4,Core i5/Ryzen 5,Integrated,17.3,87,37800
+Lenovo,131000,4,Good,1024,SSD,16,Core i3/Ryzen 3,Dedicated,17.3,93,124400
+Apple,201000,52,Like New,512,SSD,32,Apple M-series,Integrated,13.3,89,101700
+HP,99000,7,Good,512,SSD,4,Core i5/Ryzen 5,Integrated,13.3,100,77700
+HP,146000,9,Like New,2048,SSD,8,Core i5/Ryzen 5,Integrated,15.6,95,127900
+Apple,250000,57,Fair,2048,SSD,32,Apple M-series,Dedicated,14.0,77,117000
+Dell,70000,64,Good,1024,HDD,4,Core i3/Ryzen 3,Integrated,16.0,69,12700
+HP,153000,34,Good,1024,SSD,4,Core i5/Ryzen 5,Dedicated,15.6,84,69700
+Asus,125000,69,Fair,256,SSD,32,Core i7/Ryzen 7,Integrated,17.3,70,19300
+Dell,143000,38,Poor,2048,SSD,32,Core i5/Ryzen 5,Integrated,14.0,81,45300
+Asus,152000,55,Poor,2048,SSD,16,Core i5/Ryzen 5,Integrated,16.0,75,26600
+HP,131000,58,Good,1024,HDD,4,Core i5/Ryzen 5,Dedicated,13.3,80,28400
+Asus,140000,35,Like New,2048,HDD,16,Core i5/Ryzen 5,Integrated,15.6,89,59600
+HP,87000,63,Fair,1024,HDD,8,Core i5/Ryzen 5,Integrated,15.6,73,15300
+HP,88000,49,Poor,256,SSD,4,Core i5/Ryzen 5,Integrated,16.0,78,16400
+Lenovo,171000,21,Good,1024,SSD,32,Core i7/Ryzen 7,Integrated,17.3,100,119500
+Acer,97000,55,Poor,512,HDD,16,Core i5/Ryzen 5,Dedicated,17.3,76,14200
+HP,121000,50,Good,2048,HDD,4,Core i7/Ryzen 7,Integrated,15.6,76,32100
+HP,139000,13,Good,2048,SSD,8,Core i5/Ryzen 5,Dedicated,16.0,96,117500
+Lenovo,118000,8,Good,256,SSD,32,Core i5/Ryzen 5,Integrated,14.0,97,101600
+Lenovo,162000,39,Poor,1024,HDD,4,Core i7/Ryzen 7,Dedicated,17.3,88,43900
+Apple,210000,3,Like New,2048,SSD,8,Apple M-series,Integrated,16.0,100,199500
+HP,90000,25,Good,1024,HDD,8,Core i5/Ryzen 5,Integrated,15.6,80,43700
+HP,85000,51,Fair,1024,SSD,32,Core i3/Ryzen 3,Integrated,17.3,83,23100
+Acer,139000,16,Good,512,SSD,16,Core i7/Ryzen 7,Dedicated,17.3,96,108500
+HP,144000,67,Poor,512,HDD,4,Core i5/Ryzen 5,Dedicated,15.6,75,16500
+HP,85000,66,Like New,256,HDD,8,Core i3/Ryzen 3,Dedicated,17.3,70,14600
+MSI,236000,50,Fair,1024,SSD,32,Core i7/Ryzen 7,Dedicated,13.3,79,67300
+HP,130000,10,Good,1024,SSD,32,Core i5/Ryzen 5,Integrated,17.3,93,112500
+Apple,187000,48,Good,256,SSD,16,Apple M-series,Integrated,14.0,81,80300
+Dell,140000,56,Fair,512,SSD,8,Core i7/Ryzen 7,Integrated,13.3,76,31300
+Apple,157000,56,Poor,256,SSD,8,Apple M-series,Integrated,16.0,74,36900
+Apple,179000,63,Good,256,SSD,16,Apple M-series,Integrated,14.0,69,58900
+HP,174000,34,Good,1024,HDD,16,Core i7/Ryzen 7,Dedicated,14.0,80,82200
+Asus,183000,16,Good,1024,SSD,8,Core i7/Ryzen 7,Integrated,13.3,94,129600
+Lenovo,136000,7,Like New,2048,HDD,4,Core i5/Ryzen 5,Dedicated,17.3,100,122200
+Apple,160000,56,Fair,256,SSD,16,Apple M-series,Integrated,13.3,74,53000
+Lenovo,117000,62,Poor,1024,SSD,4,Core i5/Ryzen 5,Integrated,15.6,78,19000
+Apple,198000,34,Fair,1024,SSD,16,Apple M-series,Integrated,14.0,85,103000
+MSI,190000,24,Good,2048,SSD,8,Core i5/Ryzen 5,Dedicated,13.3,91,107400
+Apple,200000,43,Good,512,SSD,8,Apple M-series,Integrated,16.0,81,98100
+Lenovo,154000,3,Good,2048,HDD,32,Core i7/Ryzen 7,Integrated,13.3,95,146300
+Dell,158000,39,Poor,1024,HDD,32,Core i5/Ryzen 5,Dedicated,13.3,78,47700
+Lenovo,99000,23,Poor,512,HDD,32,Core i3/Ryzen 3,Integrated,14.0,87,35000
+HP,173000,21,Fair,2048,SSD,16,Core i7/Ryzen 7,Integrated,13.3,93,108500
+Asus,72000,27,Like New,512,HDD,8,Core i7/Ryzen 7,Integrated,17.3,90,36200
+Dell,158000,1,Like New,512,HDD,32,Core i5/Ryzen 5,Dedicated,17.3,99,150100
+Acer,77000,31,Like New,256,HDD,16,Core i7/Ryzen 7,Integrated,14.0,94,33800
+HP,72000,51,Good,512,HDD,16,Core i5/Ryzen 5,Integrated,16.0,76,18200
+Asus,175000,7,Like New,2048,SSD,32,Core i5/Ryzen 5,Integrated,16.0,97,166200
+Asus,129000,2,Like New,512,HDD,16,Core i5/Ryzen 5,Dedicated,13.3,97,122600
+MSI,240000,45,Fair,2048,SSD,32,Core i7/Ryzen 7,Dedicated,13.3,82,71800
+Dell,125000,45,Good,512,HDD,16,Core i7/Ryzen 7,Integrated,14.0,79,40000
+Dell,109000,42,Fair,512,HDD,4,Core i3/Ryzen 3,Dedicated,13.3,79,26400
+Dell,67000,11,Good,2048,HDD,4,Core i5/Ryzen 5,Integrated,13.3,90,45100
+Dell,100000,72,Like New,1024,SSD,8,Core i5/Ryzen 5,Integrated,15.6,69,19700
+Lenovo,182000,21,Poor,1024,SSD,32,Core i7/Ryzen 7,Integrated,13.3,93,90200
+MSI,233000,6,Good,2048,SSD,16,Core i7/Ryzen 7,Dedicated,17.3,93,221400
+MSI,211000,24,Poor,512,SSD,16,Core i7/Ryzen 7,Dedicated,14.0,86,95400
+HP,78000,30,Fair,512,SSD,8,Core i5/Ryzen 5,Integrated,15.6,89,30300
+Lenovo,98000,31,Good,512,HDD,8,Core i3/Ryzen 3,Dedicated,16.0,87,41800
+Asus,188000,7,Good,1024,HDD,16,Core i7/Ryzen 7,Dedicated,13.3,100,178600
+Acer,122000,62,Poor,1024,SSD,4,Core i7/Ryzen 7,Dedicated,15.6,76,17300
+Dell,141000,63,Fair,1024,SSD,16,Core i7/Ryzen 7,Integrated,16.0,78,32500
+HP,171000,21,Poor,2048,SSD,16,Core i5/Ryzen 5,Dedicated,17.3,94,89200
+Asus,204000,43,Good,512,SSD,16,Core i7/Ryzen 7,Dedicated,14.0,85,81400
+Dell,89000,68,Good,256,SSD,16,Core i5/Ryzen 5,Integrated,13.3,77,16200
+HP,26000,43,Good,256,HDD,4,Core i3/Ryzen 3,Integrated,17.3,84,6900
+MSI,240000,22,Fair,256,SSD,32,Core i7/Ryzen 7,Dedicated,17.3,98,149900
+MSI,226000,27,Good,1024,SSD,16,Core i5/Ryzen 5,Dedicated,14.0,89,123300
+Acer,102000,58,Fair,1024,HDD,4,Core i5/Ryzen 5,Dedicated,16.0,80,16200
+Asus,118000,53,Good,256,SSD,32,Core i5/Ryzen 5,Integrated,13.3,85,30300
+Dell,161000,44,Fair,512,SSD,16,Core i7/Ryzen 7,Dedicated,15.6,83,59200
+Dell,106000,40,Good,256,HDD,32,Core i3/Ryzen 3,Integrated,15.6,85,34900
+HP,69000,20,Good,1024,HDD,4,Core i5/Ryzen 5,Integrated,17.3,94,33100
+Lenovo,141000,64,Good,2048,SSD,4,Core i7/Ryzen 7,Integrated,13.3,74,29500
+HP,100000,63,Fair,256,HDD,8,Core i3/Ryzen 3,Dedicated,14.0,70,15400
+Lenovo,166000,23,Fair,1024,SSD,8,Core i5/Ryzen 5,Dedicated,16.0,97,92000
+HP,99000,52,Poor,512,SSD,8,Core i5/Ryzen 5,Integrated,13.3,81,17500
+Asus,187000,61,Fair,2048,SSD,16,Core i5/Ryzen 5,Dedicated,14.0,79,39900
+Dell,163000,17,Fair,256,SSD,4,Core i5/Ryzen 5,Dedicated,14.0,94,95000
+Dell,168000,26,Poor,256,SSD,4,Core i7/Ryzen 7,Dedicated,13.3,97,59200
+Apple,198000,66,Fair,1024,SSD,8,Apple M-series,Integrated,14.0,76,52300
+Apple,205000,58,Good,512,SSD,16,Apple M-series,Integrated,13.3,75,80300
+Asus,161000,70,Good,256,SSD,32,Core i5/Ryzen 5,Integrated,13.3,68,23100
+HP,123000,63,Good,256,HDD,4,Core i5/Ryzen 5,Dedicated,13.3,71,20200
+Dell,68000,50,Like New,256,HDD,16,Core i3/Ryzen 3,Integrated,14.0,81,19600
+Asus,85000,10,Good,512,SSD,16,Core i3/Ryzen 3,Integrated,14.0,97,66400
+HP,137000,33,Fair,2048,SSD,32,Core i3/Ryzen 3,Integrated,17.3,82,58100
+Apple,250000,28,Good,1024,SSD,32,Apple M-series,Dedicated,13.3,91,198800
+Dell,188000,52,Fair,2048,HDD,32,Core i7/Ryzen 7,Dedicated,13.3,77,56600
+Apple,193000,10,Like New,2048,SSD,8,Apple M-series,Integrated,13.3,93,183400
+Lenovo,162000,67,Fair,2048,SSD,8,Core i5/Ryzen 5,Dedicated,13.3,71,31400
+Dell,138000,1,Like New,1024,SSD,4,Core i7/Ryzen 7,Integrated,13.3,97,131100
+Apple,186000,40,Fair,512,SSD,16,Apple M-series,Integrated,16.0,89,100300
+Apple,242000,69,Like New,2048,SSD,32,Apple M-series,Integrated,16.0,73,99500
+Lenovo,111000,16,Good,2048,SSD,4,Core i3/Ryzen 3,Integrated,16.0,88,67500
+Apple,240000,52,Poor,1024,SSD,16,Apple M-series,Dedicated,16.0,75,86600
+Asus,156000,11,Good,512,HDD,32,Core i7/Ryzen 7,Integrated,17.3,98,128000
+Apple,201000,41,Poor,512,SSD,32,Apple M-series,Integrated,14.0,80,74800
+Lenovo,176000,8,Like New,2048,HDD,32,Core i5/Ryzen 5,Dedicated,15.6,100,167200
+HP,80000,24,Poor,256,HDD,4,Core i3/Ryzen 3,Dedicated,15.6,95,25200
+HP,106000,32,Good,1024,SSD,16,Core i5/Ryzen 5,Integrated,13.3,83,51700
+Apple,182000,6,Good,1024,SSD,8,Apple M-series,Integrated,13.3,99,172900
+Asus,153000,72,Fair,1024,SSD,8,Core i7/Ryzen 7,Integrated,13.3,64,22200
+Acer,77000,48,Fair,512,SSD,4,Core i3/Ryzen 3,Integrated,17.3,84,14000
+Apple,199000,20,Like New,512,SSD,16,Apple M-series,Integrated,14.0,94,167000
+Apple,178000,60,Fair,1024,SSD,16,Apple M-series,Integrated,13.3,70,53200
+Acer,114000,58,Good,512,HDD,16,Core i7/Ryzen 7,Dedicated,14.0,73,24000
+HP,157000,12,Like New,512,SSD,32,Core i5/Ryzen 5,Dedicated,14.0,100,149200
+Apple,193000,39,Good,2048,SSD,16,Apple M-series,Integrated,16.0,86,114600
+Dell,124000,26,Fair,1024,SSD,16,Core i5/Ryzen 5,Integrated,17.3,87,55500
+Lenovo,69000,34,Fair,512,HDD,16,Core i3/Ryzen 3,Integrated,16.0,82,24500
+Lenovo,113000,67,Fair,2048,SSD,4,Core i3/Ryzen 3,Dedicated,15.6,75,19800
+Lenovo,76000,32,Good,256,SSD,4,Core i5/Ryzen 5,Integrated,16.0,92,34600
+MSI,205000,41,Fair,512,SSD,32,Core i5/Ryzen 5,Dedicated,16.0,81,61700
+HP,166000,30,Good,2048,SSD,16,Core i5/Ryzen 5,Dedicated,16.0,86,99800
+Dell,47000,18,Like New,256,HDD,4,Core i3/Ryzen 3,Integrated,15.6,99,25400
+HP,98000,13,Good,2048,HDD,32,Core i3/Ryzen 3,Integrated,13.3,92,64900
+Dell,76000,10,Like New,512,SSD,8,Core i3/Ryzen 3,Integrated,15.6,98,60500
+Dell,83000,47,Fair,256,HDD,16,Core i5/Ryzen 5,Integrated,14.0,80,21600
+Apple,187000,18,Good,512,SSD,16,Apple M-series,Integrated,16.0,95,142200
+Dell,129000,43,Fair,2048,HDD,16,Core i5/Ryzen 5,Integrated,16.0,81,38400
+Lenovo,78000,30,Fair,2048,SSD,4,Core i3/Ryzen 3,Integrated,17.3,77,29600
+Apple,201000,11,Good,1024,SSD,16,Apple M-series,Integrated,13.3,86,182700
+HP,88000,69,Good,256,SSD,32,Core i3/Ryzen 3,Integrated,17.3,69,14400
+Lenovo,150000,37,Fair,256,SSD,32,Core i3/Ryzen 3,Dedicated,15.6,82,54400
+Lenovo,46000,44,Good,512,HDD,8,Core i3/Ryzen 3,Integrated,14.0,83,13000
+Asus,135000,14,Fair,256,SSD,8,Core i3/Ryzen 3,Dedicated,16.0,100,80100
+Asus,125000,57,Poor,2048,HDD,8,Core i7/Ryzen 7,Integrated,14.0,72,20500
+Lenovo,170000,70,Fair,256,SSD,8,Core i5/Ryzen 5,Dedicated,14.0,72,27100
+Apple,192000,14,Fair,256,SSD,32,Apple M-series,Integrated,16.0,91,145900
+HP,79000,62,Good,256,HDD,16,Core i7/Ryzen 7,Integrated,14.0,79,15700
+Lenovo,64000,15,Good,512,SSD,16,Core i3/Ryzen 3,Integrated,15.6,86,44800
+Dell,152000,48,Good,1024,SSD,8,Core i7/Ryzen 7,Integrated,14.0,81,57600
+Apple,182000,11,Like New,512,SSD,16,Apple M-series,Integrated,16.0,99,172900
+Dell,148000,41,Good,1024,SSD,32,Core i5/Ryzen 5,Integrated,16.0,80,60700
+HP,82000,9,Like New,256,SSD,4,Core i3/Ryzen 3,Integrated,17.3,100,61400
+HP,117000,69,Good,512,HDD,32,Core i7/Ryzen 7,Integrated,14.0,68,21100
+Apple,215000,17,Good,512,SSD,16,Apple M-series,Dedicated,16.0,92,183600
+Asus,149000,50,Fair,256,HDD,16,Core i7/Ryzen 7,Integrated,15.6,78,33000
+Acer,87000,46,Fair,1024,SSD,4,Core i7/Ryzen 7,Integrated,16.0,88,19800
+Dell,173000,12,Like New,512,SSD,32,Core i7/Ryzen 7,Dedicated,13.3,90,164400
+Acer,54000,59,Poor,256,SSD,4,Core i3/Ryzen 3,Integrated,16.0,75,5700
+Apple,170000,34,Good,1024,SSD,16,Apple M-series,Integrated,13.3,83,101500
+Acer,58000,64,Fair,512,HDD,8,Core i5/Ryzen 5,Integrated,15.6,73,6900
+MSI,196000,14,Good,1024,SSD,16,Core i7/Ryzen 7,Dedicated,13.3,92,170000
+Apple,223000,47,Good,2048,SSD,16,Apple M-series,Integrated,14.0,83,118900
+Asus,77000,24,Poor,256,SSD,8,Core i3/Ryzen 3,Integrated,15.6,89,22200
+MSI,188000,36,Poor,512,SSD,8,Core i7/Ryzen 7,Dedicated,14.0,90,52200
+Acer,113000,16,Like New,1024,HDD,4,Core i7/Ryzen 7,Dedicated,13.3,88,76400
+MSI,223000,60,Good,1024,SSD,16,Core i7/Ryzen 7,Dedicated,15.6,67,54400
+HP,168000,63,Poor,2048,SSD,16,Core i3/Ryzen 3,Dedicated,16.0,77,28600
+Apple,162000,17,Like New,1024,SSD,8,Apple M-series,Integrated,14.0,95,144700
+Asus,76000,65,Fair,1024,HDD,8,Core i5/Ryzen 5,Integrated,14.0,73,10100
+Lenovo,137000,10,Like New,1024,SSD,8,Core i3/Ryzen 3,Dedicated,17.3,94,119000
+Lenovo,117000,30,Like New,256,HDD,4,Core i5/Ryzen 5,Dedicated,13.3,90,50900
+HP,112000,46,Good,512,HDD,32,Core i7/Ryzen 7,Integrated,13.3,74,36700
+Lenovo,80000,52,Fair,256,HDD,8,Core i3/Ryzen 3,Dedicated,17.3,79,16500
+Apple,223000,21,Fair,1024,SSD,32,Apple M-series,Integrated,16.0,91,158700
+Lenovo,117000,8,Like New,1024,SSD,16,Core i5/Ryzen 5,Integrated,13.3,96,111200
+Apple,185000,49,Fair,512,SSD,16,Apple M-series,Integrated,13.3,75,73700
+Lenovo,103000,59,Good,256,HDD,32,Core i5/Ryzen 5,Integrated,14.0,72,21300
+Asus,191000,59,Fair,256,HDD,32,Core i7/Ryzen 7,Dedicated,13.3,72,36300
+HP,164000,27,Good,1024,SSD,16,Core i5/Ryzen 5,Dedicated,16.0,96,91600
+HP,110000,7,Like New,256,SSD,8,Core i7/Ryzen 7,Integrated,15.6,89,95600
+Dell,183000,17,Good,1024,HDD,32,Core i5/Ryzen 5,Dedicated,15.6,95,134600
+MSI,149000,30,Good,512,SSD,8,Core i5/Ryzen 5,Dedicated,14.0,93,66600
+Lenovo,156000,29,Like New,1024,SSD,8,Core i5/Ryzen 5,Dedicated,16.0,88,107100
+Dell,51000,25,Poor,2048,HDD,8,Core i3/Ryzen 3,Integrated,13.3,90,16800
+Apple,250000,32,Poor,256,SSD,32,Apple M-series,Dedicated,14.0,85,117700
+Dell,75000,67,Fair,1024,HDD,4,Core i5/Ryzen 5,Integrated,14.0,74,11300
+HP,85000,4,Good,512,HDD,8,Core i3/Ryzen 3,Dedicated,15.6,98,66500
+MSI,240000,27,Poor,512,SSD,32,Core i7/Ryzen 7,Dedicated,16.0,94,93900
+Lenovo,175000,22,Good,512,HDD,32,Core i7/Ryzen 7,Dedicated,16.0,93,127900
+Dell,131000,66,Fair,2048,HDD,4,Core i3/Ryzen 3,Dedicated,14.0,76,23000
+Asus,101000,44,Poor,512,SSD,32,Core i3/Ryzen 3,Integrated,14.0,89,22500
+Dell,161000,17,Good,256,HDD,32,Core i7/Ryzen 7,Integrated,15.6,100,103900
+Asus,179000,30,Fair,2048,HDD,8,Core i7/Ryzen 7,Dedicated,15.6,89,72400
+Dell,169000,42,Fair,2048,SSD,4,Core i5/Ryzen 5,Dedicated,16.0,85,60800
+Lenovo,80000,33,Good,1024,HDD,8,Core i5/Ryzen 5,Integrated,17.3,86,33000
+Acer,82000,48,Poor,1024,SSD,16,Core i5/Ryzen 5,Integrated,15.6,81,15700
+Dell,160000,43,Poor,2048,SSD,4,Core i5/Ryzen 5,Dedicated,15.6,83,42300
+Lenovo,107000,40,Fair,256,HDD,4,Core i7/Ryzen 7,Integrated,13.3,87,29500
+MSI,240000,29,Like New,2048,SSD,32,Core i7/Ryzen 7,Dedicated,17.3,92,165000
+Apple,229000,18,Good,2048,SSD,32,Apple M-series,Integrated,13.3,93,215400
+Apple,192000,17,Good,512,SSD,16,Apple M-series,Integrated,16.0,94,163600
+Lenovo,96000,12,Like New,2048,HDD,4,Core i5/Ryzen 5,Integrated,16.0,96,72800
+Dell,59000,29,Good,512,HDD,8,Core i3/Ryzen 3,Integrated,17.3,82,23000
+Apple,168000,28,Good,512,SSD,8,Apple M-series,Integrated,13.3,89,106900
+HP,147000,43,Fair,512,SSD,16,Core i3/Ryzen 3,Dedicated,16.0,77,47500
+Asus,106000,20,Good,256,SSD,8,Core i3/Ryzen 3,Integrated,15.6,86,49000
+Dell,58000,37,Poor,256,HDD,4,Core i3/Ryzen 3,Integrated,16.0,84,12400
+Dell,92000,14,Good,256,HDD,4,Core i5/Ryzen 5,Integrated,14.0,95,53900
+Asus,123000,46,Fair,512,SSD,16,Core i5/Ryzen 5,Integrated,15.6,85,33900
+HP,132000,62,Good,2048,HDD,32,Core i3/Ryzen 3,Dedicated,14.0,75,30200
+Asus,230000,54,Fair,512,SSD,32,Core i7/Ryzen 7,Dedicated,13.3,81,63000
+HP,128000,21,Fair,2048,HDD,16,Core i5/Ryzen 5,Integrated,14.0,87,62000
+MSI,219000,57,Like New,512,SSD,32,Core i5/Ryzen 5,Dedicated,16.0,76,61900
+Lenovo,163000,70,Poor,2048,HDD,8,Core i7/Ryzen 7,Dedicated,17.3,70,22700
+Apple,183000,4,Fair,512,SSD,8,Apple M-series,Integrated,13.3,100,171500
+Acer,53000,12,Good,256,HDD,4,Core i5/Ryzen 5,Integrated,14.0,92,27500
+HP,118000,51,Poor,1024,SSD,32,Core i3/Ryzen 3,Integrated,14.0,74,23800
+Apple,169000,41,Good,512,SSD,8,Apple M-series,Integrated,13.3,81,83200
+Apple,203000,12,Good,256,SSD,32,Apple M-series,Integrated,13.3,100,176800
+Lenovo,204000,34,Like New,2048,SSD,16,Core i7/Ryzen 7,Dedicated,13.3,77,119000
+Apple,225000,25,Good,256,SSD,32,Apple M-series,Integrated,13.3,91,160400
+Dell,107000,3,Like New,512,HDD,32,Core i5/Ryzen 5,Integrated,17.3,92,100800
+Apple,231000,51,Good,2048,SSD,32,Apple M-series,Integrated,13.3,80,119200
+HP,33000,63,Good,256,HDD,16,Core i3/Ryzen 3,Integrated,17.3,71,5800
+HP,92000,44,Good,2048,HDD,16,Core i5/Ryzen 5,Integrated,16.0,86,29800
+HP,147000,6,Like New,1024,SSD,8,Core i5/Ryzen 5,Dedicated,14.0,98,139600
+Dell,61000,13,Fair,1024,SSD,8,Core i3/Ryzen 3,Integrated,16.0,91,36600
+Apple,208000,34,Fair,2048,SSD,32,Apple M-series,Integrated,13.3,87,106100
+Lenovo,128000,25,Good,2048,SSD,4,Core i3/Ryzen 3,Dedicated,13.3,89,73900
+Dell,121000,10,Good,1024,SSD,32,Core i3/Ryzen 3,Integrated,16.0,100,92300
+Lenovo,115000,18,Good,512,SSD,32,Core i3/Ryzen 3,Integrated,16.0,100,79200
+Apple,218000,63,Fair,1024,SSD,16,Apple M-series,Dedicated,13.3,74,80800
+Apple,187000,48,Good,1024,SSD,8,Apple M-series,Integrated,14.0,81,92200
+Dell,183000,26,Good,2048,SSD,32,Core i3/Ryzen 3,Dedicated,13.3,94,120600
+HP,127000,27,Fair,512,HDD,8,Core i7/Ryzen 7,Dedicated,13.3,90,56000
+HP,112000,9,Good,1024,HDD,8,Core i7/Ryzen 7,Integrated,16.0,94,82100
+Asus,105000,2,Good,256,SSD,16,Core i7/Ryzen 7,Integrated,15.6,93,96400
+Dell,160000,11,Like New,1024,SSD,8,Core i7/Ryzen 7,Integrated,15.6,98,152000
+HP,48000,70,Fair,256,HDD,8,Core i3/Ryzen 3,Integrated,14.0,69,5200
+Lenovo,131000,11,Good,2048,HDD,8,Core i7/Ryzen 7,Integrated,16.0,91,98100
+Apple,224000,23,Good,2048,SSD,16,Apple M-series,Dedicated,14.0,98,206400
+HP,71000,61,Fair,512,HDD,32,Core i3/Ryzen 3,Integrated,17.3,74,10900
+Dell,123000,4,Like New,256,SSD,4,Core i5/Ryzen 5,Integrated,17.3,100,116800
+HP,110000,71,Good,1024,HDD,8,Core i7/Ryzen 7,Integrated,16.0,70,18300
+Apple,235000,8,Like New,2048,SSD,16,Apple M-series,Dedicated,13.3,94,223200
+Asus,139000,68,Fair,2048,SSD,32,Core i3/Ryzen 3,Integrated,16.0,72,22500
+MSI,208000,21,Good,2048,SSD,16,Core i7/Ryzen 7,Dedicated,17.3,89,154200
+Apple,161000,8,Like New,256,SSD,8,Apple M-series,Integrated,16.0,100,150300
+Lenovo,126000,25,Fair,512,SSD,8,Core i7/Ryzen 7,Integrated,13.3,90,60900
+Asus,205000,23,Good,1024,HDD,32,Core i7/Ryzen 7,Dedicated,15.6,92,134700
+Dell,126000,35,Good,2048,SSD,8,Core i3/Ryzen 3,Integrated,13.3,80,48700
+Asus,179000,37,Fair,2048,HDD,8,Core i5/Ryzen 5,Dedicated,14.0,86,62500
+Lenovo,113000,27,Good,1024,SSD,16,Core i3/Ryzen 3,Integrated,14.0,87,54600
+Acer,89000,11,Fair,1024,SSD,16,Core i5/Ryzen 5,Integrated,13.3,95,60100
+MSI,198000,42,Good,256,SSD,32,Core i5/Ryzen 5,Dedicated,13.3,80,71600
+Apple,200000,3,Like New,1024,SSD,32,Apple M-series,Integrated,16.0,99,190000
+HP,123000,39,Fair,512,HDD,32,Core i5/Ryzen 5,Integrated,15.6,83,39000
+HP,117000,50,Good,1024,SSD,32,Core i3/Ryzen 3,Integrated,16.0,82,36400
+Apple,170000,22,Poor,256,SSD,8,Apple M-series,Integrated,13.3,92,81600
+Dell,119000,24,Good,2048,SSD,16,Core i3/Ryzen 3,Integrated,13.3,92,74900
+MSI,240000,71,Fair,256,SSD,32,Core i7/Ryzen 7,Dedicated,16.0,73,35900
+Apple,211000,51,Good,2048,SSD,16,Apple M-series,Integrated,13.3,82,96100
+HP,72000,46,Fair,2048,HDD,16,Core i3/Ryzen 3,Integrated,16.0,81,19700
+Asus,179000,44,Fair,256,SSD,8,Core i7/Ryzen 7,Dedicated,13.3,82,49900
+Dell,172000,30,Good,1024,HDD,8,Core i7/Ryzen 7,Dedicated,14.0,87,94300
+HP,104000,17,Good,512,HDD,8,Core i5/Ryzen 5,Dedicated,14.0,100,67800
+MSI,158000,12,Like New,1024,SSD,8,Core i5/Ryzen 5,Dedicated,13.3,92,135800
+HP,53000,12,Like New,512,HDD,4,Core i3/Ryzen 3,Integrated,13.3,97,35000
+Apple,173000,20,Fair,512,SSD,8,Apple M-series,Integrated,14.0,89,112400
+Apple,233000,43,Poor,256,SSD,16,Apple M-series,Dedicated,16.0,81,89800
+MSI,172000,70,Good,512,SSD,8,Core i7/Ryzen 7,Dedicated,13.3,72,26700
+Dell,125000,34,Like New,1024,SSD,4,Core i5/Ryzen 5,Integrated,15.6,80,53600
+HP,117000,9,Good,512,HDD,4,Core i5/Ryzen 5,Dedicated,16.0,94,80300
+Apple,237000,13,Like New,256,SSD,32,Apple M-series,Dedicated,14.0,97,220200
+HP,82000,65,Fair,512,SSD,4,Core i5/Ryzen 5,Integrated,17.3,75,12500
+Acer,132000,44,Fair,2048,SSD,16,Core i3/Ryzen 3,Dedicated,15.6,75,34500
+HP,123000,48,Poor,1024,SSD,8,Core i7/Ryzen 7,Integrated,13.3,81,28300
+MSI,197000,5,Fair,2048,SSD,16,Core i5/Ryzen 5,Dedicated,17.3,97,184500
+Dell,163000,72,Like New,2048,SSD,16,Core i3/Ryzen 3,Dedicated,13.3,67,35800
+HP,119000,70,Good,1024,HDD,32,Core i7/Ryzen 7,Integrated,14.0,67,19800
+Asus,158000,52,Good,1024,SSD,32,Core i5/Ryzen 5,Integrated,15.6,77,43900
+HP,127000,35,Good,256,SSD,16,Core i3/Ryzen 3,Dedicated,16.0,83,55600
+Dell,130000,11,Good,1024,SSD,32,Core i3/Ryzen 3,Integrated,16.0,93,105400
+Asus,109000,17,Fair,1024,SSD,16,Core i3/Ryzen 3,Integrated,13.3,95,58800
+HP,136000,32,Fair,512,SSD,4,Core i7/Ryzen 7,Dedicated,16.0,85,54700
+HP,187000,32,Good,2048,SSD,32,Core i5/Ryzen 5,Dedicated,17.3,81,109500
+MSI,240000,3,Like New,2048,SSD,32,Core i5/Ryzen 5,Dedicated,15.6,96,228000
+Apple,158000,61,Poor,512,SSD,8,Apple M-series,Integrated,14.0,80,37400
+Dell,76000,35,Good,256,HDD,4,Core i5/Ryzen 5,Integrated,16.0,79,25700
+Apple,186000,2,Good,512,SSD,8,Apple M-series,Integrated,16.0,100,176700
+HP,143000,67,Fair,512,SSD,32,Core i5/Ryzen 5,Integrated,15.6,70,24000
+Dell,53000,46,Good,512,HDD,8,Core i5/Ryzen 5,Integrated,13.3,83,14200
+Lenovo,82000,39,Poor,512,HDD,4,Core i7/Ryzen 7,Integrated,16.0,91,19800
+Apple,211000,72,Poor,512,SSD,32,Apple M-series,Integrated,16.0,66,40900
+Lenovo,84000,11,Good,256,SSD,16,Core i3/Ryzen 3,Integrated,14.0,97,59900
+Dell,206000,55,Fair,1024,HDD,32,Core i7/Ryzen 7,Dedicated,15.6,81,53000
+Dell,151000,45,Poor,256,HDD,4,Core i7/Ryzen 7,Dedicated,13.3,81,32600
+Dell,131000,43,Poor,1024,SSD,16,Core i7/Ryzen 7,Integrated,17.3,80,35300
+Lenovo,113000,15,Like New,1024,HDD,8,Core i5/Ryzen 5,Dedicated,13.3,93,84600
+HP,78000,31,Fair,512,HDD,32,Core i3/Ryzen 3,Integrated,17.3,90,28700
+Dell,45000,22,Fair,256,HDD,4,Core i3/Ryzen 3,Integrated,13.3,95,15500
+Asus,229000,18,Poor,2048,HDD,32,Core i5/Ryzen 5,Dedicated,17.3,91,120600
+Lenovo,105000,11,Like New,256,HDD,4,Core i3/Ryzen 3,Dedicated,14.0,97,72800
+Dell,163000,6,Like New,1024,HDD,32,Core i7/Ryzen 7,Integrated,14.0,93,154800
+Acer,87000,26,Good,1024,SSD,16,Core i3/Ryzen 3,Dedicated,16.0,91,46200
+Dell,126000,57,Fair,1024,SSD,16,Core i5/Ryzen 5,Integrated,14.0,75,29800
+Apple,223000,43,Poor,2048,SSD,32,Apple M-series,Integrated,14.0,80,86900
+HP,79000,16,Good,256,HDD,16,Core i5/Ryzen 5,Integrated,17.3,98,42300
+Apple,172000,55,Like New,2048,SSD,8,Apple M-series,Integrated,13.3,81,82100
+Dell,109000,66,Poor,256,HDD,32,Core i3/Ryzen 3,Integrated,15.6,75,12000
+Asus,44000,63,Fair,512,HDD,8,Core i3/Ryzen 3,Integrated,14.0,73,6100
+Apple,169000,63,Good,256,SSD,32,Apple M-series,Integrated,14.0,74,62900
+Asus,149000,60,Fair,512,HDD,8,Core i5/Ryzen 5,Dedicated,17.3,76,25700
+Acer,102000,3,Like New,2048,SSD,8,Core i3/Ryzen 3,Dedicated,16.0,95,96900
+Lenovo,138000,12,Fair,256,SSD,16,Core i5/Ryzen 5,Dedicated,13.3,89,93400
+Lenovo,139000,13,Like New,1024,HDD,32,Core i7/Ryzen 7,Integrated,13.3,100,117600
+Lenovo,68000,63,Fair,256,SSD,16,Core i3/Ryzen 3,Integrated,15.6,75,11500
+MSI,206000,2,Like New,512,SSD,8,Core i5/Ryzen 5,Dedicated,17.3,95,195700
+Dell,127000,71,Fair,512,HDD,16,Core i3/Ryzen 3,Dedicated,15.6,70,17300
+Apple,184000,44,Good,256,SSD,16,Apple M-series,Integrated,16.0,87,87900
+HP,141000,57,Fair,1024,HDD,32,Core i7/Ryzen 7,Integrated,17.3,79,33800
+HP,164000,54,Good,1024,SSD,16,Core i7/Ryzen 7,Integrated,13.3,75,50200
+Apple,157000,38,Good,256,SSD,8,Apple M-series,Integrated,14.0,84,73400
+Lenovo,142000,48,Poor,2048,SSD,16,Core i3/Ryzen 3,Dedicated,14.0,83,35600
+Apple,187000,62,Fair,512,SSD,16,Apple M-series,Integrated,13.3,72,58600
+Acer,75000,17,Good,256,SSD,4,Core i5/Ryzen 5,Integrated,17.3,89,40200
+Dell,70000,44,Good,256,HDD,16,Core i3/Ryzen 3,Integrated,16.0,87,19700
+Apple,241000,34,Good,512,SSD,16,Apple M-series,Dedicated,13.3,86,162700
+Apple,213000,52,Poor,2048,SSD,32,Apple M-series,Integrated,16.0,75,71800
+Dell,197000,67,Good,1024,SSD,4,Core i7/Ryzen 7,Dedicated,15.6,69,45300
+Dell,61000,35,Good,256,SSD,4,Core i5/Ryzen 5,Integrated,17.3,88,25300
+Apple,198000,52,Fair,1024,SSD,16,Apple M-series,Integrated,14.0,75,70100
+Dell,132000,4,Like New,512,SSD,32,Core i7/Ryzen 7,Integrated,13.3,96,125400
+Apple,238000,34,Good,1024,SSD,16,Apple M-series,Dedicated,14.0,94,143900
+Dell,114000,20,Good,512,SSD,4,Core i3/Ryzen 3,Dedicated,13.3,88,68200
+HP,133000,26,Good,512,SSD,32,Core i7/Ryzen 7,Integrated,13.3,90,78900
+Dell,111000,70,Poor,1024,HDD,8,Core i3/Ryzen 3,Dedicated,17.3,72,14000
+Dell,131000,22,Good,2048,HDD,4,Core i3/Ryzen 3,Dedicated,16.0,88,71100
+Apple,229000,7,Good,512,SSD,8,Apple M-series,Dedicated,16.0,100,217600
+Apple,218000,58,Good,1024,SSD,8,Apple M-series,Dedicated,16.0,74,85500
+Dell,157000,8,Good,512,SSD,16,Core i7/Ryzen 7,Integrated,16.0,94,141300
+Asus,157000,67,Fair,256,SSD,32,Core i7/Ryzen 7,Integrated,16.0,78,26200
+MSI,240000,17,Good,2048,SSD,32,Core i7/Ryzen 7,Dedicated,15.6,97,182600
+Acer,95000,72,Poor,1024,HDD,4,Core i5/Ryzen 5,Dedicated,14.0,72,7600
+HP,131000,68,Fair,2048,SSD,4,Core i7/Ryzen 7,Integrated,15.6,77,24500
+HP,116000,22,Like New,1024,HDD,4,Core i5/Ryzen 5,Dedicated,15.6,88,71800
+Dell,187000,55,Poor,2048,SSD,16,Core i7/Ryzen 7,Integrated,16.0,72,40200
+Asus,183000,24,Good,2048,HDD,32,Core i7/Ryzen 7,Integrated,14.0,95,113600
+Asus,121000,26,Fair,256,HDD,8,Core i5/Ryzen 5,Dedicated,15.6,95,46500
+Asus,210000,3,Good,2048,HDD,32,Core i7/Ryzen 7,Dedicated,13.3,100,199500
+Acer,40000,56,Fair,1024,HDD,4,Core i5/Ryzen 5,Integrated,15.6,77,5300
+HP,76000,19,Like New,512,SSD,8,Core i3/Ryzen 3,Integrated,13.3,96,45900
+Asus,104000,17,Good,2048,HDD,16,Core i5/Ryzen 5,Integrated,15.6,94,71000
+Asus,99000,32,Like New,2048,HDD,8,Core i5/Ryzen 5,Integrated,17.3,92,50700
+Dell,132000,1,Good,256,SSD,16,Core i7/Ryzen 7,Integrated,15.6,100,125400
+Acer,120000,21,Good,2048,SSD,16,Core i5/Ryzen 5,Integrated,13.3,89,72800
+Apple,183000,3,Like New,256,SSD,8,Apple M-series,Dedicated,14.0,100,173800
+MSI,194000,22,Fair,256,SSD,8,Core i7/Ryzen 7,Dedicated,15.6,86,101500
+Asus,172000,42,Fair,1024,HDD,32,Core i7/Ryzen 7,Integrated,17.3,82,57100
+Apple,188000,46,Fair,1024,SSD,8,Apple M-series,Integrated,14.0,84,75900
+Lenovo,100000,18,Poor,512,HDD,16,Core i7/Ryzen 7,Integrated,16.0,97,43900
+Apple,222000,1,Good,2048,SSD,8,Apple M-series,Integrated,13.3,100,210900
+Asus,148000,12,Good,2048,SSD,8,Core i3/Ryzen 3,Dedicated,15.6,89,116400
+Asus,105000,63,Good,512,HDD,8,Core i3/Ryzen 3,Dedicated,15.6,76,18700
+Lenovo,153000,3,Like New,256,HDD,8,Core i7/Ryzen 7,Dedicated,16.0,91,142600
+Asus,230000,42,Good,2048,SSD,32,Core i7/Ryzen 7,Dedicated,14.0,89,97900
+Apple,250000,18,Good,2048,SSD,32,Apple M-series,Dedicated,13.3,92,236700
+Dell,79000,32,Good,1024,HDD,4,Core i5/Ryzen 5,Integrated,15.6,88,32800
+HP,186000,31,Good,2048,SSD,32,Core i5/Ryzen 5,Dedicated,13.3,86,109200
+Apple,206000,23,Good,512,SSD,32,Apple M-series,Integrated,13.3,82,155400
+HP,115000,7,Fair,512,HDD,16,Core i3/Ryzen 3,Dedicated,13.3,98,77000
+Dell,170000,62,Poor,1024,HDD,4,Core i7/Ryzen 7,Dedicated,14.0,74,25000
+HP,93000,38,Good,512,SSD,4,Core i5/Ryzen 5,Integrated,13.3,80,29300
+HP,123000,59,Good,2048,HDD,8,Core i3/Ryzen 3,Dedicated,16.0,81,28200
+Acer,77000,71,Like New,512,HDD,8,Core i7/Ryzen 7,Integrated,16.0,74,10100
+Dell,90000,45,Good,1024,HDD,16,Core i5/Ryzen 5,Integrated,13.3,80,27600
+Acer,79000,41,Poor,256,HDD,8,Core i7/Ryzen 7,Integrated,15.6,86,14000
+HP,108000,13,Fair,1024,SSD,16,Core i5/Ryzen 5,Integrated,17.3,94,69500
+Dell,84000,59,Poor,256,SSD,4,Core i3/Ryzen 3,Integrated,17.3,81,12400
+HP,80000,22,Like New,1024,HDD,4,Core i5/Ryzen 5,Integrated,13.3,88,45400
+HP,90000,37,Good,1024,HDD,16,Core i3/Ryzen 3,Integrated,14.0,87,29600
+Dell,109000,63,Poor,512,HDD,16,Core i3/Ryzen 3,Dedicated,16.0,73,16000
+HP,152000,23,Fair,512,HDD,32,Core i3/Ryzen 3,Dedicated,17.3,89,75700
+Apple,214000,66,Poor,2048,SSD,16,Apple M-series,Integrated,16.0,81,56400
+Dell,139000,15,Good,1024,HDD,4,Core i7/Ryzen 7,Dedicated,17.3,90,90700
+Lenovo,149000,1,Like New,512,SSD,32,Core i7/Ryzen 7,Integrated,17.3,100,141600
+HP,126000,58,Fair,512,SSD,8,Core i5/Ryzen 5,Dedicated,17.3,69,26100
+Asus,205000,41,Fair,2048,SSD,16,Core i5/Ryzen 5,Dedicated,13.3,78,73600
+Dell,151000,3,Like New,1024,SSD,8,Core i3/Ryzen 3,Dedicated,17.3,96,143400
+MSI,168000,10,Like New,1024,SSD,16,Core i5/Ryzen 5,Dedicated,15.6,100,159600
+Asus,53000,68,Like New,256,HDD,8,Core i3/Ryzen 3,Integrated,14.0,68,7300
+MSI,230000,1,Good,2048,SSD,32,Core i7/Ryzen 7,Dedicated,16.0,91,218500
+Asus,211000,56,Good,2048,HDD,32,Core i5/Ryzen 5,Dedicated,17.3,74,57000
+Apple,176000,5,Like New,1024,SSD,16,Apple M-series,Integrated,13.3,96,167200
+HP,111000,10,Like New,1024,SSD,8,Core i5/Ryzen 5,Integrated,15.6,93,105400
+Apple,181000,24,Good,512,SSD,32,Apple M-series,Integrated,13.3,94,113000
+Asus,172000,56,Poor,1024,HDD,16,Core i5/Ryzen 5,Dedicated,17.3,72,28100
+Lenovo,49000,1,Like New,1024,HDD,4,Core i3/Ryzen 3,Integrated,13.3,100,43500
+Dell,130000,69,Poor,256,HDD,32,Core i5/Ryzen 5,Integrated,15.6,64,13900
+Acer,107000,21,Fair,256,SSD,4,Core i5/Ryzen 5,Dedicated,13.3,90,53800
+Apple,177000,56,Poor,256,SSD,8,Apple M-series,Integrated,14.0,82,38600
+Lenovo,99000,33,Good,512,HDD,8,Core i7/Ryzen 7,Integrated,15.6,84,40500
+Lenovo,83000,1,Fair,512,SSD,4,Core i5/Ryzen 5,Integrated,17.3,100,65700
+Apple,205000,27,Fair,1024,SSD,16,Apple M-series,Integrated,16.0,91,141700
+Lenovo,66000,40,Like New,512,HDD,8,Core i3/Ryzen 3,Integrated,14.0,79,22200
+Asus,35000,45,Fair,512,HDD,8,Core i3/Ryzen 3,Integrated,17.3,86,8100
+Apple,172000,35,Good,256,SSD,8,Apple M-series,Integrated,14.0,82,96600
+HP,106000,21,Fair,2048,SSD,8,Core i5/Ryzen 5,Integrated,15.6,89,56600
+Dell,187000,41,Good,512,SSD,32,Core i5/Ryzen 5,Dedicated,14.0,89,75300
+Lenovo,83000,61,Good,1024,HDD,16,Core i3/Ryzen 3,Integrated,13.3,72,16700
+Apple,192000,46,Poor,256,SSD,8,Apple M-series,Integrated,16.0,75,62200
+Acer,95000,36,Fair,2048,SSD,4,Core i3/Ryzen 3,Dedicated,15.6,77,29300
+Acer,136000,2,Fair,2048,SSD,4,Core i5/Ryzen 5,Dedicated,13.3,100,122400
+Apple,182000,69,Good,256,SSD,8,Apple M-series,Integrated,16.0,73,51100
+Dell,153000,17,Good,256,SSD,16,Core i5/Ryzen 5,Dedicated,15.6,97,110800
+Lenovo,173000,16,Like New,1024,SSD,32,Core i5/Ryzen 5,Dedicated,13.3,94,158000
+Lenovo,78000,56,Fair,1024,HDD,8,Core i3/Ryzen 3,Integrated,15.6,82,14900
+HP,93000,57,Fair,512,SSD,16,Core i5/Ryzen 5,Integrated,15.6,80,19800
+Apple,178000,32,Fair,256,SSD,8,Apple M-series,Integrated,13.3,84,81200
+Apple,149000,37,Poor,256,SSD,8,Apple M-series,Integrated,14.0,86,55400
+MSI,190000,10,Like New,512,SSD,16,Core i5/Ryzen 5,Dedicated,13.3,97,165000
+HP,131000,14,Good,1024,SSD,4,Core i3/Ryzen 3,Dedicated,13.3,93,95400
+Acer,93000,51,Fair,256,HDD,16,Core i7/Ryzen 7,Integrated,17.3,88,17800
+HP,158000,7,Like New,1024,HDD,32,Core i7/Ryzen 7,Dedicated,16.0,96,150100
+Acer,103000,13,Good,2048,HDD,4,Core i7/Ryzen 7,Integrated,15.6,93,72500
+Apple,214000,27,Good,256,SSD,8,Apple M-series,Dedicated,14.0,95,141900
+Apple,250000,28,Good,2048,SSD,16,Apple M-series,Dedicated,16.0,93,195400
+Acer,138000,50,Fair,256,SSD,16,Core i5/Ryzen 5,Dedicated,15.6,79,27900
+MSI,212000,62,Good,1024,SSD,16,Core i7/Ryzen 7,Dedicated,13.3,84,53000
+Dell,100000,65,Poor,2048,HDD,16,Core i5/Ryzen 5,Integrated,16.0,72,15400
+Dell,112000,63,Good,512,HDD,32,Core i5/Ryzen 5,Integrated,17.3,80,22100
+HP,89000,8,Like New,256,HDD,8,Core i3/Ryzen 3,Dedicated,13.3,97,67400
+HP,141000,3,Like New,512,SSD,16,Core i7/Ryzen 7,Integrated,14.0,94,134000
+Apple,206000,11,Like New,512,SSD,32,Apple M-series,Integrated,13.3,97,195700
+Acer,56000,38,Good,1024,HDD,4,Core i5/Ryzen 5,Integrated,17.3,89,15500
+Dell,208000,72,Good,1024,SSD,32,Core i5/Ryzen 5,Dedicated,15.6,77,44500
+Lenovo,117000,59,Poor,256,SSD,16,Core i7/Ryzen 7,Integrated,14.0,74,20200
+Apple,250000,6,Like New,2048,SSD,32,Apple M-series,Dedicated,16.0,100,237500
+Apple,199000,45,Good,1024,SSD,16,Apple M-series,Integrated,14.0,80,101400
+Lenovo,166000,3,Poor,2048,SSD,16,Core i7/Ryzen 7,Integrated,17.3,99,122100
+Dell,94000,41,Good,1024,HDD,4,Core i5/Ryzen 5,Integrated,14.0,79,29900
+Lenovo,117000,33,Like New,512,HDD,32,Core i7/Ryzen 7,Integrated,15.6,90,56000
+Apple,233000,3,Fair,256,SSD,32,Apple M-series,Dedicated,13.3,100,221400
+MSI,186000,49,Good,1024,SSD,16,Core i5/Ryzen 5,Dedicated,16.0,81,55800
+Asus,161000,55,Good,2048,HDD,16,Core i7/Ryzen 7,Integrated,14.0,73,41000
+Acer,98000,38,Fair,256,SSD,16,Core i3/Ryzen 3,Dedicated,17.3,85,29100
+Apple,218000,32,Good,1024,SSD,32,Apple M-series,Integrated,14.0,84,136500
+Dell,154000,3,Poor,256,SSD,32,Core i3/Ryzen 3,Dedicated,15.6,91,103800
+Dell,95000,5,Like New,2048,SSD,4,Core i3/Ryzen 3,Integrated,15.6,100,82600
+HP,112000,1,Like New,1024,HDD,32,Core i5/Ryzen 5,Integrated,14.0,95,106400
+Dell,175000,25,Good,2048,SSD,16,Core i3/Ryzen 3,Dedicated,17.3,98,105300
+Apple,166000,62,Fair,256,SSD,8,Apple M-series,Integrated,13.3,74,46500
+Dell,65000,70,Poor,1024,HDD,16,Core i3/Ryzen 3,Integrated,15.6,76,7000
+Dell,125000,53,Good,2048,HDD,32,Core i3/Ryzen 3,Integrated,13.3,79,33500
+HP,164000,21,Fair,2048,SSD,8,Core i7/Ryzen 7,Dedicated,16.0,95,105500
+Apple,250000,11,Like New,256,SSD,32,Apple M-series,Dedicated,16.0,96,237500
+Dell,126000,26,Poor,512,HDD,16,Core i3/Ryzen 3,Dedicated,15.6,81,46900
+Lenovo,100000,39,Good,1024,SSD,8,Core i3/Ryzen 3,Dedicated,13.3,86,43600
+HP,77000,27,Like New,256,HDD,16,Core i5/Ryzen 5,Integrated,16.0,92,39700
+Dell,115000,1,Like New,256,HDD,8,Core i5/Ryzen 5,Dedicated,16.0,98,107300
+HP,91000,62,Poor,2048,HDD,8,Core i3/Ryzen 3,Integrated,13.3,77,12000
+Asus,216000,64,Good,2048,SSD,16,Core i7/Ryzen 7,Dedicated,15.6,72,48700
+Dell,101000,63,Poor,512,HDD,8,Core i3/Ryzen 3,Integrated,16.0,75,13000
+Lenovo,197000,5,Like New,256,SSD,32,Core i5/Ryzen 5,Dedicated,16.0,94,187200
+MSI,201000,50,Fair,512,SSD,16,Core i5/Ryzen 5,Dedicated,17.3,79,57100
+HP,76000,43,Fair,256,SSD,16,Core i3/Ryzen 3,Integrated,17.3,82,19600
+Acer,104000,46,Fair,1024,SSD,16,Core i7/Ryzen 7,Integrated,14.0,85,27300
+Asus,192000,53,Good,2048,HDD,32,Core i3/Ryzen 3,Dedicated,16.0,77,55500
+Apple,186000,4,Good,512,SSD,16,Apple M-series,Integrated,14.0,98,176700
+HP,146000,28,Good,1024,SSD,16,Core i5/Ryzen 5,Dedicated,15.6,89,89100
+Lenovo,161000,58,Fair,1024,HDD,32,Core i7/Ryzen 7,Integrated,16.0,76,36100
+MSI,240000,67,Fair,512,SSD,32,Core i7/Ryzen 7,Dedicated,13.3,77,45000
+HP,107000,35,Good,2048,SSD,8,Core i3/Ryzen 3,Dedicated,16.0,78,49500
+Apple,181000,22,Fair,512,SSD,16,Apple M-series,Integrated,14.0,89,109300
+Lenovo,115000,41,Fair,2048,HDD,4,Core i7/Ryzen 7,Integrated,13.3,86,35000
+Apple,211000,55,Poor,2048,SSD,32,Apple M-series,Integrated,13.3,72,63200
+Asus,189000,28,Fair,2048,SSD,16,Core i5/Ryzen 5,Dedicated,16.0,87,93500
+HP,104000,9,Like New,512,SSD,4,Core i3/Ryzen 3,Dedicated,17.3,100,95800
+Lenovo,161000,63,Good,2048,SSD,8,Core i7/Ryzen 7,Integrated,16.0,71,38600
+Acer,60000,15,Good,256,HDD,16,Core i3/Ryzen 3,Integrated,13.3,91,33600
+Lenovo,70000,1,Like New,256,SSD,8,Core i3/Ryzen 3,Integrated,16.0,100,66500
+Lenovo,98000,20,Like New,256,HDD,4,Core i3/Ryzen 3,Dedicated,14.0,100,55000
+Asus,144000,55,Fair,512,SSD,16,Core i3/Ryzen 3,Dedicated,15.6,73,30700
+Asus,110000,9,Good,256,SSD,8,Core i3/Ryzen 3,Dedicated,15.6,94,84800
+Acer,110000,61,Poor,512,HDD,16,Core i5/Ryzen 5,Dedicated,17.3,77,13000
+Apple,184000,39,Poor,512,SSD,16,Apple M-series,Integrated,13.3,87,70500
+HP,137000,33,Good,1024,SSD,32,Core i3/Ryzen 3,Integrated,16.0,88,66700
+Dell,148000,47,Poor,1024,HDD,32,Core i7/Ryzen 7,Integrated,14.0,80,35400
+Acer,81000,62,Fair,1024,HDD,16,Core i5/Ryzen 5,Integrated,15.6,67,11200
+Lenovo,99000,43,Good,512,HDD,32,Core i3/Ryzen 3,Integrated,17.3,85,29200
+HP,99000,68,Fair,512,HDD,8,Core i7/Ryzen 7,Integrated,14.0,73,13600
+Apple,188000,52,Poor,1024,SSD,16,Apple M-series,Integrated,14.0,82,63700
+Dell,141000,63,Good,256,SSD,32,Core i3/Ryzen 3,Integrated,14.0,67,28100
+Lenovo,146000,53,Good,2048,HDD,4,Core i5/Ryzen 5,Dedicated,13.3,78,40200
+Dell,138000,5,Like New,512,HDD,4,Core i7/Ryzen 7,Dedicated,14.0,100,131100
+Apple,194000,47,Poor,512,SSD,8,Apple M-series,Integrated,13.3,82,61100
+Acer,155000,62,Fair,2048,SSD,8,Core i7/Ryzen 7,Dedicated,15.6,72,25200
+Asus,128000,42,Good,1024,SSD,32,Core i3/Ryzen 3,Integrated,13.3,84,50400
+Apple,230000,1,Good,256,SSD,16,Apple M-series,Dedicated,16.0,100,218500
+Dell,112000,66,Good,512,SSD,16,Core i3/Ryzen 3,Integrated,13.3,69,21400
+MSI,180000,40,Poor,1024,SSD,8,Core i5/Ryzen 5,Dedicated,15.6,88,48400
+Lenovo,114000,21,Fair,256,SSD,8,Core i3/Ryzen 3,Dedicated,17.3,97,59100
+Lenovo,179000,53,Poor,256,HDD,32,Core i7/Ryzen 7,Dedicated,17.3,78,36700
+Dell,159000,33,Fair,2048,SSD,16,Core i3/Ryzen 3,Dedicated,17.3,86,74900
+Dell,108000,8,Like New,2048,SSD,16,Core i3/Ryzen 3,Integrated,14.0,89,102300
+Apple,185000,27,Fair,1024,SSD,8,Apple M-series,Integrated,16.0,90,110200
+Lenovo,67000,56,Good,2048,HDD,16,Core i3/Ryzen 3,Integrated,13.3,75,17500
+Apple,237000,17,Poor,1024,SSD,16,Apple M-series,Dedicated,14.0,100,152700
+Apple,213000,2,Like New,2048,SSD,16,Apple M-series,Integrated,16.0,100,202400
+Lenovo,116000,40,Fair,1024,HDD,8,Core i5/Ryzen 5,Dedicated,17.3,80,38800
+MSI,189000,27,Fair,1024,SSD,8,Core i5/Ryzen 5,Dedicated,14.0,88,85200
+Asus,151000,19,Poor,256,HDD,32,Core i5/Ryzen 5,Dedicated,15.6,95,63400
+HP,109000,36,Like New,256,HDD,16,Core i5/Ryzen 5,Dedicated,13.3,88,49700
+HP,158000,21,Good,2048,SSD,32,Core i7/Ryzen 7,Integrated,15.6,96,111300
+HP,122000,15,Like New,512,SSD,16,Core i7/Ryzen 7,Integrated,17.3,100,105400
+Dell,80000,22,Good,1024,HDD,4,Core i3/Ryzen 3,Integrated,14.0,95,38600
+HP,181000,3,Good,1024,SSD,32,Core i7/Ryzen 7,Integrated,14.0,99,172000
+HP,145000,35,Good,1024,SSD,8,Core i7/Ryzen 7,Dedicated,13.3,79,68700
+Lenovo,116000,46,Good,256,HDD,32,Core i3/Ryzen 3,Integrated,15.6,82,30400
+Acer,87000,72,Fair,1024,HDD,8,Core i3/Ryzen 3,Dedicated,13.3,65,8400
+MSI,180000,30,Good,256,SSD,32,Core i5/Ryzen 5,Dedicated,15.6,89,92000
+Apple,212000,56,Fair,2048,SSD,16,Apple M-series,Integrated,14.0,76,80600
+HP,83000,64,Like New,1024,HDD,4,Core i5/Ryzen 5,Integrated,16.0,76,16700
+Apple,223000,57,Poor,512,SSD,16,Apple M-series,Integrated,14.0,73,66700
+Dell,180000,66,Fair,1024,HDD,32,Core i5/Ryzen 5,Dedicated,15.6,74,32600
+Dell,97000,51,Good,2048,HDD,8,Core i3/Ryzen 3,Integrated,14.0,69,23800
+Apple,216000,16,Good,1024,SSD,16,Apple M-series,Integrated,14.0,93,197700
+Asus,202000,43,Poor,256,SSD,16,Core i7/Ryzen 7,Dedicated,16.0,87,54100
+HP,118000,9,Good,1024,SSD,32,Core i3/Ryzen 3,Integrated,14.0,95,94200
+Acer,98000,13,Good,2048,SSD,4,Core i7/Ryzen 7,Integrated,13.3,100,73500
+Apple,248000,36,Good,512,SSD,32,Apple M-series,Dedicated,13.3,83,136800
+Apple,224000,37,Good,1024,SSD,16,Apple M-series,Integrated,16.0,83,145800
+HP,155000,24,Fair,512,HDD,32,Core i7/Ryzen 7,Integrated,16.0,92,84400
+Apple,242000,23,Poor,2048,SSD,32,Apple M-series,Integrated,16.0,89,138200
+Dell,112000,66,Fair,1024,HDD,8,Core i5/Ryzen 5,Dedicated,15.6,71,18900
+MSI,233000,14,Good,2048,SSD,8,Core i7/Ryzen 7,Dedicated,14.0,89,177200
+Dell,104000,14,Good,256,HDD,4,Core i3/Ryzen 3,Dedicated,14.0,95,63000
+Apple,237000,63,Fair,1024,SSD,16,Apple M-series,Dedicated,16.0,66,76300
+Lenovo,168000,41,Fair,2048,SSD,16,Core i5/Ryzen 5,Dedicated,13.3,81,66000
+HP,135000,65,Good,512,HDD,32,Core i7/Ryzen 7,Integrated,13.3,72,23900
+Lenovo,125000,7,Poor,512,SSD,4,Core i7/Ryzen 7,Integrated,13.3,92,65300
+Dell,172000,49,Fair,2048,HDD,32,Core i5/Ryzen 5,Dedicated,14.0,80,54300
+Asus,147000,25,Like New,512,SSD,32,Core i3/Ryzen 3,Integrated,14.0,90,78300
+Apple,185000,70,Poor,256,SSD,8,Apple M-series,Integrated,13.3,73,35400
+HP,152000,21,Like New,2048,SSD,16,Core i7/Ryzen 7,Integrated,16.0,84,101500
+Lenovo,205000,18,Like New,256,SSD,32,Core i5/Ryzen 5,Dedicated,14.0,97,181700
+Acer,100000,39,Poor,512,HDD,16,Core i7/Ryzen 7,Integrated,13.3,84,20000
+Dell,186000,13,Like New,1024,HDD,32,Core i7/Ryzen 7,Dedicated,14.0,89,160700
+Lenovo,88000,43,Fair,1024,SSD,16,Core i5/Ryzen 5,Integrated,14.0,79,28100
+Apple,226000,53,Fair,2048,SSD,16,Apple M-series,Integrated,16.0,76,89300
+Apple,234000,48,Poor,256,SSD,32,Apple M-series,Dedicated,13.3,87,82500
+Apple,195000,13,Like New,256,SSD,32,Apple M-series,Integrated,16.0,92,185200
+Lenovo,148000,58,Fair,2048,HDD,16,Core i3/Ryzen 3,Dedicated,15.6,76,28700
+Dell,51000,35,Good,1024,HDD,4,Core i3/Ryzen 3,Integrated,15.6,79,18200
+Lenovo,63000,12,Good,256,SSD,8,Core i3/Ryzen 3,Integrated,14.0,98,40200
+Apple,199000,69,Fair,2048,SSD,16,Apple M-series,Integrated,16.0,63,57100
+Acer,46000,44,Poor,1024,HDD,8,Core i3/Ryzen 3,Integrated,16.0,81,7700
+Asus,113000,37,Good,1024,HDD,32,Core i5/Ryzen 5,Integrated,13.3,86,44900
+Apple,218000,9,Like New,2048,SSD,16,Apple M-series,Integrated,14.0,100,207100
+Apple,207000,25,Good,2048,SSD,32,Apple M-series,Integrated,16.0,96,171200
+Apple,236000,70,Fair,2048,SSD,32,Apple M-series,Integrated,16.0,71,77000
+Asus,134000,3,Like New,512,HDD,16,Core i7/Ryzen 7,Integrated,14.0,100,127300
+Dell,78000,63,Fair,256,SSD,8,Core i5/Ryzen 5,Integrated,16.0,75,13700
+HP,80000,13,Like New,1024,HDD,4,Core i5/Ryzen 5,Integrated,16.0,90,56500
+HP,137000,59,Poor,2048,SSD,4,Core i7/Ryzen 7,Integrated,16.0,72,22300
+Asus,91000,70,Fair,1024,HDD,8,Core i5/Ryzen 5,Integrated,15.6,71,11200
+HP,88000,30,Fair,256,HDD,8,Core i5/Ryzen 5,Integrated,15.6,88,30300
+HP,134000,56,Fair,512,HDD,8,Core i7/Ryzen 7,Integrated,16.0,77,27600
+MSI,229000,56,Fair,2048,SSD,16,Core i7/Ryzen 7,Dedicated,16.0,79,56200
+Apple,217000,4,Like New,256,SSD,16,Apple M-series,Dedicated,14.0,91,206200
+Asus,92000,33,Good,256,HDD,16,Core i5/Ryzen 5,Integrated,16.0,87,35300
+Apple,165000,53,Good,256,SSD,16,Apple M-series,Integrated,13.3,75,64900
+HP,103000,36,Good,512,HDD,4,Core i5/Ryzen 5,Integrated,17.3,87,38600
+Acer,106000,72,Good,2048,SSD,8,Core i5/Ryzen 5,Dedicated,17.3,70,15300
+Lenovo,108000,37,Good,256,HDD,32,Core i3/Ryzen 3,Integrated,14.0,84,37800
+Lenovo,174000,66,Good,1024,SSD,4,Core i7/Ryzen 7,Dedicated,17.3,72,43200
+Dell,134000,54,Fair,2048,HDD,8,Core i7/Ryzen 7,Integrated,16.0,80,31500
+HP,96000,63,Fair,2048,HDD,8,Core i5/Ryzen 5,Integrated,13.3,76,13900
+Dell,171000,49,Fair,512,SSD,4,Core i7/Ryzen 7,Dedicated,15.6,84,50000
+HP,111000,58,Good,1024,HDD,8,Core i5/Ryzen 5,Dedicated,14.0,74,24800
+HP,160000,44,Fair,256,HDD,16,Core i7/Ryzen 7,Dedicated,15.6,78,47200
+Dell,135000,56,Good,256,HDD,8,Core i7/Ryzen 7,Dedicated,14.0,77,31500
+Dell,126000,59,Poor,256,HDD,16,Core i5/Ryzen 5,Dedicated,14.0,69,19000
+Dell,94000,67,Good,256,HDD,4,Core i5/Ryzen 5,Integrated,15.6,67,14900
+Dell,208000,14,Fair,256,SSD,32,Core i7/Ryzen 7,Dedicated,17.3,88,145500
+Apple,165000,20,Good,256,SSD,8,Apple M-series,Integrated,13.3,91,112700
+Acer,140000,68,Fair,512,SSD,4,Core i7/Ryzen 7,Dedicated,17.3,71,18100
+Lenovo,170000,12,Like New,256,HDD,32,Core i5/Ryzen 5,Dedicated,15.6,90,140800
+Apple,183000,29,Fair,2048,SSD,8,Apple M-series,Integrated,16.0,91,106300
+Lenovo,78000,54,Good,512,HDD,32,Core i3/Ryzen 3,Integrated,15.6,74,19500
+Asus,69000,18,Good,512,HDD,16,Core i3/Ryzen 3,Integrated,14.0,92,36000
+Dell,137000,45,Poor,256,HDD,32,Core i3/Ryzen 3,Dedicated,17.3,79,31000
+Apple,191000,59,Poor,1024,SSD,16,Apple M-series,Integrated,14.0,73,44700
+Apple,178000,69,Fair,512,SSD,16,Apple M-series,Integrated,16.0,73,47700
+Apple,204000,26,Poor,256,SSD,32,Apple M-series,Integrated,16.0,90,101700
+Asus,113000,13,Like New,1024,SSD,16,Core i3/Ryzen 3,Integrated,16.0,87,85600
+MSI,213000,69,Good,1024,SSD,16,Core i5/Ryzen 5,Dedicated,15.6,74,39600
+Apple,179000,13,Good,2048,SSD,8,Apple M-series,Integrated,16.0,96,160100
+Asus,197000,43,Like New,512,HDD,32,Core i7/Ryzen 7,Dedicated,13.3,78,76100
+Apple,190000,32,Good,1024,SSD,32,Apple M-series,Integrated,13.3,81,125100
+Lenovo,147000,3,Like New,2048,HDD,32,Core i7/Ryzen 7,Integrated,16.0,100,139600
+Asus,115000,24,Poor,2048,SSD,16,Core i3/Ryzen 3,Integrated,16.0,92,45200
+Dell,171000,61,Good,1024,SSD,4,Core i7/Ryzen 7,Dedicated,16.0,78,44800
+Apple,176000,30,Good,256,SSD,32,Apple M-series,Integrated,16.0,89,109500
+Lenovo,178000,40,Good,512,SSD,8,Core i7/Ryzen 7,Dedicated,13.3,83,76300
+MSI,223000,10,Like New,512,SSD,32,Core i5/Ryzen 5,Dedicated,14.0,91,192200
+Dell,154000,36,Fair,512,HDD,32,Core i7/Ryzen 7,Integrated,13.3,87,58300
+Apple,189000,61,Fair,512,SSD,16,Apple M-series,Integrated,14.0,74,63300
+Apple,250000,30,Like New,2048,SSD,16,Apple M-series,Dedicated,13.3,93,190300
+HP,170000,37,Fair,512,SSD,32,Core i7/Ryzen 7,Integrated,13.3,80,62600
+Lenovo,103000,68,Poor,512,HDD,16,Core i7/Ryzen 7,Integrated,14.0,73,12700
+Asus,152000,7,Good,2048,SSD,8,Core i7/Ryzen 7,Integrated,15.6,94,135600
+Asus,86000,57,Good,256,HDD,32,Core i3/Ryzen 3,Integrated,15.6,78,16300
+Acer,60000,1,Like New,512,HDD,4,Core i5/Ryzen 5,Integrated,14.0,100,52200
+Asus,87000,6,Good,512,HDD,16,Core i5/Ryzen 5,Integrated,16.0,93,64700
+Dell,86000,70,Poor,512,HDD,4,Core i5/Ryzen 5,Integrated,14.0,70,8800
+HP,79000,25,Fair,1024,HDD,8,Core i5/Ryzen 5,Integrated,14.0,87,34300
+Dell,114000,31,Good,256,HDD,8,Core i3/Ryzen 3,Dedicated,13.3,88,45600
+Dell,147000,71,Fair,256,HDD,4,Core i7/Ryzen 7,Dedicated,16.0,70,20200
+Acer,58000,62,Poor,512,HDD,4,Core i5/Ryzen 5,Integrated,17.3,77,5700
+Lenovo,149000,31,Good,2048,HDD,8,Core i7/Ryzen 7,Integrated,15.6,96,75100
+MSI,173000,19,Like New,1024,SSD,8,Core i5/Ryzen 5,Dedicated,13.3,88,121800
+HP,174000,26,Good,512,HDD,32,Core i7/Ryzen 7,Dedicated,16.0,79,98100
+HP,120000,41,Fair,256,HDD,32,Core i7/Ryzen 7,Integrated,15.6,84,37600
+HP,144000,50,Good,2048,SSD,4,Core i3/Ryzen 3,Dedicated,15.6,79,40300
+Apple,189000,61,Fair,256,SSD,16,Apple M-series,Integrated,16.0,76,60500
+Dell,92000,14,Like New,512,SSD,8,Core i5/Ryzen 5,Integrated,15.6,94,72500
+HP,133000,37,Poor,1024,HDD,32,Core i7/Ryzen 7,Integrated,13.3,85,37400
+Apple,199000,13,Good,512,SSD,32,Apple M-series,Integrated,16.0,94,178700
+Acer,127000,67,Fair,256,SSD,16,Core i5/Ryzen 5,Dedicated,15.6,78,18100
+Apple,171000,59,Fair,1024,SSD,16,Apple M-series,Integrated,13.3,79,54000
+Apple,157000,12,Like New,256,SSD,8,Apple M-series,Integrated,13.3,95,127300
+Asus,95000,53,Good,256,SSD,8,Core i5/Ryzen 5,Integrated,16.0,86,21100
+Apple,223000,27,Good,2048,SSD,32,Apple M-series,Integrated,16.0,98,173500
+Acer,101000,44,Fair,1024,HDD,16,Core i3/Ryzen 3,Dedicated,16.0,89,22400
+Lenovo,97000,31,Like New,512,HDD,32,Core i3/Ryzen 3,Integrated,13.3,82,44400
+Apple,217000,68,Fair,256,SSD,32,Apple M-series,Dedicated,16.0,70,66100
+Lenovo,180000,47,Fair,1024,SSD,32,Core i5/Ryzen 5,Dedicated,13.3,80,60400
+Lenovo,53000,60,Poor,256,HDD,16,Core i3/Ryzen 3,Integrated,15.6,77,6900
+Asus,180000,55,Good,2048,SSD,8,Core i3/Ryzen 3,Dedicated,14.0,78,46700
+Asus,142000,37,Fair,512,SSD,32,Core i7/Ryzen 7,Integrated,16.0,85,52800
+Lenovo,151000,44,Fair,256,HDD,32,Core i5/Ryzen 5,Dedicated,15.6,83,46100
+Lenovo,160000,56,Fair,256,SSD,8,Core i5/Ryzen 5,Dedicated,17.3,69,34500
+Dell,118000,3,Good,1024,HDD,8,Core i5/Ryzen 5,Dedicated,17.3,92,97600
+Lenovo,102000,21,Fair,512,HDD,8,Core i7/Ryzen 7,Integrated,14.0,89,48600
+MSI,184000,6,Fair,256,SSD,32,Core i5/Ryzen 5,Dedicated,16.0,95,156200
+Lenovo,144000,9,Like New,1024,SSD,16,Core i3/Ryzen 3,Dedicated,15.6,97,136800
+Lenovo,127000,49,Good,256,SSD,4,Core i3/Ryzen 3,Dedicated,17.3,81,37400
+HP,133000,44,Fair,1024,HDD,32,Core i3/Ryzen 3,Dedicated,13.3,87,39100
+Asus,115000,55,Fair,512,HDD,32,Core i3/Ryzen 3,Integrated,17.3,83,20800
+MSI,232000,28,Good,256,SSD,16,Core i7/Ryzen 7,Dedicated,17.3,94,113400
+Apple,236000,27,Like New,1024,SSD,16,Apple M-series,Dedicated,13.3,87,200800
+Dell,142000,38,Good,256,SSD,8,Core i5/Ryzen 5,Dedicated,14.0,84,57300
+HP,119000,26,Good,512,SSD,32,Core i5/Ryzen 5,Integrated,14.0,94,59700
+HP,75000,34,Like New,512,SSD,4,Core i5/Ryzen 5,Integrated,13.3,84,33500
+Lenovo,156000,3,Fair,1024,SSD,16,Core i5/Ryzen 5,Dedicated,14.0,92,147400
+Apple,203000,39,Good,1024,SSD,8,Apple M-series,Dedicated,16.0,80,121000
+HP,43000,12,Good,512,HDD,8,Core i3/Ryzen 3,Integrated,13.3,96,25300
+Lenovo,102000,32,Like New,1024,SSD,8,Core i3/Ryzen 3,Integrated,17.3,90,46200
+Lenovo,120000,36,Good,2048,HDD,16,Core i5/Ryzen 5,Integrated,17.3,86,50700
+Lenovo,49000,70,Good,512,HDD,8,Core i5/Ryzen 5,Integrated,13.3,72,8000
+Lenovo,97000,35,Like New,256,HDD,16,Core i5/Ryzen 5,Integrated,14.0,77,41100
+Lenovo,134000,8,Good,2048,HDD,32,Core i3/Ryzen 3,Integrated,16.0,98,102200
+Asus,128000,70,Fair,256,HDD,16,Core i3/Ryzen 3,Dedicated,13.3,74,16100
+Lenovo,157000,62,Good,2048,SSD,4,Core i7/Ryzen 7,Integrated,14.0,64,34700
+HP,112000,55,Good,256,SSD,8,Core i7/Ryzen 7,Integrated,13.3,80,25600
+Lenovo,126000,59,Good,256,HDD,4,Core i7/Ryzen 7,Dedicated,15.6,79,28700
+Apple,197000,16,Fair,512,SSD,16,Apple M-series,Integrated,16.0,93,146500
+Dell,145000,18,Good,2048,SSD,16,Core i7/Ryzen 7,Integrated,14.0,95,109700
+HP,138000,64,Like New,2048,HDD,4,Core i7/Ryzen 7,Integrated,17.3,77,32500
+Acer,144000,31,Good,2048,SSD,8,Core i7/Ryzen 7,Dedicated,13.3,89,69100
+Lenovo,114000,46,Poor,2048,HDD,32,Core i5/Ryzen 5,Integrated,14.0,77,26900
+Apple,241000,27,Good,1024,SSD,8,Apple M-series,Dedicated,16.0,88,171900
+Lenovo,144000,46,Poor,256,SSD,8,Core i5/Ryzen 5,Dedicated,13.3,79,31500
+Dell,151000,4,Like New,512,SSD,32,Core i5/Ryzen 5,Integrated,14.0,100,143400
+Lenovo,111000,48,Fair,256,SSD,16,Core i5/Ryzen 5,Integrated,15.6,81,27600
+Asus,149000,51,Fair,1024,HDD,8,Core i5/Ryzen 5,Dedicated,15.6,71,31000
+Lenovo,137000,12,Good,1024,SSD,8,Core i5/Ryzen 5,Dedicated,13.3,89,116300
+Lenovo,120000,53,Fair,512,SSD,32,Core i3/Ryzen 3,Integrated,13.3,85,27500
+Dell,188000,35,Good,2048,SSD,32,Core i3/Ryzen 3,Dedicated,13.3,89,93600
+HP,51000,19,Like New,256,HDD,4,Core i5/Ryzen 5,Integrated,17.3,91,29300
+Acer,82000,22,Good,256,HDD,4,Core i3/Ryzen 3,Dedicated,13.3,89,35100
+Lenovo,69000,18,Fair,256,HDD,8,Core i3/Ryzen 3,Integrated,15.6,100,31400
+HP,173000,46,Good,2048,SSD,16,Core i5/Ryzen 5,Dedicated,16.0,73,66800
+Dell,88000,12,Like New,512,HDD,16,Core i3/Ryzen 3,Integrated,13.3,93,62700
+Apple,171000,63,Fair,256,SSD,32,Apple M-series,Integrated,13.3,75,51300
+Apple,215000,3,Like New,2048,SSD,8,Apple M-series,Integrated,16.0,96,204200
+Apple,250000,38,Fair,512,SSD,32,Apple M-series,Dedicated,13.3,88,126400
+Dell,84000,67,Fair,256,HDD,8,Core i3/Ryzen 3,Dedicated,16.0,73,12100
+MSI,240000,10,Like New,2048,SSD,32,Core i5/Ryzen 5,Dedicated,14.0,100,228000
+HP,77000,67,Good,256,HDD,4,Core i3/Ryzen 3,Dedicated,15.6,72,11600
+Dell,28000,34,Like New,256,HDD,8,Core i3/Ryzen 3,Integrated,14.0,85,10700
+Apple,220000,51,Fair,1024,SSD,8,Apple M-series,Dedicated,14.0,72,89400
+Dell,126000,48,Like New,2048,SSD,32,Core i3/Ryzen 3,Integrated,14.0,81,46100
+Asus,210000,29,Good,2048,SSD,8,Core i7/Ryzen 7,Dedicated,15.6,89,123300
+HP,134000,43,Fair,1024,SSD,32,Core i5/Ryzen 5,Integrated,13.3,76,43300
+Asus,141000,32,Fair,2048,HDD,16,Core i5/Ryzen 5,Dedicated,13.3,80,53800
+Asus,78000,61,Fair,1024,HDD,8,Core i5/Ryzen 5,Integrated,17.3,78,12800
+Apple,199000,44,Fair,512,SSD,16,Apple M-series,Integrated,16.0,81,84300
+Lenovo,60000,58,Good,512,HDD,16,Core i3/Ryzen 3,Integrated,14.0,75,12100
+MSI,215000,53,Like New,2048,SSD,32,Core i5/Ryzen 5,Dedicated,14.0,80,65200
+HP,136000,70,Like New,512,SSD,32,Core i3/Ryzen 3,Dedicated,15.6,73,28300
+Apple,189000,6,Like New,1024,SSD,8,Apple M-series,Integrated,13.3,94,179600
+Acer,78000,35,Good,512,SSD,16,Core i5/Ryzen 5,Integrated,16.0,81,30200
+Acer,101000,45,Poor,1024,SSD,4,Core i5/Ryzen 5,Dedicated,17.3,88,19800
+HP,91000,16,Good,1024,SSD,16,Core i3/Ryzen 3,Integrated,15.6,100,63900
+HP,178000,5,Like New,256,SSD,32,Core i5/Ryzen 5,Dedicated,14.0,97,169100
+Dell,176000,39,Fair,2048,SSD,4,Core i7/Ryzen 7,Dedicated,16.0,87,69700
+Asus,169000,65,Good,1024,SSD,32,Core i7/Ryzen 7,Integrated,14.0,72,35100
+HP,122000,6,Fair,2048,SSD,16,Core i5/Ryzen 5,Integrated,15.6,87,91800
